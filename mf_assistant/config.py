@@ -45,6 +45,16 @@ SOURCES_CSV_PATH = REPO_ROOT / "sources.csv"         # deliverable: every source
 
 # Offline outputs (index), loaded by the online app
 FAISS_INDEX_DIR = DATA_DIR / "index" / "faiss"
+INDEX_INFO_PATH = DATA_DIR / "index" / "index_info.json"
+CHUNKS_PATH = DATA_DIR / "index" / "chunks.jsonl"  # exactly what gets embedded (readable)
+
+# === CHUNKING (sizes in tokens, measured with the embedding model's tokenizer) ===
+TOKENIZER = "cl100k_base"     # tokenizer used by text-embedding-3-small
+CHUNK_MAX_TOKENS = 400        # a document at or under this stays one chunk
+CHUNK_TARGET_TOKENS = 350     # size to aim for when a document must be split
+CHUNK_OVERLAP_TOKENS = 50     # overlap between consecutive prose chunks
+GLOSSARY_MIN_ROWS = 30        # a 2-column table this long is split one row (term) per chunk
+EMBED_BATCH_SIZE = 100        # chunks per embeddings API call
 
 # === MODELS ===
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
