@@ -15,6 +15,9 @@ Built for Milestone 1 ("Mutual Fund FAQs, facts-only Q&A") of the [RAG assignmen
 **Live app: https://ppfas-facts-assistant-25ej4ewnf9th28lhfj7pvr.streamlit.app/** (the first question after a
 period of inactivity takes ~30 s while the app wakes up and loads its knowledge base).
 
+**Coursebook: https://claude.ai/artifact/DD9c8cwE8c381xDfKrbkjB**: a teaching-style walkthrough of the whole
+project (context, RAG concepts, phase-by-phase build log, code walkthrough, toolbox, limitations and next steps).
+
 ## Scope
 
 | | |
