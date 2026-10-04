@@ -45,7 +45,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How do I update my mobile number and email id used for OTP verification?",
-    "text": "Loading...\nThe email id and mobile number shown are based on the information provided by the fund house to Groww.\n\nYou might not see the latest details here if:\n1. You have updated details on Groww later on\n2. You have tracked the fund from elsewhere with different details\n3. Some other issue due to which details weren't captured accurately at the fund house's end\n\nIf you think the details are incorrect or those details are no longer used by you, you can update your email id or mobile number linked to your mutual fund investments by sharing a signed form with Groww or the fund house (AMC).\n\nReach out to us and we will share the relevant forms to be signed.\n\nWe will use the updated details shared by you via form for any investment in a new fund."
+    "text": "The email id and mobile number shown are based on the information provided by the fund house to Groww.\n\nYou might not see the latest details here if:\n1. You have updated details on Groww later on\n2. You have tracked the fund from elsewhere with different details\n3. Some other issue due to which details weren't captured accurately at the fund house's end\n\nIf you think the details are incorrect or those details are no longer used by you, you can update your email id or mobile number linked to your mutual fund investments by sharing a signed form with Groww or the fund house (AMC).\n\nReach out to us and we will share the relevant forms to be signed.\n\nWe will use the updated details shared by you via form for any investment in a new fund."
   },
   {
     "doc_type": "help_faq",
@@ -53,7 +53,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How is the next step-up date calculated?",
-    "text": "Loading...\nThe next step-up date is determined by adding the specified period, like 6 months or 1 year, to the date you set the step-up request. Here's how it works:\n\n**Example:** If you have an existing SIP of ₹1000 and you set a step-up of ₹100 on 26th July 2024 with an annual frequency, your next step-up will occur on 26th July 2025. On this date, your SIP amount will increase by the step-up amount, making your new SIP ₹1100.\n\nSo, the next step-up date is simply the same date in the next year (or 6 months later) from when you set the step-up request."
+    "text": "The next step-up date is determined by adding the specified period, like 6 months or 1 year, to the date you set the step-up request. Here's how it works:\n\n**Example:** If you have an existing SIP of ₹1000 and you set a step-up of ₹100 on 26th July 2024 with an annual frequency, your next step-up will occur on 26th July 2025. On this date, your SIP amount will increase by the step-up amount, making your new SIP ₹1100.\n\nSo, the next step-up date is simply the same date in the next year (or 6 months later) from when you set the step-up request."
   },
   {
     "doc_type": "help_faq",
@@ -85,7 +85,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "I haven't received the OTP even after trying multiple times. How can I place the cart bulk order?",
-    "text": "```\nMake sure to check both your email ID and mobile number. There may be some issue with the message service provider or your network due to which the OTP is not getting delivered to your mobile number at the moment. Please try again after some time.\n```"
+    "text": "Make sure to check both your email ID and mobile number. There may be some issue with the message service provider or your network due to which the OTP is not getting delivered to your mobile number at the moment. Please try again after some time."
   },
   {
     "doc_type": "help_faq",
@@ -93,7 +93,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "I haven't received the OTP even after trying multiple times. How can I place the edit SIP request?",
-    "text": "Loading...\n```\n1. Make sure you have checked both your email ID and mobile number if the OTP is received on any one of them.\n2. There might be some issue with the message service provider or your network due to which the OTP is not getting delivered to your mobile number at the moment. Please try again after some time.\n```"
+    "text": "1. Make sure you have checked both your email ID and mobile number if the OTP is received on any one of them.\n2. There might be some issue with the message service provider or your network due to which the OTP is not getting delivered to your mobile number at the moment. Please try again after some time."
   },
   {
     "doc_type": "help_faq",
@@ -101,7 +101,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "I haven't received the OTP even after trying multiple times. How can I place the import funds request?",
-    "text": "Loading...\n```\nThere might be some issue with the MF Central or your service provider due to which the OTP is not getting delivered to your phone number at the moment. Please try again after some time. If the Phone number does not belong to you anymore you can place an update request to our support team.\n```"
+    "text": "There might be some issue with the MF Central or your service provider due to which the OTP is not getting delivered to your phone number at the moment. Please try again after some time. If the Phone number does not belong to you anymore you can place an update request to our support team."
   },
   {
     "doc_type": "help_faq",
@@ -109,7 +109,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "I haven't received the OTP even after trying multiple times. How can I place the one-time order?",
-    "text": "Loading...\n```\n1. Make sure you have checked both your email ID and mobile number if the OTP is received on any one of them.\n2. There might be some issue with the message service provider or your network due to which the OTP is not getting delivered to your mobile number at the moment. Please try again after some time.\n```"
+    "text": "1. Make sure you have checked both your email ID and mobile number if the OTP is received on any one of them.\n2. There might be some issue with the message service provider or your network due to which the OTP is not getting delivered to your mobile number at the moment. Please try again after some time."
   },
   {
     "doc_type": "help_faq",
@@ -117,7 +117,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "What to do if I haven't received the OTP even after trying multiple times?",
-    "text": "Loading...\nIf you're not getting the OTP, try these steps:\n* **Check Email and Phone:** Make sure you've checked both your email and phone, as the OTP might be sent to either one.\n* **Network Issues:** There might be a delay due to network or service provider issues. Please try again after some time.\n* **Update Contact Details:** If your mobile number or email has changed, contact our support team to update your details."
+    "text": "If you're not getting the OTP, try these steps:\n* **Check Email and Phone:** Make sure you've checked both your email and phone, as the OTP might be sent to either one.\n* **Network Issues:** There might be a delay due to network or service provider issues. Please try again after some time.\n* **Update Contact Details:** If your mobile number or email has changed, contact our support team to update your details."
   },
   {
     "doc_type": "help_faq",
@@ -125,7 +125,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "I haven't received the OTP even after trying multiple times. How can I place the SIP order?",
-    "text": "Loading...\n```\nMake sure to check both your email ID and mobile number. There may be some issue with the message service provider or your network due to which the OTP is not getting delivered to your mobile number at the moment. Please try again after some time.\n```"
+    "text": "Make sure to check both your email ID and mobile number. There may be some issue with the message service provider or your network due to which the OTP is not getting delivered to your mobile number at the moment. Please try again after some time."
   },
   {
     "doc_type": "help_faq",
@@ -133,7 +133,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "I haven't received the OTP even after trying multiple times. How can I place the step-up request?",
-    "text": "Loading...\n```\n1. Make sure you have checked both your email ID and mobile number if the OTP is received on any one of them.\n2. There might be some issue with the message service provider or your network due to which the OTP is not getting delivered to your mobile number at the moment. Please try again after some time.\n```"
+    "text": "1. Make sure you have checked both your email ID and mobile number if the OTP is received on any one of them.\n2. There might be some issue with the message service provider or your network due to which the OTP is not getting delivered to your mobile number at the moment. Please try again after some time."
   },
   {
     "doc_type": "help_faq",
@@ -141,7 +141,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "I haven't received the OTP even after trying multiple times. How can I place the upgrade autopay request?",
-    "text": "Loading...\n```\n1. Make sure you have checked both your email ID and mobile number if the OTP is received on any one of them.\n2. There might be some issue with the message service provider or your network due to which the OTP is not getting delivered to your mobile number at the moment. Please try again after some time.\n```"
+    "text": "1. Make sure you have checked both your email ID and mobile number if the OTP is received on any one of them.\n2. There might be some issue with the message service provider or your network due to which the OTP is not getting delivered to your mobile number at the moment. Please try again after some time."
   },
   {
     "doc_type": "help_faq",
@@ -173,7 +173,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "What is a Step-Up SIP?",
-    "text": "Loading...\nA Step-Up SIP (Systematic Investment Plan) lets you automatically increase your SIP amount after a set period, like every 6 or 12 months.\n\n**Example:** If your current SIP is Rs. 1000 and you choose to step up by Rs. 100 every 12 months, after one year, your SIP will increase to Rs. 1100. After the second year, it will be Rs. 1200, and so on, increasing by Rs. 100 each year.\n\n**Why choose Step-Up SIP?**\n* **Gradual Increase:** It helps you gradually increase your investment, potentially boosting your returns over time.\n* **Compounding Benefits:** You invest more over time, benefiting from compounding without having to remember to increase your SIP manually."
+    "text": "A Step-Up SIP (Systematic Investment Plan) lets you automatically increase your SIP amount after a set period, like every 6 or 12 months.\n\n**Example:** If your current SIP is Rs. 1000 and you choose to step up by Rs. 100 every 12 months, after one year, your SIP will increase to Rs. 1100. After the second year, it will be Rs. 1200, and so on, increasing by Rs. 100 each year.\n\n**Why choose Step-Up SIP?**\n* **Gradual Increase:** It helps you gradually increase your investment, potentially boosting your returns over time.\n* **Compounding Benefits:** You invest more over time, benefiting from compounding without having to remember to increase your SIP manually."
   },
   {
     "doc_type": "help_faq",
@@ -197,7 +197,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Where can I see information about upcoming NFOs?",
-    "text": "Loading...\nYou can find **NFOs** open on Groww by following these steps:\n\n1. Go to the 'Mutual Funds' section on the homepage.\n2. Make sure you are in the 'Explore' tab.\n3. Scroll down a bit and tap on 'NFO Live' under the 'Quick Access' section.\n4. In the NFO section, you will find a list of NFOs open now and details of recently closed NFOs.\n\n**You can also go directly to the NFO section by tapping the 'NFO' button below.**"
+    "text": "You can find **NFOs** open on Groww by following these steps:\n\n1. Go to the 'Mutual Funds' section on the homepage.\n2. Make sure you are in the 'Explore' tab.\n3. Scroll down a bit and tap on 'NFO Live' under the 'Quick Access' section.\n4. In the NFO section, you will find a list of NFOs open now and details of recently closed NFOs.\n\n**You can also go directly to the NFO section by tapping the 'NFO' button below.**"
   },
   {
     "doc_type": "help_faq",
@@ -229,7 +229,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Why do I need to do OTP verification for cart bulk order?",
-    "text": "Loading...\n```\nAs per SEBI regulations, all mutual fund purchase orders need an OTP verification by the account holder. This is a one-time process at the time of SIP set-up and it will not affect your subsequent SIP installments.\n```"
+    "text": "As per SEBI regulations, all mutual fund purchase orders need an OTP verification by the account holder. This is a one-time process at the time of SIP set-up and it will not affect your subsequent SIP installments."
   },
   {
     "doc_type": "help_faq",
@@ -237,7 +237,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Why do I need to do OTP verification for edit SIP request?",
-    "text": "```\nAs per SEBI regulations, all mutual fund change requests need to have OTP verification done by the account holder.\n```"
+    "text": "As per SEBI regulations, all mutual fund change requests need to have OTP verification done by the account holder."
   },
   {
     "doc_type": "help_faq",
@@ -245,7 +245,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Why do I need to do OTP verification for SIP order?",
-    "text": "```\nAs per SEBI regulations, all mutual fund purchase orders need an OTP verification by the account holder. This is a one-time process at the time of SIP set-up and it will not affect your subsequent SIP installments.\n```"
+    "text": "As per SEBI regulations, all mutual fund purchase orders need an OTP verification by the account holder. This is a one-time process at the time of SIP set-up and it will not affect your subsequent SIP installments."
   },
   {
     "doc_type": "help_faq",
@@ -253,7 +253,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Why do I need to do OTP verification for step-up request?",
-    "text": "```\nAs per SEBI regulations, all mutual fund change requests need to have OTP verification done by the account holder. This is a one-time process at the time of set-up and it will not affect your subsequent step-ups.\n```"
+    "text": "As per SEBI regulations, all mutual fund change requests need to have OTP verification done by the account holder. This is a one-time process at the time of set-up and it will not affect your subsequent step-ups."
   },
   {
     "doc_type": "help_faq",
@@ -261,7 +261,7 @@
     "topic": "discoverable",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Why do I need to do OTP verification for upgrade autopay request?",
-    "text": "```\nAs per SEBI regulations, all mutual funds change requests need to have OTP verification done by the account holder.\n```"
+    "text": "As per SEBI regulations, all mutual funds change requests need to have OTP verification done by the account holder."
   },
   {
     "doc_type": "help_faq",
@@ -293,7 +293,7 @@
     "topic": "mf-autopay",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How to add AutoPay using OTP for my SIPs?",
-    "text": "Loading...\nSetting up AutoPay with OTP for your monthly SIPs is easy. Here's how you can do it:\n1. Go to the 'Bank & Autopay' section in your profile.\n2. Click on the bank where you want to set up AutoPay.\n3. Tap on 'SETUP AUTOPAY'.\n4. Review the information on the redirected page, check the box, and proceed.\n5. Authorize your details on the bank page and wait for confirmation.\n\n**Note:**\n* Make sure you have your net banking or debit card details ready to complete the setup.\n* AutoPay via OTP takes about 2-5 business days to be approved by the bank."
+    "text": "Setting up AutoPay with OTP for your monthly SIPs is easy. Here's how you can do it:\n1. Go to the 'Bank & Autopay' section in your profile.\n2. Click on the bank where you want to set up AutoPay.\n3. Tap on 'SETUP AUTOPAY'.\n4. Review the information on the redirected page, check the box, and proceed.\n5. Authorize your details on the bank page and wait for confirmation.\n\n**Note:**\n* Make sure you have your net banking or debit card details ready to complete the setup.\n* AutoPay via OTP takes about 2-5 business days to be approved by the bank."
   },
   {
     "doc_type": "help_faq",
@@ -301,7 +301,7 @@
     "topic": "mf-autopay",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How do I change my primary bank account in Groww and set up a new AutoPay?",
-    "text": "Loading...\nTo change your primary bank account and set up a new AutoPay, please follow these steps:\n\n1. Click your profile icon at the top right to access your profile.\n\n2. Tap on 'Banks & Mandates'.\n\n3. To auto-fetch bank details, select one of the UPI options and tap 'Continue', or lick 'Add Another Bank' at the bottom.\n\n4. Search for your bank.\n\n5. Enter your branch address.\n\n6. Provide your new bank account number and click 'Verify Bank'.\n\n7. Once verified, click the three dots next to the bank name and select 'Make Primary Bank Account'.\n\n8. Then, select the new bank and click 'Set Up AutoPay'.\n\n9. Follow the prompts and have your net banking or debit card ready.\n\nNote: Approval for AutoPay may take 3-4 working days.\n\nClick the button below to access the 'BANKS & MANDATES' section directly."
+    "text": "To change your primary bank account and set up a new AutoPay, please follow these steps:\n\n1. Click your profile icon at the top right to access your profile.\n\n2. Tap on 'Banks & Mandates'.\n\n3. To auto-fetch bank details, select one of the UPI options and tap 'Continue', or lick 'Add Another Bank' at the bottom.\n\n4. Search for your bank.\n\n5. Enter your branch address.\n\n6. Provide your new bank account number and click 'Verify Bank'.\n\n7. Once verified, click the three dots next to the bank name and select 'Make Primary Bank Account'.\n\n8. Then, select the new bank and click 'Set Up AutoPay'.\n\n9. Follow the prompts and have your net banking or debit card ready.\n\nNote: Approval for AutoPay may take 3-4 working days.\n\nClick the button below to access the 'BANKS & MANDATES' section directly."
   },
   {
     "doc_type": "help_faq",
@@ -309,7 +309,7 @@
     "topic": "mf-autopay",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How do I set up AutoPay?",
-    "text": "Loading...\nTo set up AutoPay:\n1. Click your profile icon in the top right, then select ‘Bank and AutoPay’. (Or use the button below to go directly to ‘Bank and AutoPay’.)\n2. Choose the bank account for AutoPay.\n3. Click ‘Set Up AutoPay’.\n4. Follow the instructions and have your net banking/debit card ready.\n\nNote: AutoPay setup takes 2-7 working days to be approved by the bank."
+    "text": "To set up AutoPay:\n1. Click your profile icon in the top right, then select ‘Bank and AutoPay’. (Or use the button below to go directly to ‘Bank and AutoPay’.)\n2. Choose the bank account for AutoPay.\n3. Click ‘Set Up AutoPay’.\n4. Follow the instructions and have your net banking/debit card ready.\n\nNote: AutoPay setup takes 2-7 working days to be approved by the bank."
   },
   {
     "doc_type": "help_faq",
@@ -341,7 +341,7 @@
     "topic": "mf-dashboard",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How do I import my external mutual fund investments?",
-    "text": "Loading...\nTo import your external mutual funds:\n1. Go to the home screen section.\n2. Under the 'Mutual Fund' tab, tap on 'Explore'.\n3. Scroll down and tap on 'Import Funds' under the 'Quick Access' section.\n4. Enter the OTP sent to you by MF Central.\n\nYour mutual funds will be imported, and the dashboard will update automatically within 10-15 minutes.\n\nYou can click the button below 'IMPORT EXTERNAL MF' to directly import your funds."
+    "text": "To import your external mutual funds:\n1. Go to the home screen section.\n2. Under the 'Mutual Fund' tab, tap on 'Explore'.\n3. Scroll down and tap on 'Import Funds' under the 'Quick Access' section.\n4. Enter the OTP sent to you by MF Central.\n\nYour mutual funds will be imported, and the dashboard will update automatically within 10-15 minutes.\n\nYou can click the button below 'IMPORT EXTERNAL MF' to directly import your funds."
   },
   {
     "doc_type": "help_faq",
@@ -357,7 +357,7 @@
     "topic": "mf-dashboard",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "My mutual funds NAV is not updated.",
-    "text": "Loading...\nNAV is updated every day after market hours from Monday to Friday. So, Mutual fund NAVs based on the value on the previous date.\n\nFor example, on 3rd May, the NAV value that you see will be of 2nd May. And 3rd May's NAV will be updated after market hours on 3rd May. So during the day, on 3rd May, you will see the NAV of 2nd May.\n\nIt is not updated on Saturday and Sunday since they are holidays. Some special mutual funds' (FoF) NAVs are updated once a week.\n\nIf you are sure your mutual fund's NAV is not being updated, please reach out to us."
+    "text": "NAV is updated every day after market hours from Monday to Friday. So, Mutual fund NAVs based on the value on the previous date.\n\nFor example, on 3rd May, the NAV value that you see will be of 2nd May. And 3rd May's NAV will be updated after market hours on 3rd May. So during the day, on 3rd May, you will see the NAV of 2nd May.\n\nIt is not updated on Saturday and Sunday since they are holidays. Some special mutual funds' (FoF) NAVs are updated once a week.\n\nIf you are sure your mutual fund's NAV is not being updated, please reach out to us."
   },
   {
     "doc_type": "help_faq",
@@ -365,7 +365,7 @@
     "topic": "mf-dashboard",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "What happens if I pay after date shown on pending SIP?",
-    "text": "Loading...\nIf you pay after the date shown for your pending SIP, the installment is automatically considered failed. So, it's best to make the payment as soon as it appears on your dashboard.\n\nIf you miss the installment but still want to invest in that mutual fund, you can follow these steps:\n\n1. Open the 'DASHBOARD'.\n2. Select the fund you want to invest in.\n3. Choose 'ONE-TIME'.\n4. Enter the amount.\n5. Make the payment and proceed."
+    "text": "If you pay after the date shown for your pending SIP, the installment is automatically considered failed. So, it's best to make the payment as soon as it appears on your dashboard.\n\nIf you miss the installment but still want to invest in that mutual fund, you can follow these steps:\n\n1. Open the 'DASHBOARD'.\n2. Select the fund you want to invest in.\n3. Choose 'ONE-TIME'.\n4. Enter the amount.\n5. Make the payment and proceed."
   },
   {
     "doc_type": "help_faq",
@@ -397,7 +397,7 @@
     "topic": "mf-others",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How do I pay for SIPs in bulk?",
-    "text": "Loading...\nTo pay for SIPs in bulk:\n\n1. Go to the mutual funds explore page.\n2. Select or search for a fund.\n3. Click 'Start SIP' or 'One-time' on the fund page.\n4. Enter the amount.\n5. Click 'Add to Cart.'\n6. Repeat for additional funds.\n7. Enter the 6-digit OTP received via email/phone.\n8. Complete the payment.\n\nNote: You can also pay for SIPs in bulk while setting them up."
+    "text": "To pay for SIPs in bulk:\n\n1. Go to the mutual funds explore page.\n2. Select or search for a fund.\n3. Click 'Start SIP' or 'One-time' on the fund page.\n4. Enter the amount.\n5. Click 'Add to Cart.'\n6. Repeat for additional funds.\n7. Enter the 6-digit OTP received via email/phone.\n8. Complete the payment.\n\nNote: You can also pay for SIPs in bulk while setting them up."
   },
   {
     "doc_type": "help_faq",
@@ -405,7 +405,7 @@
     "topic": "mf-others",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How do I start a lumpsum (one-time) investment on Groww?",
-    "text": "Loading...\nTo start a lumpsum (one-time) investment on Groww:\n\n1. Tap the 'Mutual Funds' tab at the bottom.\n2. Click 'Explore Mutual Funds' at the top.\n3. Search or select a mutual fund.\n4. Click 'One-time' on the fund page.\n5. Enter the amount.\n6. Check your phone/email for a 6-digit code.\n7. Make the payment.\n\nFor more details, press \"EXPLORE MUTUAL FUNDS\" below."
+    "text": "To start a lumpsum (one-time) investment on Groww:\n\n1. Tap the 'Mutual Funds' tab at the bottom.\n2. Click 'Explore Mutual Funds' at the top.\n3. Search or select a mutual fund.\n4. Click 'One-time' on the fund page.\n5. Enter the amount.\n6. Check your phone/email for a 6-digit code.\n7. Make the payment.\n\nFor more details, press \"EXPLORE MUTUAL FUNDS\" below."
   },
   {
     "doc_type": "help_faq",
@@ -429,7 +429,7 @@
     "topic": "mf-others",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "What is NFO?",
-    "text": "Loading...\nNFO stands for New Fund Offer and is basically a new mutual fund.\nEvery mutual fund starts its life as an NFO.\n\nThere is a subscription period during which investors can invest in the NFO.\nA week after the closing of the subscription period, the NFO becomes a mutual fund\nthat is open to all for investment."
+    "text": "NFO stands for New Fund Offer and is basically a new mutual fund.\nEvery mutual fund starts its life as an NFO.\n\nThere is a subscription period during which investors can invest in the NFO.\nA week after the closing of the subscription period, the NFO becomes a mutual fund\nthat is open to all for investment."
   },
   {
     "doc_type": "help_faq",
@@ -453,7 +453,7 @@
     "topic": "mf-sip",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How do I pay a missed SIP installment?",
-    "text": "Loading...\nIf you missed a SIP installment, it might be because your account didn't have enough balance at the time of deduction or your SIP isn't linked to an approved AutoPay. Here's how you can handle it:\n\n**One-Time Investment:**\n1. On your home screen, go to your mutual fund 'Dashboard'.\n2. Tap on the mutual fund where you missed the SIP payment.\n3. Choose 'ONE-TIME' and make the payment for this month.\n\n**Note:\n**\n* In some funds, one-time investments may not be possible.\n* If your SIP failed due to insufficient balance, you'll see a 'Pay Now' option on the dashboard to pay the missed SIP. This option will be available for 2 working days."
+    "text": "If you missed a SIP installment, it might be because your account didn't have enough balance at the time of deduction or your SIP isn't linked to an approved AutoPay. Here's how you can handle it:\n\n**One-Time Investment:**\n1. On your home screen, go to your mutual fund 'Dashboard'.\n2. Tap on the mutual fund where you missed the SIP payment.\n3. Choose 'ONE-TIME' and make the payment for this month.\n\n**Note:\n**\n* In some funds, one-time investments may not be possible.\n* If your SIP failed due to insufficient balance, you'll see a 'Pay Now' option on the dashboard to pay the missed SIP. This option will be available for 2 working days."
   },
   {
     "doc_type": "help_faq",
@@ -461,7 +461,7 @@
     "topic": "mf-sip",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How do I pay for my SIP installment if the autopay debit has failed?",
-    "text": "Loading...\nIf your automatic payment for your SIP investment doesn't go through, it could be because of two common reasons: not enough money in your account or your bank's payment system. To fix it:\n\n1. Go to your dashboard.\n2. Locate the pending SIP payment.\n3. Click 'Pay' and choose your payment method."
+    "text": "If your automatic payment for your SIP investment doesn't go through, it could be because of two common reasons: not enough money in your account or your bank's payment system. To fix it:\n\n1. Go to your dashboard.\n2. Locate the pending SIP payment.\n3. Click 'Pay' and choose your payment method."
   },
   {
     "doc_type": "help_faq",
@@ -477,7 +477,7 @@
     "topic": "mf-sip",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How can I cancel an ongoing SIP?",
-    "text": "Loading...\nTo cancel your ongoing SIP, follow these steps:\n\n1. On your home screen, navigate to the 'Mutual Funds' section.\n\n2. Select the ‘SIPs' tab at the top.\n\n3. Choose the SIP you want to cancel.\n\n4. Click on 'Cancel SIP' in the top right corner.\n\n5. Select your reason for cancellation.\n\n6. Confirm by clicking 'Cancel SIP' once more.\n\n**Note:**\n* You cannot cancel your SIP if the next installment is due within the next 7 days. The installment must be paid before you can cancel it.\n* Canceling the SIP will stop future installments, but your invested amount will remain as is until you redeem it.\n* Once you place the request to cancel the SIP, it cannot be undone. You can create a new SIP in the same fund, and the amount will be added to the investment.\n\nClick the 'SIPs' button below to go directly to the SIP section."
+    "text": "To cancel your ongoing SIP, follow these steps:\n\n1. On your home screen, navigate to the 'Mutual Funds' section.\n\n2. Select the ‘SIPs' tab at the top.\n\n3. Choose the SIP you want to cancel.\n\n4. Click on 'Cancel SIP' in the top right corner.\n\n5. Select your reason for cancellation.\n\n6. Confirm by clicking 'Cancel SIP' once more.\n\n**Note:**\n* You cannot cancel your SIP if the next installment is due within the next 7 days. The installment must be paid before you can cancel it.\n* Canceling the SIP will stop future installments, but your invested amount will remain as is until you redeem it.\n* Once you place the request to cancel the SIP, it cannot be undone. You can create a new SIP in the same fund, and the amount will be added to the investment.\n\nClick the 'SIPs' button below to go directly to the SIP section."
   },
   {
     "doc_type": "help_faq",
@@ -493,7 +493,7 @@
     "topic": "mf-sip",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How can I change my SIP date or amount?",
-    "text": "Loading...\nChanging your SIP date or amount is easy. Just follow these steps:\n\n1. Navigate to the 'Mutual Funds' section on your home screen.\n\n2. Select the SIPs tab at the top.\n\n3. Choose the SIP you wish to modify.\n\n4. Click 'Change Amount/Date'.\n\n5. Update the amount or date as needed, then click 'Save Changes'.\n\n6. Review your changes and click 'Confirm'.\n\nAlternatively, you can go to the 'SIPs' section under Mutual Funds and follow the same steps.\n\n**Note:** If your next instalment is within 2 working days, changes will apply only to future instalments.\n\nClick the button below to access the SIP section."
+    "text": "Changing your SIP date or amount is easy. Just follow these steps:\n\n1. Navigate to the 'Mutual Funds' section on your home screen.\n\n2. Select the SIPs tab at the top.\n\n3. Choose the SIP you wish to modify.\n\n4. Click 'Change Amount/Date'.\n\n5. Update the amount or date as needed, then click 'Save Changes'.\n\n6. Review your changes and click 'Confirm'.\n\nAlternatively, you can go to the 'SIPs' section under Mutual Funds and follow the same steps.\n\n**Note:** If your next instalment is within 2 working days, changes will apply only to future instalments.\n\nClick the button below to access the SIP section."
   },
   {
     "doc_type": "help_faq",
@@ -509,7 +509,7 @@
     "topic": "mf-sip",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How to skip an SIP installment?",
-    "text": "Loading...\nTo skip an SIP installment**.**\n**\n**\n1. Open your Mutual Funds dashboard, then click on ‘My SIPs’.\n2. Click on the SIP you want to skip.\n3. Click on 'Skip' against your upcoming installment\n\n4. Confirm the skip installment details.\n\nOn the next page, you will get confirmation and also the final date by which your request will be processed.\n\n**Note:**\n* Your SIP will be automatically cancelled if you skip or miss 3 installments in a row.\n* Your skip SIP request, If your next installment is within 2 days, will not apply to that installment and will only apply to the installments after that."
+    "text": "To skip an SIP installment**.**\n**\n**\n1. Open your Mutual Funds dashboard, then click on ‘My SIPs’.\n2. Click on the SIP you want to skip.\n3. Click on 'Skip' against your upcoming installment\n\n4. Confirm the skip installment details.\n\nOn the next page, you will get confirmation and also the final date by which your request will be processed.\n\n**Note:**\n* Your SIP will be automatically cancelled if you skip or miss 3 installments in a row.\n* Your skip SIP request, If your next installment is within 2 days, will not apply to that installment and will only apply to the installments after that."
   },
   {
     "doc_type": "help_faq",
@@ -517,7 +517,7 @@
     "topic": "mf-sip",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How can I start a SIP on Groww?",
-    "text": "Loading...\n**To start a SIP on Groww:**\n1. From the Home screen, go to the 'Mutual Funds' section.\n\n2. Click on 'Explore' at the top.\n\n3. Search for or select the mutual fund you want to invest in.\n\n4. Click on 'Start SIP.'\n\n5. Enter the amount.\n\n6. Select the date (when the amount will be deducted monthly).\n\n7. Pay via UPI or Netbanking.\n\n8. Don’t forget to add AutoPay via OTP or form for future installments.\n\n**Note:**\n\n1. The SIP can only be set up on a monthly basis. Weekly, bi-monthly, quarterly, and half-yearly SIP options are not available.\n\n2. When you set up a new SIP, the first month is often skipped because there needs to be a minimum of 30 days between the first and second installments.\n\nClick the button below to go directly to the '**Explore** ' tab in the Mutual Funds section."
+    "text": "**To start a SIP on Groww:**\n1. From the Home screen, go to the 'Mutual Funds' section.\n\n2. Click on 'Explore' at the top.\n\n3. Search for or select the mutual fund you want to invest in.\n\n4. Click on 'Start SIP.'\n\n5. Enter the amount.\n\n6. Select the date (when the amount will be deducted monthly).\n\n7. Pay via UPI or Netbanking.\n\n8. Don’t forget to add AutoPay via OTP or form for future installments.\n\n**Note:**\n\n1. The SIP can only be set up on a monthly basis. Weekly, bi-monthly, quarterly, and half-yearly SIP options are not available.\n\n2. When you set up a new SIP, the first month is often skipped because there needs to be a minimum of 30 days between the first and second installments.\n\nClick the button below to go directly to the '**Explore** ' tab in the Mutual Funds section."
   },
   {
     "doc_type": "help_faq",
@@ -525,7 +525,7 @@
     "topic": "mf-sip",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "SIP installment was deducted but the order is not reflected on the dashboard.",
-    "text": "Loading...\nTo ensure that your SIP order is placed with the exchange on the chosen date, your SIP amount is deducted one bank working day in advance. This way, you get the NAV as applicable on the order date. Rest assured, your order will show up under the 'Orders in progress' tab in your Dashboard on the SIP date.\n\nIf it has been over 2 working days since the date of deduction and your issue still persists, contact us using the button below. Our support team will do the needful."
+    "text": "To ensure that your SIP order is placed with the exchange on the chosen date, your SIP amount is deducted one bank working day in advance. This way, you get the NAV as applicable on the order date. Rest assured, your order will show up under the 'Orders in progress' tab in your Dashboard on the SIP date.\n\nIf it has been over 2 working days since the date of deduction and your issue still persists, contact us using the button below. Our support team will do the needful."
   },
   {
     "doc_type": "help_faq",
@@ -533,7 +533,7 @@
     "topic": "mf-sip",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "What is my order status?",
-    "text": "```\nTo check your order status:\n\n1. Open ‘All Orders’ using the button below.\n2. Click on the order of which you want to check the status.\n3. In the ‘Order Status’ section, you will be able to see the current status of your order\n```"
+    "text": "To check your order status:\n\n1. Open ‘All Orders’ using the button below.\n2. Click on the order of which you want to check the status.\n3. In the ‘Order Status’ section, you will be able to see the current status of your order"
   },
   {
     "doc_type": "help_faq",
@@ -589,7 +589,7 @@
     "topic": "mf-track-and-switch",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How do I generate my Consolidated Account Statement (CAS) from CAMS?",
-    "text": "Loading...\nTo get your CAS, follow these steps:\n1. Visit the official **CAMS website.**\n2. Click on 'MF Investor.'\n3. Select 'Statement' and then choose 'CAS - CAMS+KFintech.'\n4. Enter the following details:\n* Statement Type: Detailed\n* Period: Specific Period (From 1st Jan 1990 to the present date)\n* Folio Listing: With zero balance folios\n* Email ID: Linked to your investments\n* Password: PAN number in uppercase\n5. Submit the details.\n6. You'll receive your CAS via email from donotreply@camsonline.com in PDF format.\n\nYou can click on the 'CAMS' button below to go directly to the CAS - CAMS+KFintech page."
+    "text": "To get your CAS, follow these steps:\n1. Visit the official **CAMS website.**\n2. Click on 'MF Investor.'\n3. Select 'Statement' and then choose 'CAS - CAMS+KFintech.'\n4. Enter the following details:\n* Statement Type: Detailed\n* Period: Specific Period (From 1st Jan 1990 to the present date)\n* Folio Listing: With zero balance folios\n* Email ID: Linked to your investments\n* Password: PAN number in uppercase\n5. Submit the details.\n6. You'll receive your CAS via email from donotreply@camsonline.com in PDF format.\n\nYou can click on the 'CAMS' button below to go directly to the CAS - CAMS+KFintech page."
   },
   {
     "doc_type": "help_faq",
@@ -597,7 +597,7 @@
     "topic": "mf-track-and-switch",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How can I track my external funds on Groww?",
-    "text": "Loading...\nTo track your external funds on Groww, follow these steps:\n\n1. On your home screen, navigate to the 'Mutual Funds' section.\n\n2. Scroll down and tap on 'Track funds' under Quick Access.\n\n3. Enter the OTP sent to your mobile number.\n\n4. Tap 'Confirm'.\n\n5. Your funds will soon appear on your dashboard!\n\nClick the 'IMPORT' button below and enter the OTP to get the funds directly into your dashboard."
+    "text": "To track your external funds on Groww, follow these steps:\n\n1. On your home screen, navigate to the 'Mutual Funds' section.\n\n2. Scroll down and tap on 'Track funds' under Quick Access.\n\n3. Enter the OTP sent to your mobile number.\n\n4. Tap 'Confirm'.\n\n5. Your funds will soon appear on your dashboard!\n\nClick the 'IMPORT' button below and enter the OTP to get the funds directly into your dashboard."
   },
   {
     "doc_type": "help_faq",
@@ -653,7 +653,7 @@
     "topic": "mf-track-and-switch",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Why are my external funds missing from my dashboard?",
-    "text": "Loading...\nIf your external funds aren't showing up on your dashboard, here are a few things you can check:\n\n**Verify Your CAS:**\nMake sure the schemes and units in your uploaded Consolidated Account Statement (CAS) match those in the CAS provided by CAMS/KFintech. If they do, please allow up to 24 hours for your dashboard to update.\n\n**Wait for 24 Hours:**\nIf it's been more than 24 hours, try re-importing your external funds.\n\n**Check Your Email ID:**\nEnsure the email ID linked to your external investments is the same one used to generate the CAS.\n\nIf the issue still persists after these steps, please contact our support team using the button below—we’ll be happy to help."
+    "text": "If your external funds aren't showing up on your dashboard, here are a few things you can check:\n\n**Verify Your CAS:**\nMake sure the schemes and units in your uploaded Consolidated Account Statement (CAS) match those in the CAS provided by CAMS/KFintech. If they do, please allow up to 24 hours for your dashboard to update.\n\n**Wait for 24 Hours:**\nIf it's been more than 24 hours, try re-importing your external funds.\n\n**Check Your Email ID:**\nEnsure the email ID linked to your external investments is the same one used to generate the CAS.\n\nIf the issue still persists after these steps, please contact our support team using the button below—we’ll be happy to help."
   },
   {
     "doc_type": "help_faq",
@@ -701,7 +701,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Can I cancel my purchase order?",
-    "text": "Loading...\nOnce you have placed a purchase order successfully, it is not possible to cancel or edit it.\n\nThe purchased units will be allocated to you within 4 working days.\n\nOnce the units are allocated, you can place a redeem (sell) order. The value of the units sold, will get deposited into your bank account.\n\nPlease note, that while Groww does not charge any fee for redeem your units, *exit load, may be applicable on your sell order, based on the fund.\n\nTo view the unit allocation status, click on the button below\n\n*exit load is a fee charged by a mutual fund scheme if an investor exits the scheme within a certain period of time. You can find the details regarding the exit load under the “Expense ratio, exit load and tax” header in that mutual fund’s details page."
+    "text": "Once you have placed a purchase order successfully, it is not possible to cancel or edit it.\n\nThe purchased units will be allocated to you within 4 working days.\n\nOnce the units are allocated, you can place a redeem (sell) order. The value of the units sold, will get deposited into your bank account.\n\nPlease note, that while Groww does not charge any fee for redeem your units, *exit load, may be applicable on your sell order, based on the fund.\n\nTo view the unit allocation status, click on the button below\n\n*exit load is a fee charged by a mutual fund scheme if an investor exits the scheme within a certain period of time. You can find the details regarding the exit load under the “Expense ratio, exit load and tax” header in that mutual fund’s details page."
   },
   {
     "doc_type": "help_faq",
@@ -741,7 +741,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Can I make manual payments for my SIP?",
-    "text": "```\nYes, you can make manual SIP payments on Groww. Log in to your Groww app or website and invest in the mutual funds that you wish to invest in every month on the same date from your Mutual Funds Dashboard.\n```"
+    "text": "Yes, you can make manual SIP payments on Groww. Log in to your Groww app or website and invest in the mutual funds that you wish to invest in every month on the same date from your Mutual Funds Dashboard."
   },
   {
     "doc_type": "help_faq",
@@ -749,7 +749,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Can I make multiple investments in same mutual fund company?",
-    "text": "Loading...\nYes, you can invest in as many mutual funds as your want within the same fund house.\n\nYou can even invest more in your existing folios/mutual funds by following these steps:\n\n1. Go to 'Dashboard' by pressing the button below\n2. Select the fund in which you want to invest more\n3. Click on 'INVEST MORE'\n4. Choose 'MONTHLY SIP' or 'ONE-TIME'\n5. Enter the amount\n6. Make the payment to proceed\n\nNote: For monthly SIP, it is best to have an approved AutoPay mandate for automatic monthly payments."
+    "text": "Yes, you can invest in as many mutual funds as your want within the same fund house.\n\nYou can even invest more in your existing folios/mutual funds by following these steps:\n\n1. Go to 'Dashboard' by pressing the button below\n2. Select the fund in which you want to invest more\n3. Click on 'INVEST MORE'\n4. Choose 'MONTHLY SIP' or 'ONE-TIME'\n5. Enter the amount\n6. Make the payment to proceed\n\nNote: For monthly SIP, it is best to have an approved AutoPay mandate for automatic monthly payments."
   },
   {
     "doc_type": "help_faq",
@@ -757,7 +757,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Can I pause SIP for next month?",
-    "text": "Loading...\nYou can pause your upcoming SIPs on Groww. Follow these steps:\n\n1. Click on the button below to go to the \"My SIPs\" section\n2. Select the SIP you wish to pause\n3. Click the \"Edit SIP\" button\n4. Choose \"Skip Installment\"\n5. On the confirmation pop-up, please check the month for which the installment is being skipped. Click on confirm."
+    "text": "You can pause your upcoming SIPs on Groww. Follow these steps:\n\n1. Click on the button below to go to the \"My SIPs\" section\n2. Select the SIP you wish to pause\n3. Click the \"Edit SIP\" button\n4. Choose \"Skip Installment\"\n5. On the confirmation pop-up, please check the month for which the installment is being skipped. Click on confirm."
   },
   {
     "doc_type": "help_faq",
@@ -765,7 +765,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Can I start multiple SIPs in the same fund?",
-    "text": "Loading...\nYes, you can start multiple SIPs in the same fund. Each SIP will be treated as a separate investment, allowing you to choose different amounts, frequencies, and start dates for each one. Here's how to do it:\n1. Tap on the 'Mutual Fund' section on your home screen.\n2. Select the mutual fund you want.\n3. Click on 'Start SIP'.\n4. Enter the amount and pay to confirm.\n\nAll your SIPs in that fund will be under the same folio number, but each will have its own investment schedule and amount."
+    "text": "Yes, you can start multiple SIPs in the same fund. Each SIP will be treated as a separate investment, allowing you to choose different amounts, frequencies, and start dates for each one. Here's how to do it:\n1. Tap on the 'Mutual Fund' section on your home screen.\n2. Select the mutual fund you want.\n3. Click on 'Start SIP'.\n4. Enter the amount and pay to confirm.\n\nAll your SIPs in that fund will be under the same folio number, but each will have its own investment schedule and amount."
   },
   {
     "doc_type": "help_faq",
@@ -797,7 +797,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How long does it take to process a redeem order?",
-    "text": "Loading...\nThe time it takes to process a redemption order depends on the type of mutual fund and when you place the order. If you place your order on a working day before 3 PM, here are the typical timelines:\n\n1. **Liquid Funds:** T + 1 working day\n2. **Debt Funds:** T + 2 working days\n3. **Equity Funds:** T + 3 working days\n4. **International Funds:** T + 5 working days\n\n**Important Notes:**\n\n1. If you place the order after 3 PM, it's considered placed on the next working day (T+1).\n2. Saturdays, Sundays, and market holidays do not count as working days.\n3. While most schemes follow these timelines, some may have different settlement cycles. It's a good idea to check your specific fund’s details."
+    "text": "The time it takes to process a redemption order depends on the type of mutual fund and when you place the order. If you place your order on a working day before 3 PM, here are the typical timelines:\n\n1. **Liquid Funds:** T + 1 working day\n2. **Debt Funds:** T + 2 working days\n3. **Equity Funds:** T + 3 working days\n4. **International Funds:** T + 5 working days\n\n**Important Notes:**\n\n1. If you place the order after 3 PM, it's considered placed on the next working day (T+1).\n2. Saturdays, Sundays, and market holidays do not count as working days.\n3. While most schemes follow these timelines, some may have different settlement cycles. It's a good idea to check your specific fund’s details."
   },
   {
     "doc_type": "help_faq",
@@ -813,7 +813,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How long will it take to get the amount credited to my bank account?",
-    "text": "Loading...\nRedemption requests usually take 3-4 business days to process. Once completed, the amount will be credited to your bank account linked to the mutual fund folio. If it takes longer than expected, feel free to contact our support team for assistance."
+    "text": "Redemption requests usually take 3-4 business days to process. Once completed, the amount will be credited to your bank account linked to the mutual fund folio. If it takes longer than expected, feel free to contact our support team for assistance."
   },
   {
     "doc_type": "help_faq",
@@ -821,7 +821,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How many days does it take for the units to be allocated?",
-    "text": "Loading...\n**For investments via Groww Autopay:**\nExpected fund realization: T day\nExpected NAV date: T day\nExpected Unit Allocation date: T+2 day\n\n**For investments via BSE Mandates (Biller/One-time mandates):**\nExpected fund realization: T+2/3 day\nExpected NAV date: T+2/3 day\nExpected Unit Allocation date: T+5/6 day\n\nT day is the transaction/due date for your SIP instalment"
+    "text": "**For investments via Groww Autopay:**\nExpected fund realization: T day\nExpected NAV date: T day\nExpected Unit Allocation date: T+2 day\n\n**For investments via BSE Mandates (Biller/One-time mandates):**\nExpected fund realization: T+2/3 day\nExpected NAV date: T+2/3 day\nExpected Unit Allocation date: T+5/6 day\n\nT day is the transaction/due date for your SIP instalment"
   },
   {
     "doc_type": "help_faq",
@@ -829,7 +829,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "What is a mutual funds ELSS report?",
-    "text": "Loading...\nThe ELSS (Equity Linked Savings Scheme) report shows your purchases in ELSS mutual funds and the total amount you invested in the selected financial year.\n\nHere's how you can download it:\n1. Go to your profile.\n2. Select the 'Reports' option.\n3. Under 'Tax', find 'Mutual Fund - ELSS statement'.\n4. Click on 'Download'.\n\nNote: The password to open the report is your PAN number in capital letters."
+    "text": "The ELSS (Equity Linked Savings Scheme) report shows your purchases in ELSS mutual funds and the total amount you invested in the selected financial year.\n\nHere's how you can download it:\n1. Go to your profile.\n2. Select the 'Reports' option.\n3. Under 'Tax', find 'Mutual Fund - ELSS statement'.\n4. Click on 'Download'.\n\nNote: The password to open the report is your PAN number in capital letters."
   },
   {
     "doc_type": "help_faq",
@@ -837,7 +837,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "How do I withdraw or redeem from a mutual fund?",
-    "text": "Loading...\nTo redeem from a mutual fund:\n1. Tap the 'Mutual Funds' tab at the bottom.\n2. Go to your Dashboard.\n3. Select the mutual fund.\n4. Tap 'Redeem.'\n5. Enter the amount.\n6. Tap 'Confirm Withdrawal.' The amount will reflect in your bank account within 3-4 working days.\n\n**Note:** ELSS funds have a 3-year lock-in period. Additionally, redemption is not possible for external funds held in DEMAT form."
+    "text": "To redeem from a mutual fund:\n1. Tap the 'Mutual Funds' tab at the bottom.\n2. Go to your Dashboard.\n3. Select the mutual fund.\n4. Tap 'Redeem.'\n5. Enter the amount.\n6. Tap 'Confirm Withdrawal.' The amount will reflect in your bank account within 3-4 working days.\n\n**Note:** ELSS funds have a 3-year lock-in period. Additionally, redemption is not possible for external funds held in DEMAT form."
   },
   {
     "doc_type": "help_faq",
@@ -853,7 +853,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "I cancelled my SIP instalment but still my amount got deducted.",
-    "text": "Loading...\nSIP can't be canceled if you have an upcoming installment due in the next 3 days. If this is the case, you may cancel after paying this installment.\nAny amount already invested in the fund will continue to remain invested. Canceling the SIP will only stop future installments. You may redeem the invested amount via your Mutual Funds dashboard."
+    "text": "SIP can't be canceled if you have an upcoming installment due in the next 3 days. If this is the case, you may cancel after paying this installment.\nAny amount already invested in the fund will continue to remain invested. Canceling the SIP will only stop future installments. You may redeem the invested amount via your Mutual Funds dashboard."
   },
   {
     "doc_type": "help_faq",
@@ -861,7 +861,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "I got less money than I withdrew/redeemed.",
-    "text": "Loading...\nThis situation can occur when you place a redemption order via 'Units' or 'Redeem All.' The final Net Asset Value (NAV) applicable to your order is declared after the market closes (typically late at night or the next day). NAVs are set by the Asset Management Companies (AMCs) for each fund. Therefore, the final amount received might differ from the original order value.\n\nFor example:\n\nIf NAV on 5th May > NAV on 4th May: You will receive more money than order amount\nIf NAV on 5th May < NAV on 4th May: You will receive less money than order amount\n\nYou will receive amount according to latest NAV. For any clarifications, please reach out to us using the button below."
+    "text": "This situation can occur when you place a redemption order via 'Units' or 'Redeem All.' The final Net Asset Value (NAV) applicable to your order is declared after the market closes (typically late at night or the next day). NAVs are set by the Asset Management Companies (AMCs) for each fund. Therefore, the final amount received might differ from the original order value.\n\nFor example:\n\nIf NAV on 5th May > NAV on 4th May: You will receive more money than order amount\nIf NAV on 5th May < NAV on 4th May: You will receive less money than order amount\n\nYou will receive amount according to latest NAV. For any clarifications, please reach out to us using the button below."
   },
   {
     "doc_type": "help_faq",
@@ -885,7 +885,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "I have paid but mutual fund units have not been allocated to me yet.",
-    "text": "Loading...\nIt takes 3-4 working days from the date of purchase for mutual fund units to get allocated.\n\nYou will get a confirmation email from the AMC when the units are allocated to you.\n\nIf you still haven't received the units, please contact us."
+    "text": "It takes 3-4 working days from the date of purchase for mutual fund units to get allocated.\n\nYou will get a confirmation email from the AMC when the units are allocated to you.\n\nIf you still haven't received the units, please contact us."
   },
   {
     "doc_type": "help_faq",
@@ -909,7 +909,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "I still did not receive money in my account.",
-    "text": "Loading...\nRedemption usually takes 3–4 business days to complete. The funds will be credited to the bank account linked to your folio.\n\nIf it takes longer than that, or if you have any further questions, please contact us using the button below."
+    "text": "Redemption usually takes 3–4 business days to complete. The funds will be credited to the bank account linked to your folio.\n\nIf it takes longer than that, or if you have any further questions, please contact us using the button below."
   },
   {
     "doc_type": "help_faq",
@@ -933,7 +933,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "It's beyond the expected time. Why are units still not allotted?",
-    "text": "Loading...\nDon’t worry, your money is safe and the units will be allocated soon. The delay in the allocation of your units is from the asset management company’s (fund house) orthe exchange's end.\n\nPlease note it generally takes up to 4 working days for the units to be allocated to your account after placing a purchase order. You can keep a track of the order on your dashboard.\n\nHowever, if it has been more than 6 working days since you placed the purchase order and you still cannot see the units allocated to your account then please contact us using the button below."
+    "text": "Don’t worry, your money is safe and the units will be allocated soon. The delay in the allocation of your units is from the asset management company’s (fund house) orthe exchange's end.\n\nPlease note it generally takes up to 4 working days for the units to be allocated to your account after placing a purchase order. You can keep a track of the order on your dashboard.\n\nHowever, if it has been more than 6 working days since you placed the purchase order and you still cannot see the units allocated to your account then please contact us using the button below."
   },
   {
     "doc_type": "help_faq",
@@ -1005,7 +1005,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "What are the charges applicable for redeeming?",
-    "text": "```\nGroww charges ZERO fees for redeeming.\n\nHowever, the fund house may charge the following fees for redeeming:\n\nSTT: Tax paid on the sale of equity-oriented mutual fund. STT is not charged when redeeming from a debt-oriented fund.\n\nExit load: A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment. An approximate value of your exit load amount will be shown if applicable when placing a redeem request.\n```"
+    "text": "Groww charges ZERO fees for redeeming.\n\nHowever, the fund house may charge the following fees for redeeming:\n\nSTT: Tax paid on the sale of equity-oriented mutual fund. STT is not charged when redeeming from a debt-oriented fund.\n\nExit load: A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment. An approximate value of your exit load amount will be shown if applicable when placing a redeem request."
   },
   {
     "doc_type": "help_faq",
@@ -1013,7 +1013,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "What happens when I switch to direct funds?",
-    "text": "Loading...\nWhenever you switch, we redeem your regular plan units, and at the same time\ninvest in direct plan units for the same fund.\n\nNote that exit load and capital gains tax may still be applicable.\n\nAlso, your SIPs outside Groww will continue until you cancel them,\nso make sure you cancel your regular fund SIPs as well."
+    "text": "Whenever you switch, we redeem your regular plan units, and at the same time\ninvest in direct plan units for the same fund.\n\nNote that exit load and capital gains tax may still be applicable.\n\nAlso, your SIPs outside Groww will continue until you cancel them,\nso make sure you cancel your regular fund SIPs as well."
   },
   {
     "doc_type": "help_faq",
@@ -1053,7 +1053,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "When I redeemed all my units, why was the number of units redeemed different from what was shown?",
-    "text": "Loading...\nWhen you click on the \"Redeem All\" button to redeem your units on Groww, all your units in that folio will be redeemed, regardless of whether you invested through Groww or somewhere else. This means that the number of units shown on Groww may not match the actual number of units redeemed.\n\nIf you have any questions, you can contact our customer support team."
+    "text": "When you click on the \"Redeem All\" button to redeem your units on Groww, all your units in that folio will be redeemed, regardless of whether you invested through Groww or somewhere else. This means that the number of units shown on Groww may not match the actual number of units redeemed.\n\nIf you have any questions, you can contact our customer support team."
   },
   {
     "doc_type": "help_faq",
@@ -1077,7 +1077,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "When withdrawing/redeeming which day's NAV will be applicable?",
-    "text": "Loading...\nThe cut-off time for all redemptions is 3 pm.\n* Redeem before 3 pm - current day's NAV\n* Redeem after 3 pm - next day's NAV"
+    "text": "The cut-off time for all redemptions is 3 pm.\n* Redeem before 3 pm - current day's NAV\n* Redeem after 3 pm - next day's NAV"
   },
   {
     "doc_type": "help_faq",
@@ -1085,7 +1085,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Why can't I see this in my dashboard?",
-    "text": "Loading...\nYou can find your order in one of these places:\n\n1. Under 'Orders in Progress' on your dashboard.\n2. In the 'All Orders' section under your profile.\n\nIf your latest SIP installment has been deducted but the transaction isn't showing yet, please check again at the end of the working day. If it still hasn't appeared after one working day, please contact us using the button below."
+    "text": "You can find your order in one of these places:\n\n1. Under 'Orders in Progress' on your dashboard.\n2. In the 'All Orders' section under your profile.\n\nIf your latest SIP installment has been deducted but the transaction isn't showing yet, please check again at the end of the working day. If it still hasn't appeared after one working day, please contact us using the button below."
   },
   {
     "doc_type": "help_faq",
@@ -1117,7 +1117,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Why did my switch order fail?",
-    "text": "Loading...\nThere are a few reasons why your switch order might fail:\n\n1. **Demat Account:** If your mutual fund units are in a Demat account, they can't be switched.\n2. **Minimum Investment:** Your investment amount might be less than the minimum required for the new direct fund.\n3. **Lock-in Period:** Your funds might still be in the lock-in period, preventing a switch.\n\nIf you're still having trouble, you can search for your issue or raise a ticket with us. Our Customer Support team is here to help!"
+    "text": "There are a few reasons why your switch order might fail:\n\n1. **Demat Account:** If your mutual fund units are in a Demat account, they can't be switched.\n2. **Minimum Investment:** Your investment amount might be less than the minimum required for the new direct fund.\n3. **Lock-in Period:** Your funds might still be in the lock-in period, preventing a switch.\n\nIf you're still having trouble, you can search for your issue or raise a ticket with us. Our Customer Support team is here to help!"
   },
   {
     "doc_type": "help_faq",
@@ -1125,7 +1125,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Why did withdrawal to my bank fail?",
-    "text": "Loading...\nYour withdrawal might have failed for a few reasons:\n\n1. **Bank Rejection:** Your bank might have rejected the transaction due to an error.\n2. **Unverified Bank Account:** Your primary bank account might not be verified on Groww. You can check the verification status by clicking the 'VERIFY' button below.\n3. **IFSC Mismatch:** There might be an IFSC mismatch in the details entered for your primary bank account. Please double-check these details.\n\nIf none of these seem to be the issue, please contact our team by clicking the 'CONTACT US' button below, and we'll help you out."
+    "text": "Your withdrawal might have failed for a few reasons:\n\n1. **Bank Rejection:** Your bank might have rejected the transaction due to an error.\n2. **Unverified Bank Account:** Your primary bank account might not be verified on Groww. You can check the verification status by clicking the 'VERIFY' button below.\n3. **IFSC Mismatch:** There might be an IFSC mismatch in the details entered for your primary bank account. Please double-check these details.\n\nIf none of these seem to be the issue, please contact our team by clicking the 'CONTACT US' button below, and we'll help you out."
   },
   {
     "doc_type": "help_faq",
@@ -1149,7 +1149,7 @@
     "topic": "order",
     "scraped_at": "2026-10-04T13:18:29",
     "title": "Why is there a Rs.1 lakh limit in AutoPay?",
-    "text": "Loading...\nAutoPay allows you to authorize debiting the monthly SIP amount from your bank account. The Rs.1 lakh limit is the maximum amount that can be debited per day. However, don't worry only the amount you've set for your monthly SIP will be debited.\n\n**Note:** We recommend not changing this limit in your AutoPay, as it might lead to rejection and failure of upcoming SIPs."
+    "text": "AutoPay allows you to authorize debiting the monthly SIP amount from your bank account. The Rs.1 lakh limit is the maximum amount that can be debited per day. However, don't worry only the amount you've set for your monthly SIP will be debited.\n\n**Note:** We recommend not changing this limit in your AutoPay, as it might lead to rejection and failure of upcoming SIPs."
   },
   {
     "doc_type": "help_faq",
@@ -1197,7 +1197,7 @@
     "topic": "searchable",
     "scraped_at": "2026-10-04T13:18:30",
     "title": "I cannot find my Mutual Fund Order",
-    "text": "Loading...\nIf you can't see your latest SIP installment or mutual fund order but the amount has been deducted from your bank account, don't worry. It usually shows up on your dashboard by the end of the working day.\n\nHere's what you can do:\n\n1. Check the 'Orders' section for details.\n2. If the order still doesn't appear, please contact our support team for assistance."
+    "text": "If you can't see your latest SIP installment or mutual fund order but the amount has been deducted from your bank account, don't worry. It usually shows up on your dashboard by the end of the working day.\n\nHere's what you can do:\n\n1. Check the 'Orders' section for details.\n2. If the order still doesn't appear, please contact our support team for assistance."
   },
   {
     "doc_type": "help_faq",
@@ -1253,7 +1253,7 @@
     "topic": "switch-to-direct",
     "scraped_at": "2026-10-04T13:18:30",
     "title": "Can I switch from one fund house to another fund house?",
-    "text": "Loading...\nNo, you can't switch funds between different fund houses directly. Switch orders are only possible between two funds within the same fund house.\n\nIf you want to invest in a fund from a different fund house, you'll need to redeem your current investment first. Once the redemption amount is credited to your bank account, you can place a new purchase order for the fund you choose."
+    "text": "No, you can't switch funds between different fund houses directly. Switch orders are only possible between two funds within the same fund house.\n\nIf you want to invest in a fund from a different fund house, you'll need to redeem your current investment first. Once the redemption amount is credited to your bank account, you can place a new purchase order for the fund you choose."
   },
   {
     "doc_type": "help_faq",
@@ -1261,7 +1261,7 @@
     "topic": "switch-to-direct",
     "scraped_at": "2026-10-04T13:18:30",
     "title": "How can I switch from regular fund to direct fund on Groww?",
-    "text": "Loading...\nTo switch from regular funds to direct funds on Groww, follow these steps:\n\n**Import Your External Funds:**\n1. Go to the home screen and go to 'Mutual Fund' tab. Tap on 'Explore'.\n2. Scroll down to 'Quick Access' and tap on 'Import Funds'.\n3. Enter the OTP sent to you by MF Central. Your mutual funds will be imported, and the dashboard will update automatically within 10-15 minutes.\n\n**Switch to Direct Funds:**\n1. On your mutual fund dashboard, tap on any fund tagged as 'External' and 'Regular'.\n2. Tap on 'Switch' to see all your external regular funds.\n3. Select the funds you want to switch and tap on 'Select Direct Fund'.\n4. Tap on 'Confirm Switch' to complete the process.\n\nAfter confirming, you can track your switch order in the mutual funds dashboard under 'Switch in progress'."
+    "text": "To switch from regular funds to direct funds on Groww, follow these steps:\n\n**Import Your External Funds:**\n1. Go to the home screen and go to 'Mutual Fund' tab. Tap on 'Explore'.\n2. Scroll down to 'Quick Access' and tap on 'Import Funds'.\n3. Enter the OTP sent to you by MF Central. Your mutual funds will be imported, and the dashboard will update automatically within 10-15 minutes.\n\n**Switch to Direct Funds:**\n1. On your mutual fund dashboard, tap on any fund tagged as 'External' and 'Regular'.\n2. Tap on 'Switch' to see all your external regular funds.\n3. Select the funds you want to switch and tap on 'Select Direct Fund'.\n4. Tap on 'Confirm Switch' to complete the process.\n\nAfter confirming, you can track your switch order in the mutual funds dashboard under 'Switch in progress'."
   },
   {
     "doc_type": "help_faq",
@@ -1325,7 +1325,7 @@
     "topic": "track-and-switch",
     "scraped_at": "2026-10-04T13:18:30",
     "title": "I can't see my external funds after forwarding the email. What should I do?",
-    "text": "Loading...\nHere's what you can do to resolve this issue:\n1. Make sure you've clicked the 'Forwarded' button after sending the email.\n2. Check if a different email ID is linked to the funds you can't see.\n3. Ensure the PAN number in your CAS statement matches the PAN number registered in your Groww account.\n4. Verify that the CAS statement was attached to the forwarded email.\n\nIf you're still having trouble, please contact us using the button below. Our support team will assist you."
+    "text": "Here's what you can do to resolve this issue:\n1. Make sure you've clicked the 'Forwarded' button after sending the email.\n2. Check if a different email ID is linked to the funds you can't see.\n3. Ensure the PAN number in your CAS statement matches the PAN number registered in your Groww account.\n4. Verify that the CAS statement was attached to the forwarded email.\n\nIf you're still having trouble, please contact us using the button below. Our support team will assist you."
   },
   {
     "doc_type": "blog_section",

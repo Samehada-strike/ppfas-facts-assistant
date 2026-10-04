@@ -35,3 +35,8 @@ dependencies = [
     "unstructured>=0.18.21",
     "wikipedia>=1.4.0",
 ]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]

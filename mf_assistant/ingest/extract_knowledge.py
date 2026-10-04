@@ -33,6 +33,7 @@ def clean_text(md: str) -> str:
     md = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", md)  # remaining links -> text
     md = re.sub(r"^!.*$", "", md, flags=re.M)  # image alt-text leftovers ("!What are Mutual Funds?")
     md = re.sub(r"^\d+ min read$", "", md, flags=re.M)
+    md = re.sub(r"^(Loading\.\.\.|```)\s*$", "", md, flags=re.M)  # page-loading placeholder, stray code fences
     md = re.sub(r"[ \t]*\n[ \t]*", "\n", md)
     md = re.sub(r"\n{3,}", "\n\n", md)
     return md.strip()

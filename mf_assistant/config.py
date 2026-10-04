@@ -75,4 +75,12 @@ AMC_SOURCE_URL = "https://groww.in/mutual-funds/amc/ppfas-mutual-funds"
 
 # === ANSWER FORMAT ===
 MAX_ANSWER_SENTENCES = 3
+MAX_LIST_ITEMS = 12  # bulleted multi-scheme facts (e.g. one line per fund) are capped separately
 DISCLAIMER = "Facts-only. No investment advice."
+
+# Every reply carries exactly one link (brief requirement). Non-answer replies use these:
+HELP_CENTRE_URL = "https://groww.in/help/mutual-funds"  # PII refusals, off-topic
+EDUCATION_URL = "https://groww.in/blog/mutual-funds-things-you-should-know-as-a-beginner"  # advice/comparison refusals
+
+# === CHAT HISTORY ===
+HISTORY_TURNS = 4  # recent turns kept in memory (never written to disk) to resolve follow-ups
