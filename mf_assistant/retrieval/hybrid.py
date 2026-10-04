@@ -115,6 +115,15 @@ class HybridRetriever:
                 for i, r in ranks.items():
                     fused[i] = fused.get(i, 0.0) + weight / (config.RRF_K + r)
             ranked = sorted(fused.items(), key=lambda kv: -kv[1])[:k]
+            # Never drop either retriever's #1: a passage found strongly by one method can lose the fusion
+            # to passages both methods found only moderately ("redeem on a Sunday" → the weekends article
+            # was dense #1, missed by BM25, and fell out of the top 5).
+            protected = {int(i) for i in (*dense_order[:1], *bm25_order[:1])}
+            for i in protected - {j for j, _ in ranked}:
+                # replace the lowest-ranked passage that is not itself protected
+                slot = max(n for n, (j, _) in enumerate(ranked) if j not in protected)
+                ranked[slot] = (i, fused[i])
+            ranked.sort(key=lambda kv: -kv[1])
 
         best = float(cos[in_scope].max()) if len(in_scope) else 0.0
         hits = [

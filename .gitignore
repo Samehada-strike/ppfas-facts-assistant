@@ -13,7 +13,7 @@ wheels/
 .env
 
 # Built artifacts
-project_files/data/index/
+# (project_files/data/index/ is committed: the deployed app loads it)
 
 # Course reference material (third-party content; some notebooks/.env copies contain API keys)
 krish_naik_files/

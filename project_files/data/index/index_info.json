@@ -1,0 +1,9 @@
+{
+  "embedding_model": "text-embedding-3-small",
+  "dimensions": 1536,
+  "n_chunks": 404,
+  "faiss_index_type": "IndexFlatL2",
+  "chunks_sha256": "83129b3b9cb7c9e0d58859709ebb0bfe3d7ec063c241356172a2ddfe41a4aa6e",
+  "total_tokens": 48009,
+  "built_at": "2026-10-04T16:10:51"
+}

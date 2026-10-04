@@ -28,7 +28,11 @@ from mf_assistant.retrieval.hybrid import Hit
 class GroundedAnswer(BaseModel):
     """An answer written only from the numbered context passages."""
 
-    found: bool = Field(description="True only if the context passages contain the answer to the question.")
+    # Field descriptions are part of the prompt: this must agree with SYSTEM rule 2 (partial answers allowed).
+    # An earlier "True only if the passages contain the answer" overrode that rule and made the model decline
+    # answerable questions (e.g. credit-card payments).
+    found: bool = Field(description="True if the passages contain information that answers the question, fully or "
+                                    "in part. False only if they contain nothing that helps.")
     answer: str = Field(description="At most 3 short sentences, in plain prose (no lists, no links). "
                                     "Empty if found is false.")
     source_id: int | None = Field(description="Number of the passage the answer is mainly based on, e.g. 2 for [2]. "
@@ -40,8 +44,10 @@ SYSTEM = (
     "mutual fund features). Rules:\n"
     "1. Use only facts stated in the passages inside <context>. Do not use outside knowledge, do not guess, "
     "and do not generalise a detail about one fund or one situation into a general statement.\n"
-    "2. If the passages answer the question only in part, answer that part and say in a few words what they "
-    "don't cover. Set found to false only if the passages contain nothing that helps answer the question.\n"
+    "2. If part of the question really is not answered by the passages, answer the rest and add a short note "
+    "such as \"I couldn't find details on X.\" Add no such note when the question is fully answered, and never "
+    "mention 'passages' or 'context' to the user. Set found to false only if the passages contain nothing that "
+    "helps answer the question.\n"
     "3. Use only as many sentences as the answer needs, at most 3, in plain prose. Summarise steps instead "
     "of listing them. Don't add background the question didn't ask for. No links, no markdown.\n"
     "4. Never give investment advice, recommendations or opinions, and never compare funds' performance.\n"

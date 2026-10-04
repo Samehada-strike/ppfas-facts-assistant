@@ -31,6 +31,7 @@ _COMPARISON_IN = [
     r"\b(highest|lowest|top|best|worst)[- ](returns?|performance|performing)\b",
     r"\b(outperform\w*|underperform\w*)\b",
     r"\bbeat(s|en)?\b.*\b(benchmark|index|category|market)\b",
+    r"\b(do|does|did|done|perform\w*|return\w*) (better|worse) than\b",
 ]
 
 _ADVICE_OUT = [
