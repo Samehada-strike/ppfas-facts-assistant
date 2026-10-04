@@ -13,16 +13,16 @@ wheels/
 .env
 
 # Built artifacts
-# (project_files/data/index/ is committed: the deployed app loads it)
+# (data/index/ is committed: the deployed app loads it)
 
 # Course reference material (third-party content; some notebooks/.env copies contain API keys)
 krish_naik_files/
 
 # Notebook with an API token in its saved outputs
-project_files/deprecated/2-VectorEmbeddings.ipynb
+archive/legacy_pipeline/deprecated/2-VectorEmbeddings.ipynb
 
 # Raw knowledge-page crawl (~25 MB, re-creatable with crawl_knowledge.py)
-project_files/data/raw/knowledge/
+data/raw/knowledge/
 
 # Local Claude desktop preview config
 .claude/

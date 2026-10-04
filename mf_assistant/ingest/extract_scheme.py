@@ -1,6 +1,6 @@
 """Offline: turn crawled scheme pages into clean facts + FAQs, with provenance.
 
-Replaces project_files/2-data_extraction.ipynb, whose regexes broke when Groww
+Replaces archive/legacy_pipeline/2-data_extraction.ipynb, whose regexes broke when Groww
 redesigned its pages. Two sources per scheme:
 
 - Facts come from the JSON that Groww embeds in every page for its own frontend

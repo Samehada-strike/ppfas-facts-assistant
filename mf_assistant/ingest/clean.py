@@ -1,6 +1,6 @@
 """Offline: strip URLs from crawled Markdown, keeping link text and image alt text.
 
-Moved from project_files/1-clean_markdown_files.py; paths now come from config.
+Moved from archive/legacy_pipeline/1-clean_markdown_files.py; paths now come from config.
 
 Run:  python -m mf_assistant.ingest.clean
 """

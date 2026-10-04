@@ -148,7 +148,7 @@ held-out figure is the more honest estimate.
 
 ## Deploying to Streamlit Community Cloud
 
-1. Push this repo to GitHub (`.env` is git-ignored; the index in `project_files/data/index/` is committed).
+1. Push this repo to GitHub (`.env` is git-ignored; the index in `data/index/` is committed).
 2. On [share.streamlit.io](https://share.streamlit.io): **Create app** → pick the repo and branch → main file
    `app.py` → **Advanced settings**: Python 3.13, and under **Secrets** add `OPENAI_API_KEY = "..."`.
 3. Deploy. Community Cloud installs from `uv.lock`; runtime dependencies are kept lean (the crawler, RAGAS and
@@ -157,7 +157,7 @@ held-out figure is the more honest estimate.
 ## Project structure
 
 ```
-app.py                      Streamlit UI
+app.py                      Streamlit UI (entry point)
 mf_assistant/
   config.py                 paths, models, thresholds, messages
   ingest/                   crawl → clean → extract (validated) → SQLite + documents.jsonl + sources.csv
@@ -167,5 +167,14 @@ mf_assistant/
   guardrails/               PII, advice/comparison policy, output format
   evaluation/               held-out set, RAGAS, sample Q&A, run_all report
 tests/                      unit tests (pytest)
-project_files/              data (raw, processed, SQLite, index) and earlier notebooks
+data/
+  json_files/               scheme list, crawl manifest (URL + date per page), knowledge URL list
+  raw/                      crawled HTML/Markdown (help-centre crawl is git-ignored)
+  processed/                scheme facts, FAQs, knowledge pages, documents.jsonl
+  structured_data/          structured.sqlite (exact facts)
+  index/                    chunks.jsonl, FAISS index, index_info.json
+docs/                       assignment brief
+archive/                    earlier notebooks, notebook-era data, course material (not used by the app)
+sources.csv  SAMPLE_QA.md  EVALUATION.md      deliverables
+.streamlit/config.toml      theme (Groww colour tokens)
 ```

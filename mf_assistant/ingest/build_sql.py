@@ -1,6 +1,6 @@
 """Offline: load extracted scheme facts into SQLite for exact lookups.
 
-Replaces project_files/3-build_structured_sql_db.py. Performance data
+Replaces archive/legacy_pipeline/3-build_structured_sql_db.py. Performance data
 (returns, rankings, risk ratios, Groww's analysis) is stored as facts too.
 
 Run:  python -m mf_assistant.ingest.build_sql

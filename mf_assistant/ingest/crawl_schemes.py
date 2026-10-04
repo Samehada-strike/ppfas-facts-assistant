@@ -1,6 +1,6 @@
 """Offline job `scheme_pages`: crawl each Groww scheme page and save HTML + Markdown.
 
-Moved from project_files/0-crawl_parag_parikh.py. Changes: paths come from
+Moved from archive/legacy_pipeline/0-crawl_parag_parikh.py. Changes: paths come from
 config, and every fetch is recorded in the crawl manifest.
 
 Run:  python -m mf_assistant.ingest.crawl_schemes
