@@ -72,7 +72,10 @@ def extract_blog(md: str) -> dict | None:
     if not h1:
         return None
     article = md[h1.start():]
-    article = re.split(r"^#{1,6} Disclaimer\s*$", article, flags=re.M)[0]
+    # The article ends at whichever comes first: a Disclaimer heading, the feedback
+    # prompt, or the "Recent Posts" sidebar (everything after is site navigation)
+    article = re.split(r"^#{1,6} Disclaimer\s*$|^Do you like this edition\?|^Recent Posts\s*$",
+                       article, flags=re.M)[0]
 
     sections, parent, in_faqs = [], None, False
     for level, heading, body in split_sections(article):
