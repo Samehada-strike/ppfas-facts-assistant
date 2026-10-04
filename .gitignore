@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+
+# Built artifacts
+project_files/data/index/
+
+# Course reference material (third-party content; some notebooks/.env copies contain API keys)
+krish_naik_files/
+
+# Notebook with an API token in its saved outputs
+project_files/deprecated/2-VectorEmbeddings.ipynb

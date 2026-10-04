@@ -1,0 +1,90 @@
+Table schemes {
+  scheme_id TEXT [pk]
+  scheme_name TEXT
+  category TEXT
+  sub_category TEXT
+  risk TEXT
+  amc_name TEXT
+}
+
+Table nav_summary {
+  scheme_id TEXT [pk]
+  nav_value_raw TEXT
+  nav_as_on TEXT
+}
+
+Table minimum_investment {
+  scheme_id TEXT [pk]
+  min_first_investment TEXT
+  min_second_investment TEXT
+  min_sip TEXT
+}
+
+Table advanced_ratios {
+  scheme_id TEXT [pk]
+  sharpe_ratio REAL
+  sortino_ratio REAL
+  alpha REAL
+  beta REAL
+  standard_deviation REAL
+  information_ratio REAL
+  risk_rating INTEGER
+  risk TEXT
+}
+
+Table expense_exit_tax {
+  scheme_id TEXT [pk]
+  expense_ratio TEXT
+  exit_load TEXT
+  stamp_duty TEXT
+  tax_implication TEXT
+}
+
+Table returns_meta {
+  scheme_id TEXT [pk]
+  category TEXT
+  active_type TEXT
+}
+
+Table return_periods {
+  id INTEGER [pk]
+  scheme_id TEXT
+  period_label TEXT
+  ord INTEGER
+}
+
+Table return_values {
+  id INTEGER [pk]
+  scheme_id TEXT
+  metric_label TEXT
+  period_label TEXT
+  value TEXT
+}
+
+Table holdings {
+  id INTEGER [pk]
+  scheme_id TEXT
+  name TEXT
+  sector TEXT
+  instrument TEXT
+  assets TEXT
+}
+
+Table fund_managers {
+  id INTEGER [pk]
+  scheme_id TEXT
+  manager_name TEXT
+  tenure TEXT
+  education TEXT
+  experience TEXT
+}
+
+Ref: nav_summary.scheme_id > schemes.scheme_id
+Ref: minimum_investment.scheme_id > schemes.scheme_id
+Ref: advanced_ratios.scheme_id > schemes.scheme_id
+Ref: expense_exit_tax.scheme_id > schemes.scheme_id
+Ref: returns_meta.scheme_id > schemes.scheme_id
+Ref: return_periods.scheme_id > schemes.scheme_id
+Ref: return_values.scheme_id > schemes.scheme_id
+Ref: holdings.scheme_id > schemes.scheme_id
+Ref: fund_managers.scheme_id > schemes.scheme_id

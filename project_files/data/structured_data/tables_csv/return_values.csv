@@ -1,0 +1,73 @@
+id,scheme_id,metric_label,period_label,value
+1,parag-parikh-long-term-value-fund-direct-growth,Fund returns,3Y,23.1%
+2,parag-parikh-long-term-value-fund-direct-growth,Fund returns,5Y,20.7%
+3,parag-parikh-long-term-value-fund-direct-growth,Fund returns,10Y,18.3%
+4,parag-parikh-long-term-value-fund-direct-growth,Fund returns,All,19.6%
+5,parag-parikh-long-term-value-fund-direct-growth,Category average,3Y,16.0%
+6,parag-parikh-long-term-value-fund-direct-growth,Category average,5Y,15.6%
+7,parag-parikh-long-term-value-fund-direct-growth,Category average,10Y,13.5%
+8,parag-parikh-long-term-value-fund-direct-growth,Category average,All,NA
+9,parag-parikh-long-term-value-fund-direct-growth,Rank with in category,3Y,7
+10,parag-parikh-long-term-value-fund-direct-growth,Rank with in category,5Y,10
+11,parag-parikh-long-term-value-fund-direct-growth,Rank with in category,10Y,1
+12,parag-parikh-long-term-value-fund-direct-growth,Rank with in category,All,NA
+13,parag-parikh-liquid-fund-direct-growth,Fund returns,1Y,6.3%
+14,parag-parikh-liquid-fund-direct-growth,Fund returns,3Y,6.7%
+15,parag-parikh-liquid-fund-direct-growth,Fund returns,5Y,5.6%
+16,parag-parikh-liquid-fund-direct-growth,Fund returns,All,5.5%
+17,parag-parikh-liquid-fund-direct-growth,Category average,1Y,6.3%
+18,parag-parikh-liquid-fund-direct-growth,Category average,3Y,6.8%
+19,parag-parikh-liquid-fund-direct-growth,Category average,5Y,5.7%
+20,parag-parikh-liquid-fund-direct-growth,Category average,All,NA
+21,parag-parikh-liquid-fund-direct-growth,Rank with in category,1Y,33
+22,parag-parikh-liquid-fund-direct-growth,Rank with in category,3Y,33
+23,parag-parikh-liquid-fund-direct-growth,Rank with in category,5Y,33
+24,parag-parikh-liquid-fund-direct-growth,Rank with in category,All,NA
+25,parag-parikh-elss-tax-saver-fund-direct-growth,Fund returns,1Y,4.8%
+26,parag-parikh-elss-tax-saver-fund-direct-growth,Fund returns,3Y,18.5%
+27,parag-parikh-elss-tax-saver-fund-direct-growth,Fund returns,5Y,19.6%
+28,parag-parikh-elss-tax-saver-fund-direct-growth,Fund returns,All,21.3%
+29,parag-parikh-elss-tax-saver-fund-direct-growth,Category average,1Y,2.4%
+30,parag-parikh-elss-tax-saver-fund-direct-growth,Category average,3Y,16.4%
+31,parag-parikh-elss-tax-saver-fund-direct-growth,Category average,5Y,16.5%
+32,parag-parikh-elss-tax-saver-fund-direct-growth,Category average,All,NA
+33,parag-parikh-elss-tax-saver-fund-direct-growth,Rank with in category,1Y,19
+34,parag-parikh-elss-tax-saver-fund-direct-growth,Rank with in category,3Y,13
+35,parag-parikh-elss-tax-saver-fund-direct-growth,Rank with in category,5Y,9
+36,parag-parikh-elss-tax-saver-fund-direct-growth,Rank with in category,All,NA
+37,parag-parikh-conservative-hybrid-fund-direct-growth,Fund returns,6M,NA
+38,parag-parikh-conservative-hybrid-fund-direct-growth,Fund returns,1Y,7.8%
+39,parag-parikh-conservative-hybrid-fund-direct-growth,Fund returns,3Y,11.5%
+40,parag-parikh-conservative-hybrid-fund-direct-growth,Fund returns,All,10.2%
+41,parag-parikh-conservative-hybrid-fund-direct-growth,Category average,6M,NA
+42,parag-parikh-conservative-hybrid-fund-direct-growth,Category average,1Y,5.5%
+43,parag-parikh-conservative-hybrid-fund-direct-growth,Category average,3Y,9.1%
+44,parag-parikh-conservative-hybrid-fund-direct-growth,Category average,All,NA
+45,parag-parikh-conservative-hybrid-fund-direct-growth,Rank with in category,6M,NA
+46,parag-parikh-conservative-hybrid-fund-direct-growth,Rank with in category,1Y,5
+47,parag-parikh-conservative-hybrid-fund-direct-growth,Rank with in category,3Y,5
+48,parag-parikh-conservative-hybrid-fund-direct-growth,Rank with in category,All,NA
+49,parag-parikh-arbitrage-fund-direct-growth,Fund returns,3M,1.5%
+50,parag-parikh-arbitrage-fund-direct-growth,Fund returns,6M,3.0%
+51,parag-parikh-arbitrage-fund-direct-growth,Fund returns,1Y,6.6%
+52,parag-parikh-arbitrage-fund-direct-growth,Fund returns,All,16.1%
+53,parag-parikh-arbitrage-fund-direct-growth,Category average,3M,NA
+54,parag-parikh-arbitrage-fund-direct-growth,Category average,6M,NA
+55,parag-parikh-arbitrage-fund-direct-growth,Category average,1Y,6.1%
+56,parag-parikh-arbitrage-fund-direct-growth,Category average,All,NA
+57,parag-parikh-arbitrage-fund-direct-growth,Rank with in category,3M,27
+58,parag-parikh-arbitrage-fund-direct-growth,Rank with in category,6M,26
+59,parag-parikh-arbitrage-fund-direct-growth,Rank with in category,1Y,27
+60,parag-parikh-arbitrage-fund-direct-growth,Rank with in category,All,NA
+61,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Fund returns,3M,1.1%
+62,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Fund returns,6M,1.6%
+63,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Fund returns,1Y,5.9%
+64,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Fund returns,All,15.3%
+65,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Category average,3M,NA
+66,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Category average,6M,NA
+67,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Category average,1Y,4.6%
+68,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Category average,All,NA
+69,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Rank with in category,3M,38
+70,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Rank with in category,6M,31
+71,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Rank with in category,1Y,24
+72,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Rank with in category,All,NA

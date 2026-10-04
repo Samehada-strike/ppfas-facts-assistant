@@ -1,0 +1,870 @@
+id,scheme_id,name,sector,instrument,assets
+1,parag-parikh-long-term-value-fund-direct-growth,HDFC Bank Ltd.,Financial,Equity,8.03%
+2,parag-parikh-long-term-value-fund-direct-growth,Power Grid Corporation Of India Ltd.,Energy,Equity,5.91%
+3,parag-parikh-long-term-value-fund-direct-growth,ICICI Bank Ltd.,Financial,Equity,4.85%
+4,parag-parikh-long-term-value-fund-direct-growth,Bajaj Holdings & Investment Ltd.,Financial,Equity,4.71%
+5,parag-parikh-long-term-value-fund-direct-growth,Coal India Ltd.,Energy,Equity,4.70%
+6,parag-parikh-long-term-value-fund-direct-growth,ITC Ltd.,Consumer Staples,Equity,4.51%
+7,parag-parikh-long-term-value-fund-direct-growth,Alphabet Inc Class A,Services,Forgn. Eq,4.17%
+8,parag-parikh-long-term-value-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,Equity,3.98%
+9,parag-parikh-long-term-value-fund-direct-growth,Mahindra & Mahindra Ltd.,Automobile,Equity,3.60%
+10,parag-parikh-long-term-value-fund-direct-growth,Bharti Airtel Ltd.,Communication,Equity,3.43%
+11,parag-parikh-long-term-value-fund-direct-growth,Maruti Suzuki India Ltd.,Automobile,Equity,3.37%
+12,parag-parikh-long-term-value-fund-direct-growth,Axis Bank Ltd.,Financial,Equity,3.28%
+13,parag-parikh-long-term-value-fund-direct-growth,Meta Platforms Inc,Services,Forgn. Eq,2.64%
+14,parag-parikh-long-term-value-fund-direct-growth,Microsoft Corportion (US),Technology,Forgn. Eq,2.49%
+15,parag-parikh-long-term-value-fund-direct-growth,HCL Technologies Ltd.,Technology,Equity,2.48%
+16,parag-parikh-long-term-value-fund-direct-growth,Amazon. com Inc. (USA),Services,Forgn. Eq,2.21%
+17,parag-parikh-long-term-value-fund-direct-growth,Infosys Ltd.,Technology,Equity,2.12%
+18,parag-parikh-long-term-value-fund-direct-growth,Dr. Reddy's Laboratories Ltd.,Healthcare,Equity,1.27%
+19,parag-parikh-long-term-value-fund-direct-growth,Cipla Ltd.,Healthcare,Equity,1.27%
+20,parag-parikh-long-term-value-fund-direct-growth,Zydus Lifesciences Ltd.,Healthcare,Equity,1.26%
+21,parag-parikh-long-term-value-fund-direct-growth,Indian Energy Exchange Ltd.,Services,Equity,0.87%
+22,parag-parikh-long-term-value-fund-direct-growth,Reliance Industries Ltd.,Energy,Equity,0.80%
+23,parag-parikh-long-term-value-fund-direct-growth,Balkrishna Industries Ltd.,Automobile,Equity,0.75%
+24,parag-parikh-long-term-value-fund-direct-growth,Zydus Wellness Ltd.,Consumer Staples,Equity,0.73%
+25,parag-parikh-long-term-value-fund-direct-growth,Tata Consultancy Services Ltd.,Technology,Equity,0.68%
+26,parag-parikh-long-term-value-fund-direct-growth,Multi Commodity Exchange Of India Ltd.,Services,Equity,0.62%
+27,parag-parikh-long-term-value-fund-direct-growth,Embassy Office Parks REIT,Construction,REITs,0.57%
+28,parag-parikh-long-term-value-fund-direct-growth,Parag Parikh Liquid Fund Direct - Growth,NA,Mutual Fund,0.51%
+29,parag-parikh-long-term-value-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,CD,0.51%
+30,parag-parikh-long-term-value-fund-direct-growth,Axis Bank Ltd.,Financial,CD,0.48%
+31,parag-parikh-long-term-value-fund-direct-growth,Bank Of Baroda,Financial,CD,0.48%
+32,parag-parikh-long-term-value-fund-direct-growth,E.I.D. - Parry (India) Ltd.,Consumer Staples,Equity,0.46%
+33,parag-parikh-long-term-value-fund-direct-growth,Canara Bank,Financial,CD,0.45%
+34,parag-parikh-long-term-value-fund-direct-growth,Punjab National Bank,Financial,CD,0.42%
+35,parag-parikh-long-term-value-fund-direct-growth,Union Bank of India,Financial,CD,0.39%
+36,parag-parikh-long-term-value-fund-direct-growth,HDFC Bank Ltd.,Financial,CD,0.37%
+37,parag-parikh-long-term-value-fund-direct-growth,National Bank For Agriculture & Rural Development,Financial,CD,0.37%
+38,parag-parikh-long-term-value-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,CD,0.36%
+39,parag-parikh-long-term-value-fund-direct-growth,Bajaj Finance Ltd.,Financial,Equity,0.34%
+40,parag-parikh-long-term-value-fund-direct-growth,National Bank For Agriculture & Rural Development,Financial,CP,0.33%
+41,parag-parikh-long-term-value-fund-direct-growth,Narayana Hrudayalaya Ltd.,Healthcare,Equity,0.30%
+42,parag-parikh-long-term-value-fund-direct-growth,HDFC Bank Ltd.,Financial,CD,0.30%
+43,parag-parikh-long-term-value-fund-direct-growth,Canara Bank,Financial,CD,0.29%
+44,parag-parikh-long-term-value-fund-direct-growth,Central Depository Services (India) Ltd.,Financial,Equity,0.28%
+45,parag-parikh-long-term-value-fund-direct-growth,Indian Bank,Financial,CD,0.26%
+46,parag-parikh-long-term-value-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,0.26%
+47,parag-parikh-long-term-value-fund-direct-growth,National Bank For Agriculture & Rural Development,Financial,CD,0.25%
+48,parag-parikh-long-term-value-fund-direct-growth,Bank Of Baroda,Financial,CD,0.24%
+49,parag-parikh-long-term-value-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,0.23%
+50,parag-parikh-long-term-value-fund-direct-growth,Indian Bank,Financial,CD,0.23%
+51,parag-parikh-long-term-value-fund-direct-growth,Axis Bank Ltd.,Financial,CD,0.22%
+52,parag-parikh-long-term-value-fund-direct-growth,Bajaj Finance Ltd.,Financial,CP,0.22%
+53,parag-parikh-long-term-value-fund-direct-growth,Indian Bank,Financial,CD,0.22%
+54,parag-parikh-long-term-value-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,CD,0.22%
+55,parag-parikh-long-term-value-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,CD,0.22%
+56,parag-parikh-long-term-value-fund-direct-growth,Indian Bank,Financial,CD,0.22%
+57,parag-parikh-long-term-value-fund-direct-growth,Canara Bank,Financial,CD,0.19%
+58,parag-parikh-long-term-value-fund-direct-growth,Bank Of Baroda,Financial,CD,0.18%
+59,parag-parikh-long-term-value-fund-direct-growth,National Bank For Agriculture & Rural Development,Financial,CD,0.17%
+60,parag-parikh-long-term-value-fund-direct-growth,HDFC Bank Ltd.,Financial,CD,0.17%
+61,parag-parikh-long-term-value-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,CD,0.15%
+62,parag-parikh-long-term-value-fund-direct-growth,Punjab National Bank,Financial,CD,0.15%
+63,parag-parikh-long-term-value-fund-direct-growth,Union Bank of India,Financial,CD,0.15%
+64,parag-parikh-long-term-value-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,0.15%
+65,parag-parikh-long-term-value-fund-direct-growth,Canara Bank,Financial,CD,0.15%
+66,parag-parikh-long-term-value-fund-direct-growth,Punjab National Bank,Financial,CD,0.15%
+67,parag-parikh-long-term-value-fund-direct-growth,Indian Bank,Financial,CD,0.15%
+68,parag-parikh-long-term-value-fund-direct-growth,Bajaj Finance Ltd.,Financial,CP,0.15%
+69,parag-parikh-long-term-value-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,CD,0.15%
+70,parag-parikh-long-term-value-fund-direct-growth,Bajaj Finance Ltd.,Financial,CP,0.15%
+71,parag-parikh-long-term-value-fund-direct-growth,Eternal Ltd.,Services,Equity,0.15%
+72,parag-parikh-long-term-value-fund-direct-growth,Axis Bank Ltd.,Financial,CD,0.15%
+73,parag-parikh-long-term-value-fund-direct-growth,JIO Financial Services Ltd.,Financial,Equity,0.14%
+74,parag-parikh-long-term-value-fund-direct-growth,State Bank of India,Financial,Equity,0.14%
+75,parag-parikh-long-term-value-fund-direct-growth,ICRA Ltd.,Services,Equity,0.14%
+76,parag-parikh-long-term-value-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,CD,0.13%
+77,parag-parikh-long-term-value-fund-direct-growth,HDFC Bank Ltd.,Financial,CD,0.13%
+78,parag-parikh-long-term-value-fund-direct-growth,Axis Bank Ltd.,Financial,CD,0.13%
+79,parag-parikh-long-term-value-fund-direct-growth,Hindalco Industries Ltd.,Metals & Mining,Equity,0.12%
+80,parag-parikh-long-term-value-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,CD,0.11%
+81,parag-parikh-long-term-value-fund-direct-growth,Brookfield India Real Estate Trust REIT,Construction,REITs,0.11%
+82,parag-parikh-long-term-value-fund-direct-growth,Sun Pharmaceutical Industries Ltd.,Healthcare,Equity,0.11%
+83,parag-parikh-long-term-value-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,CD,0.11%
+84,parag-parikh-long-term-value-fund-direct-growth,Bank Of Baroda,Financial,CD,0.11%
+85,parag-parikh-long-term-value-fund-direct-growth,Titan Company Ltd.,Consumer Discretionary,Equity,0.10%
+86,parag-parikh-long-term-value-fund-direct-growth,Bharat Electronics Ltd.,Capital Goods,Equity,0.10%
+87,parag-parikh-long-term-value-fund-direct-growth,ICICI Securities Ltd.,Financial,CP,0.09%
+88,parag-parikh-long-term-value-fund-direct-growth,Maharashtra Scooters Ltd.,Automobile,Equity,0.09%
+89,parag-parikh-long-term-value-fund-direct-growth,Larsen & Toubro Ltd.,Construction,Equity,0.09%
+90,parag-parikh-long-term-value-fund-direct-growth,Indusind Bank Ltd.,Financial,Equity,0.09%
+91,parag-parikh-long-term-value-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,0.08%
+92,parag-parikh-long-term-value-fund-direct-growth,Tata Steel Ltd.,Metals & Mining,Equity,0.08%
+93,parag-parikh-long-term-value-fund-direct-growth,Union Bank of India,Financial,CD,0.08%
+94,parag-parikh-long-term-value-fund-direct-growth,Punjab National Bank,Financial,CD,0.08%
+95,parag-parikh-long-term-value-fund-direct-growth,Kotak Securities Ltd.,Services,CP,0.08%
+96,parag-parikh-long-term-value-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,CD,0.08%
+97,parag-parikh-long-term-value-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,0.08%
+98,parag-parikh-long-term-value-fund-direct-growth,Bajaj Finance Ltd.,Financial,CP,0.07%
+99,parag-parikh-long-term-value-fund-direct-growth,Bank Of Baroda,Financial,CD,0.07%
+100,parag-parikh-long-term-value-fund-direct-growth,HDFC Bank Ltd.,Financial,CD,0.07%
+101,parag-parikh-long-term-value-fund-direct-growth,HDFC Bank Ltd.,Financial,CD,0.07%
+102,parag-parikh-long-term-value-fund-direct-growth,Axis Bank Ltd.,Financial,CD,0.07%
+103,parag-parikh-long-term-value-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,CD,0.07%
+104,parag-parikh-long-term-value-fund-direct-growth,HDFC Bank Ltd.,Financial,CD,0.07%
+105,parag-parikh-long-term-value-fund-direct-growth,DLF Ltd.,Construction,Equity,0.06%
+106,parag-parikh-long-term-value-fund-direct-growth,Punjab National Bank,Financial,Equity,0.06%
+107,parag-parikh-long-term-value-fund-direct-growth,Punjab National Bank,Financial,CD,0.06%
+108,parag-parikh-long-term-value-fund-direct-growth,Bajaj Finserv Ltd.,Financial,Equity,0.05%
+109,parag-parikh-long-term-value-fund-direct-growth,Vedanta Ltd.,Metals & Mining,Equity,0.05%
+110,parag-parikh-long-term-value-fund-direct-growth,Hindustan Aeronautics Ltd.,Capital Goods,Equity,0.04%
+111,parag-parikh-long-term-value-fund-direct-growth,NTPC Ltd.,Energy,Equity,0.04%
+112,parag-parikh-long-term-value-fund-direct-growth,Indian Bank,Financial,CD,0.04%
+113,parag-parikh-long-term-value-fund-direct-growth,Union Bank of India,Financial,CD,0.04%
+114,parag-parikh-long-term-value-fund-direct-growth,Varun Beverages Ltd.,Consumer Staples,Equity,0.04%
+115,parag-parikh-long-term-value-fund-direct-growth,Indus Towers Ltd.,Communication,Equity,0.03%
+116,parag-parikh-long-term-value-fund-direct-growth,Trent Ltd.,Services,Equity,0.03%
+117,parag-parikh-long-term-value-fund-direct-growth,Mindspace Business Parks REIT,Construction,REITs,0.03%
+118,parag-parikh-long-term-value-fund-direct-growth,Lupin Ltd.,Healthcare,Equity,0.03%
+119,parag-parikh-long-term-value-fund-direct-growth,Tech Mahindra Ltd.,Technology,Equity,0.03%
+120,parag-parikh-long-term-value-fund-direct-growth,Nestle India Ltd.,Consumer Staples,Equity,0.03%
+121,parag-parikh-long-term-value-fund-direct-growth,LIC Housing Finance Ltd.,Financial,Equity,0.03%
+122,parag-parikh-long-term-value-fund-direct-growth,Grasim Industries Ltd.,Construction,Equity,0.02%
+123,parag-parikh-long-term-value-fund-direct-growth,IDFC First Bank Ltd.,Financial,Equity,0.02%
+124,parag-parikh-long-term-value-fund-direct-growth,Bank Of Baroda,Financial,Equity,0.02%
+125,parag-parikh-long-term-value-fund-direct-growth,Bandhan Bank Ltd.,Financial,Equity,0.02%
+126,parag-parikh-long-term-value-fund-direct-growth,GMR Airports Ltd.,Construction,Equity,0.02%
+127,parag-parikh-long-term-value-fund-direct-growth,Divi's Laboratories Ltd.,Healthcare,Equity,0.02%
+128,parag-parikh-long-term-value-fund-direct-growth,JSW Steel Ltd.,Metals & Mining,Equity,0.02%
+129,parag-parikh-long-term-value-fund-direct-growth,Oil And Natural Gas Corporation Ltd.,Energy,Equity,0.02%
+130,parag-parikh-long-term-value-fund-direct-growth,Nesco Ltd.,Construction,Equity,0.02%
+131,parag-parikh-long-term-value-fund-direct-growth,Tata Consumer Products Ltd.,Consumer Staples,Equity,0.01%
+132,parag-parikh-long-term-value-fund-direct-growth,Swaraj Engines Ltd.,Capital Goods,Equity,0.01%
+133,parag-parikh-long-term-value-fund-direct-growth,Hindustan Petroleum Corporation Ltd.,Energy,Equity,0.01%
+134,parag-parikh-long-term-value-fund-direct-growth,Eicher Motors Ltd.,Automobile,Equity,0.01%
+135,parag-parikh-long-term-value-fund-direct-growth,Indian Oil Corporation Ltd.,Energy,Equity,0.01%
+136,parag-parikh-long-term-value-fund-direct-growth,NMDC Ltd.,Metals & Mining,Equity,0.01%
+137,parag-parikh-long-term-value-fund-direct-growth,The Indian Hotels Company Ltd.,Services,Equity,0.01%
+138,parag-parikh-long-term-value-fund-direct-growth,Shriram Finance Ltd,Financial,Equity,0.01%
+139,parag-parikh-long-term-value-fund-direct-growth,Steel Authority Of India Ltd.,Metals & Mining,Equity,0.01%
+140,parag-parikh-long-term-value-fund-direct-growth,IIFL Finance Ltd.,Financial,Equity,0.01%
+141,parag-parikh-long-term-value-fund-direct-growth,Indian Railway Catering & Tourism Corporation Ltd.,Services,Equity,0.01%
+142,parag-parikh-long-term-value-fund-direct-growth,Bharat Heavy Electricals Ltd.,Capital Goods,Equity,0.01%
+143,parag-parikh-long-term-value-fund-direct-growth,United Spirits Ltd.,Consumer Staples,Equity,0.01%
+144,parag-parikh-long-term-value-fund-direct-growth,PNB Housing Finance Ltd.,Financial,Equity,0.00%
+145,parag-parikh-long-term-value-fund-direct-growth,Tata Power Company Ltd.,Energy,Equity,0.00%
+146,parag-parikh-long-term-value-fund-direct-growth,Power Finance Corporation Ltd.,Financial,Equity,0.00%
+147,parag-parikh-long-term-value-fund-direct-growth,The Federal Bank Ltd.,Financial,Equity,0.00%
+148,parag-parikh-long-term-value-fund-direct-growth,Aurobindo Pharma Ltd.,Healthcare,Equity,0.00%
+149,parag-parikh-long-term-value-fund-direct-growth,GAIL (India) Ltd.,Energy,Equity,0.00%
+150,parag-parikh-long-term-value-fund-direct-growth,Asian Paints Ltd.,Chemicals,Equity,0.00%
+151,parag-parikh-long-term-value-fund-direct-growth,Dabur India Ltd.,Consumer Staples,Equity,0.00%
+152,parag-parikh-long-term-value-fund-direct-growth,Polycab India Ltd.,Capital Goods,Equity,0.00%
+153,parag-parikh-long-term-value-fund-direct-growth,Godrej Properties Ltd.,Construction,Equity,0.00%
+154,parag-parikh-long-term-value-fund-direct-growth,Jindal Steel Ltd.,Metals & Mining,Equity,0.00%
+155,parag-parikh-long-term-value-fund-direct-growth,Jindal Steel Ltd.,Metals & Mining,Futures,-0.00%
+156,parag-parikh-long-term-value-fund-direct-growth,Godrej Properties Ltd.,Construction,Futures,-0.00%
+157,parag-parikh-long-term-value-fund-direct-growth,Polycab India Ltd.,Capital Goods,Futures,-0.00%
+158,parag-parikh-long-term-value-fund-direct-growth,Dabur India Ltd.,Consumer Staples,Futures,-0.00%
+159,parag-parikh-long-term-value-fund-direct-growth,Asian Paints Ltd.,Chemicals,Futures,-0.00%
+160,parag-parikh-long-term-value-fund-direct-growth,GAIL (India) Ltd.,Energy,Futures,-0.00%
+161,parag-parikh-long-term-value-fund-direct-growth,Aurobindo Pharma Ltd.,Healthcare,Futures,-0.00%
+162,parag-parikh-long-term-value-fund-direct-growth,The Federal Bank Ltd.,Financial,Futures,-0.00%
+163,parag-parikh-long-term-value-fund-direct-growth,Power Finance Corporation Ltd.,Financial,Futures,-0.00%
+164,parag-parikh-long-term-value-fund-direct-growth,Tata Power Company Ltd.,Energy,Futures,-0.00%
+165,parag-parikh-long-term-value-fund-direct-growth,PNB Housing Finance Ltd.,Financial,Futures,-0.00%
+166,parag-parikh-long-term-value-fund-direct-growth,United Spirits Ltd.,Consumer Staples,Futures,-0.01%
+167,parag-parikh-long-term-value-fund-direct-growth,Bharat Heavy Electricals Ltd.,Capital Goods,Futures,-0.01%
+168,parag-parikh-long-term-value-fund-direct-growth,Indian Railway Catering & Tourism Corporation Ltd.,Services,Futures,-0.01%
+169,parag-parikh-long-term-value-fund-direct-growth,IIFL Finance Ltd.,Financial,Futures,-0.01%
+170,parag-parikh-long-term-value-fund-direct-growth,Steel Authority Of India Ltd.,Metals & Mining,Futures,-0.01%
+171,parag-parikh-long-term-value-fund-direct-growth,Shriram Finance Ltd,Financial,Futures,-0.01%
+172,parag-parikh-long-term-value-fund-direct-growth,The Indian Hotels Company Ltd.,Services,Futures,-0.01%
+173,parag-parikh-long-term-value-fund-direct-growth,NMDC Ltd.,Metals & Mining,Futures,-0.01%
+174,parag-parikh-long-term-value-fund-direct-growth,Indian Oil Corporation Ltd.,Energy,Futures,-0.01%
+175,parag-parikh-long-term-value-fund-direct-growth,Eicher Motors Ltd.,Automobile,Futures,-0.01%
+176,parag-parikh-long-term-value-fund-direct-growth,Indus Towers Ltd.,Communication,Futures,-0.01%
+177,parag-parikh-long-term-value-fund-direct-growth,Hindustan Petroleum Corporation Ltd.,Energy,Futures,-0.01%
+178,parag-parikh-long-term-value-fund-direct-growth,Tata Consumer Products Ltd.,Consumer Staples,Futures,-0.01%
+179,parag-parikh-long-term-value-fund-direct-growth,Oil And Natural Gas Corporation Ltd.,Energy,Futures,-0.02%
+180,parag-parikh-long-term-value-fund-direct-growth,JSW Steel Ltd.,Metals & Mining,Futures,-0.02%
+181,parag-parikh-long-term-value-fund-direct-growth,Divi's Laboratories Ltd.,Healthcare,Futures,-0.02%
+182,parag-parikh-long-term-value-fund-direct-growth,GMR Airports Ltd.,Construction,Futures,-0.02%
+183,parag-parikh-long-term-value-fund-direct-growth,Bandhan Bank Ltd.,Financial,Futures,-0.02%
+184,parag-parikh-long-term-value-fund-direct-growth,Bank Of Baroda,Financial,Futures,-0.02%
+185,parag-parikh-long-term-value-fund-direct-growth,IDFC First Bank Ltd.,Financial,Futures,-0.02%
+186,parag-parikh-long-term-value-fund-direct-growth,Grasim Industries Ltd.,Construction,Futures,-0.02%
+187,parag-parikh-long-term-value-fund-direct-growth,LIC Housing Finance Ltd.,Financial,Futures,-0.03%
+188,parag-parikh-long-term-value-fund-direct-growth,Nestle India Ltd.,Consumer Staples,Futures,-0.03%
+189,parag-parikh-long-term-value-fund-direct-growth,Tech Mahindra Ltd.,Technology,Futures,-0.03%
+190,parag-parikh-long-term-value-fund-direct-growth,Lupin Ltd.,Healthcare,Futures,-0.03%
+191,parag-parikh-long-term-value-fund-direct-growth,Trent Ltd.,Services,Futures,-0.03%
+192,parag-parikh-long-term-value-fund-direct-growth,Varun Beverages Ltd.,Consumer Staples,Futures,-0.04%
+193,parag-parikh-long-term-value-fund-direct-growth,NTPC Ltd.,Energy,Futures,-0.04%
+194,parag-parikh-long-term-value-fund-direct-growth,Hindustan Aeronautics Ltd.,Capital Goods,Futures,-0.05%
+195,parag-parikh-long-term-value-fund-direct-growth,Vedanta Ltd.,Metals & Mining,Futures,-0.05%
+196,parag-parikh-long-term-value-fund-direct-growth,Bajaj Finserv Ltd.,Financial,Futures,-0.05%
+197,parag-parikh-long-term-value-fund-direct-growth,Punjab National Bank,Financial,Futures,-0.06%
+198,parag-parikh-long-term-value-fund-direct-growth,DLF Ltd.,Construction,Futures,-0.06%
+199,parag-parikh-long-term-value-fund-direct-growth,Tata Steel Ltd.,Metals & Mining,Futures,-0.08%
+200,parag-parikh-long-term-value-fund-direct-growth,Indusind Bank Ltd.,Financial,Futures,-0.09%
+201,parag-parikh-long-term-value-fund-direct-growth,Larsen & Toubro Ltd.,Construction,Futures,-0.09%
+202,parag-parikh-long-term-value-fund-direct-growth,Bharat Electronics Ltd.,Capital Goods,Futures,-0.10%
+203,parag-parikh-long-term-value-fund-direct-growth,Titan Company Ltd.,Consumer Discretionary,Futures,-0.10%
+204,parag-parikh-long-term-value-fund-direct-growth,Sun Pharmaceutical Industries Ltd.,Healthcare,Futures,-0.11%
+205,parag-parikh-long-term-value-fund-direct-growth,Hindalco Industries Ltd.,Metals & Mining,Futures,-0.12%
+206,parag-parikh-long-term-value-fund-direct-growth,State Bank of India,Financial,Futures,-0.14%
+207,parag-parikh-long-term-value-fund-direct-growth,JIO Financial Services Ltd.,Financial,Futures,-0.14%
+208,parag-parikh-long-term-value-fund-direct-growth,Eternal Ltd.,Services,Futures,-0.15%
+209,parag-parikh-long-term-value-fund-direct-growth,Bajaj Finance Ltd.,Financial,Futures,-0.34%
+210,parag-parikh-long-term-value-fund-direct-growth,Reliance Industries Ltd.,Energy,Futures,-0.80%
+211,parag-parikh-liquid-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,6.34%
+212,parag-parikh-liquid-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,4.38%
+213,parag-parikh-liquid-fund-direct-growth,Punjab National Bank,Financial,CD,4.37%
+214,parag-parikh-liquid-fund-direct-growth,Bank Of Baroda,Financial,CD,3.89%
+215,parag-parikh-liquid-fund-direct-growth,Indian Oil Corporation Ltd.,Energy,CP,2.95%
+216,parag-parikh-liquid-fund-direct-growth,Power Finance Corporation Ltd.,Financial,CP,2.95%
+217,parag-parikh-liquid-fund-direct-growth,Union Bank of India,Financial,CD,2.92%
+218,parag-parikh-liquid-fund-direct-growth,Punjab National Bank,Financial,CD,2.92%
+219,parag-parikh-liquid-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,CD,2.44%
+220,parag-parikh-liquid-fund-direct-growth,National Bank For Agriculture & Rural Development,Financial,CD,2.43%
+221,parag-parikh-liquid-fund-direct-growth,Canara Bank,Financial,CD,2.43%
+222,parag-parikh-liquid-fund-direct-growth,Axis Bank Ltd.,Financial,CD,1.97%
+223,parag-parikh-liquid-fund-direct-growth,Union Bank of India,Financial,CD,1.96%
+224,parag-parikh-liquid-fund-direct-growth,HDFC Bank Ltd.,Financial,CD,1.96%
+225,parag-parikh-liquid-fund-direct-growth,Indian Oil Corporation Ltd.,Energy,CP,1.96%
+226,parag-parikh-liquid-fund-direct-growth,HDFC Securities Ltd.,Financial,CP,1.95%
+227,parag-parikh-liquid-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,CD,1.95%
+228,parag-parikh-liquid-fund-direct-growth,Indian Bank,Financial,CD,1.95%
+229,parag-parikh-liquid-fund-direct-growth,HDFC Bank Ltd.,Financial,CD,1.95%
+230,parag-parikh-liquid-fund-direct-growth,Kotak Mahindra Securities Ltd.,Financial,CP,1.95%
+231,parag-parikh-liquid-fund-direct-growth,Bank Of Baroda,Financial,CD,1.95%
+232,parag-parikh-liquid-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,CP,1.94%
+233,parag-parikh-liquid-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,1.47%
+234,parag-parikh-liquid-fund-direct-growth,National Bank For Agriculture & Rural Development,Financial,CP,1.47%
+235,parag-parikh-liquid-fund-direct-growth,Canara Bank,Financial,CD,1.47%
+236,parag-parikh-liquid-fund-direct-growth,Bajaj Finance Ltd.,Financial,CP,1.46%
+237,parag-parikh-liquid-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,1.46%
+238,parag-parikh-liquid-fund-direct-growth,LIC Housing Finance Ltd.,Financial,CP,1.46%
+239,parag-parikh-liquid-fund-direct-growth,Bank Of Baroda,Financial,CD,1.46%
+240,parag-parikh-liquid-fund-direct-growth,Union Bank of India,Financial,CD,1.46%
+241,parag-parikh-liquid-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,1.37%
+242,parag-parikh-liquid-fund-direct-growth,LIC Housing Finance Ltd.,Financial,NCD,0.99%
+243,parag-parikh-liquid-fund-direct-growth,Bank Of Baroda,Financial,CD,0.98%
+244,parag-parikh-liquid-fund-direct-growth,Union Bank of India,Financial,CD,0.98%
+245,parag-parikh-liquid-fund-direct-growth,National Bank For Agriculture & Rural Development,Financial,CD,0.98%
+246,parag-parikh-liquid-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,0.98%
+247,parag-parikh-liquid-fund-direct-growth,Indian Oil Corporation Ltd.,Energy,CP,0.98%
+248,parag-parikh-liquid-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,CD,0.97%
+249,parag-parikh-liquid-fund-direct-growth,HDFC Bank Ltd.,Financial,CD,0.97%
+250,parag-parikh-liquid-fund-direct-growth,Axis Bank Ltd.,Financial,CD,0.97%
+251,parag-parikh-liquid-fund-direct-growth,HDFC Bank Ltd.,Financial,CD,0.49%
+252,parag-parikh-liquid-fund-direct-growth,National Bank For Agriculture & Rural Development,Financial,CD,0.49%
+253,parag-parikh-liquid-fund-direct-growth,Canara Bank,Financial,CD,0.49%
+254,parag-parikh-liquid-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,CP,0.49%
+255,parag-parikh-liquid-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,0.49%
+256,parag-parikh-liquid-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,CD,0.49%
+257,parag-parikh-liquid-fund-direct-growth,Bajaj Finance Ltd.,Financial,CP,0.49%
+258,parag-parikh-elss-tax-saver-fund-direct-growth,HDFC Bank Ltd.,Financial,Equity,8.20%
+259,parag-parikh-elss-tax-saver-fund-direct-growth,Bajaj Holdings & Investment Ltd.,Financial,Equity,6.64%
+260,parag-parikh-elss-tax-saver-fund-direct-growth,Power Grid Corporation Of India Ltd.,Energy,Equity,5.99%
+261,parag-parikh-elss-tax-saver-fund-direct-growth,Maharashtra Scooters Ltd.,Automobile,Equity,5.91%
+262,parag-parikh-elss-tax-saver-fund-direct-growth,Coal India Ltd.,Energy,Equity,5.26%
+263,parag-parikh-elss-tax-saver-fund-direct-growth,ITC Ltd.,Consumer Staples,Equity,5.01%
+264,parag-parikh-elss-tax-saver-fund-direct-growth,ICICI Bank Ltd.,Financial,Equity,4.82%
+265,parag-parikh-elss-tax-saver-fund-direct-growth,Maruti Suzuki India Ltd.,Automobile,Equity,4.31%
+266,parag-parikh-elss-tax-saver-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,Equity,4.21%
+267,parag-parikh-elss-tax-saver-fund-direct-growth,Mahindra & Mahindra Ltd.,Automobile,Equity,3.99%
+268,parag-parikh-elss-tax-saver-fund-direct-growth,Bharti Airtel Ltd.,Communication,Equity,3.75%
+269,parag-parikh-elss-tax-saver-fund-direct-growth,HCL Technologies Ltd.,Technology,Equity,3.65%
+270,parag-parikh-elss-tax-saver-fund-direct-growth,Infosys Ltd.,Technology,Equity,3.57%
+271,parag-parikh-elss-tax-saver-fund-direct-growth,Axis Bank Ltd.,Financial,Equity,3.49%
+272,parag-parikh-elss-tax-saver-fund-direct-growth,CCL Products (India) Ltd.,Consumer Staples,Equity,2.41%
+273,parag-parikh-elss-tax-saver-fund-direct-growth,CMS Info Systems Ltd.,Services,Equity,2.25%
+274,parag-parikh-elss-tax-saver-fund-direct-growth,Wipro Ltd.,Technology,Equity,2.10%
+275,parag-parikh-elss-tax-saver-fund-direct-growth,Tata Consultancy Services Ltd.,Technology,Equity,1.82%
+276,parag-parikh-elss-tax-saver-fund-direct-growth,Dr. Reddy's Laboratories Ltd.,Healthcare,Equity,1.31%
+277,parag-parikh-elss-tax-saver-fund-direct-growth,Zydus Lifesciences Ltd.,Healthcare,Equity,1.29%
+278,parag-parikh-elss-tax-saver-fund-direct-growth,Cipla Ltd.,Healthcare,Equity,1.26%
+279,parag-parikh-elss-tax-saver-fund-direct-growth,Balkrishna Industries Ltd.,Automobile,Equity,0.97%
+280,parag-parikh-elss-tax-saver-fund-direct-growth,Indian Energy Exchange Ltd.,Services,Equity,0.94%
+281,parag-parikh-elss-tax-saver-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,CD,0.85%
+282,parag-parikh-elss-tax-saver-fund-direct-growth,HDFC Bank Ltd.,Financial,CD,0.84%
+283,parag-parikh-elss-tax-saver-fund-direct-growth,Zydus Wellness Ltd.,Consumer Staples,Equity,0.83%
+284,parag-parikh-elss-tax-saver-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,CD,0.83%
+285,parag-parikh-elss-tax-saver-fund-direct-growth,Bajaj Finance Ltd.,Financial,CP,0.82%
+286,parag-parikh-elss-tax-saver-fund-direct-growth,ICICI Securities Ltd.,Financial,CP,0.82%
+287,parag-parikh-elss-tax-saver-fund-direct-growth,Bank Of Baroda,Financial,CD,0.81%
+288,parag-parikh-elss-tax-saver-fund-direct-growth,Canara Bank,Financial,CD,0.80%
+289,parag-parikh-elss-tax-saver-fund-direct-growth,Multi Commodity Exchange Of India Ltd.,Services,Equity,0.54%
+290,parag-parikh-elss-tax-saver-fund-direct-growth,E.I.D. - Parry (India) Ltd.,Consumer Staples,Equity,0.49%
+291,parag-parikh-elss-tax-saver-fund-direct-growth,Punjab National Bank,Financial,CD,0.42%
+292,parag-parikh-elss-tax-saver-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,CD,0.42%
+293,parag-parikh-elss-tax-saver-fund-direct-growth,National Bank For Agriculture & Rural Development,Financial,CD,0.42%
+294,parag-parikh-elss-tax-saver-fund-direct-growth,National Bank For Agriculture & Rural Development,Financial,CD,0.42%
+295,parag-parikh-elss-tax-saver-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,CD,0.42%
+296,parag-parikh-elss-tax-saver-fund-direct-growth,Kotak Securities Ltd.,Services,CP,0.42%
+297,parag-parikh-elss-tax-saver-fund-direct-growth,REC Ltd.,Financial,CP,0.41%
+298,parag-parikh-elss-tax-saver-fund-direct-growth,Axis Bank Ltd.,Financial,CD,0.41%
+299,parag-parikh-elss-tax-saver-fund-direct-growth,Indian Bank,Financial,CD,0.41%
+300,parag-parikh-elss-tax-saver-fund-direct-growth,Union Bank of India,Financial,CD,0.41%
+301,parag-parikh-elss-tax-saver-fund-direct-growth,National Bank For Agriculture & Rural Development,Financial,CP,0.41%
+302,parag-parikh-elss-tax-saver-fund-direct-growth,Bank Of Baroda,Financial,CD,0.41%
+303,parag-parikh-elss-tax-saver-fund-direct-growth,Narayana Hrudayalaya Ltd.,Healthcare,Equity,0.35%
+304,parag-parikh-elss-tax-saver-fund-direct-growth,Central Depository Services (India) Ltd.,Financial,Equity,0.28%
+305,parag-parikh-elss-tax-saver-fund-direct-growth,Swaraj Engines Ltd.,Capital Goods,Equity,0.20%
+306,parag-parikh-elss-tax-saver-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,0.17%
+307,parag-parikh-elss-tax-saver-fund-direct-growth,VST Industries Ltd.,Consumer Staples,Equity,0.13%
+308,parag-parikh-elss-tax-saver-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,0.08%
+309,parag-parikh-elss-tax-saver-fund-direct-growth,Indus Towers Ltd.,Communication,Equity,0.07%
+310,parag-parikh-elss-tax-saver-fund-direct-growth,ICRA Ltd.,Services,Equity,0.06%
+311,parag-parikh-elss-tax-saver-fund-direct-growth,Nesco Ltd.,Construction,Equity,0.03%
+312,parag-parikh-conservative-hybrid-fund-direct-growth,Uttar Pradesh State,Others,SDL,4.76%
+313,parag-parikh-conservative-hybrid-fund-direct-growth,Embassy Office Parks REIT,Construction,REITs,4.40%
+314,parag-parikh-conservative-hybrid-fund-direct-growth,Brookfield India Real Estate Trust REIT,Construction,REITs,4.16%
+315,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,4.08%
+316,parag-parikh-conservative-hybrid-fund-direct-growth,Karnataka State,Others,SDL,3.18%
+317,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,2.80%
+318,parag-parikh-conservative-hybrid-fund-direct-growth,Uttar Pradesh State,Others,SDL,2.47%
+319,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,2.47%
+320,parag-parikh-conservative-hybrid-fund-direct-growth,Coal India Ltd.,Energy,Equity,2.01%
+321,parag-parikh-conservative-hybrid-fund-direct-growth,ITC Ltd.,Consumer Staples,Equity,2.01%
+322,parag-parikh-conservative-hybrid-fund-direct-growth,Petronet LNG Ltd.,Energy,Equity,1.98%
+323,parag-parikh-conservative-hybrid-fund-direct-growth,Power Grid Corporation Of India Ltd.,Energy,Equity,1.97%
+324,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,1.73%
+325,parag-parikh-conservative-hybrid-fund-direct-growth,Gujarat State,Construction,SDL,1.63%
+326,parag-parikh-conservative-hybrid-fund-direct-growth,GOI,Sovereign,GOI Sec,1.62%
+327,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,1.61%
+328,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,1.61%
+329,parag-parikh-conservative-hybrid-fund-direct-growth,Bajaj Finance Ltd.,Financial,Debenture,1.59%
+330,parag-parikh-conservative-hybrid-fund-direct-growth,Gujarat State,Construction,SDL,1.59%
+331,parag-parikh-conservative-hybrid-fund-direct-growth,Madhya Pradesh State,Others,SDL,1.59%
+332,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,1.47%
+333,parag-parikh-conservative-hybrid-fund-direct-growth,Uttar Pradesh State,Others,SDL,1.43%
+334,parag-parikh-conservative-hybrid-fund-direct-growth,Uttar Pradesh State,Others,SDL,1.33%
+335,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,1.32%
+336,parag-parikh-conservative-hybrid-fund-direct-growth,REC Ltd.,Financial,Debenture,1.29%
+337,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,1.14%
+338,parag-parikh-conservative-hybrid-fund-direct-growth,Karnataka State,Others,SDL,1.14%
+339,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,1.14%
+340,parag-parikh-conservative-hybrid-fund-direct-growth,Parag Parikh Liquid Fund Direct - Growth,NA,Mutual Fund,1.04%
+341,parag-parikh-conservative-hybrid-fund-direct-growth,Reliance Industries Ltd.,Energy,Equity,1.01%
+342,parag-parikh-conservative-hybrid-fund-direct-growth,REC Ltd.,Financial,Equity,1.01%
+343,parag-parikh-conservative-hybrid-fund-direct-growth,Andhra Pradesh State,Financial,SDL,0.98%
+344,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,0.94%
+345,parag-parikh-conservative-hybrid-fund-direct-growth,Ultratech Cement Ltd.,Construction,Equity,0.90%
+346,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,0.82%
+347,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.82%
+348,parag-parikh-conservative-hybrid-fund-direct-growth,Uttar Pradesh State,Others,SDL,0.82%
+349,parag-parikh-conservative-hybrid-fund-direct-growth,Gujarat State,Construction,SDL,0.81%
+350,parag-parikh-conservative-hybrid-fund-direct-growth,National Bank For Agriculture & Rural Development,Financial,Bonds,0.81%
+351,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.81%
+352,parag-parikh-conservative-hybrid-fund-direct-growth,LIC Housing Finance Ltd.,Financial,Debenture,0.81%
+353,parag-parikh-conservative-hybrid-fund-direct-growth,National Bank For Agriculture & Rural Development,Financial,Bonds,0.81%
+354,parag-parikh-conservative-hybrid-fund-direct-growth,Bajaj Finance Ltd.,Financial,Debenture,0.80%
+355,parag-parikh-conservative-hybrid-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,Bonds,0.80%
+356,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.80%
+357,parag-parikh-conservative-hybrid-fund-direct-growth,LIC Housing Finance Ltd.,Financial,Bonds,0.79%
+358,parag-parikh-conservative-hybrid-fund-direct-growth,Bajaj Finance Ltd.,Financial,Debenture,0.79%
+359,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,0.78%
+360,parag-parikh-conservative-hybrid-fund-direct-growth,Karnataka State,Others,SDL,0.78%
+361,parag-parikh-conservative-hybrid-fund-direct-growth,Swaraj Engines Ltd.,Capital Goods,Equity,0.73%
+362,parag-parikh-conservative-hybrid-fund-direct-growth,Mindspace Business Parks REIT,Construction,REITs,0.72%
+363,parag-parikh-conservative-hybrid-fund-direct-growth,Andhra Pradesh State,Financial,SDL,0.68%
+364,parag-parikh-conservative-hybrid-fund-direct-growth,Uttarakhand State,Others,SDL,0.65%
+365,parag-parikh-conservative-hybrid-fund-direct-growth,LIC Housing Finance Ltd.,Financial,FRB,0.64%
+366,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.63%
+367,parag-parikh-conservative-hybrid-fund-direct-growth,Kerala State,Others,SDL,0.51%
+368,parag-parikh-conservative-hybrid-fund-direct-growth,Punjab State,Others,SDL,0.50%
+369,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,0.49%
+370,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,0.49%
+371,parag-parikh-conservative-hybrid-fund-direct-growth,IndiGrid Infrastructure Trust,Capital Goods,Bonds,0.48%
+372,parag-parikh-conservative-hybrid-fund-direct-growth,Karnataka State,Others,SDL,0.47%
+373,parag-parikh-conservative-hybrid-fund-direct-growth,Andhra Pradesh State,Financial,SDL,0.34%
+374,parag-parikh-conservative-hybrid-fund-direct-growth,REC Ltd.,Financial,Debenture,0.33%
+375,parag-parikh-conservative-hybrid-fund-direct-growth,Rajasthan State,Others,SDL,0.33%
+376,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.33%
+377,parag-parikh-conservative-hybrid-fund-direct-growth,Rajasthan State,Others,SDL,0.33%
+378,parag-parikh-conservative-hybrid-fund-direct-growth,Rajasthan State,Others,SDL,0.33%
+379,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,0.33%
+380,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.33%
+381,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,0.33%
+382,parag-parikh-conservative-hybrid-fund-direct-growth,Andhra Pradesh State,Financial,SDL,0.32%
+383,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.32%
+384,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,0.32%
+385,parag-parikh-conservative-hybrid-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,Equity,0.32%
+386,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.32%
+387,parag-parikh-conservative-hybrid-fund-direct-growth,Gujarat State,Construction,SDL,0.32%
+388,parag-parikh-conservative-hybrid-fund-direct-growth,Rajasthan State,Others,SDL,0.32%
+389,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.32%
+390,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,0.32%
+391,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,0.32%
+392,parag-parikh-conservative-hybrid-fund-direct-growth,Karnataka State,Others,SDL,0.32%
+393,parag-parikh-conservative-hybrid-fund-direct-growth,Karnataka State,Others,SDL,0.31%
+394,parag-parikh-conservative-hybrid-fund-direct-growth,Axis Bank Ltd.,Financial,Equity,0.27%
+395,parag-parikh-conservative-hybrid-fund-direct-growth,ICICI Bank Ltd.,Financial,Equity,0.18%
+396,parag-parikh-conservative-hybrid-fund-direct-growth,Andhra Pradesh State,Financial,SDL,0.17%
+397,parag-parikh-conservative-hybrid-fund-direct-growth,Andhra Pradesh State,Financial,SDL,0.17%
+398,parag-parikh-conservative-hybrid-fund-direct-growth,Punjab State,Others,SDL,0.17%
+399,parag-parikh-conservative-hybrid-fund-direct-growth,Karnataka State,Others,SDL,0.17%
+400,parag-parikh-conservative-hybrid-fund-direct-growth,Andhra Pradesh State,Financial,SDL,0.17%
+401,parag-parikh-conservative-hybrid-fund-direct-growth,GOI,Sovereign,GOI Sec,0.16%
+402,parag-parikh-conservative-hybrid-fund-direct-growth,Karnataka State,Others,SDL,0.16%
+403,parag-parikh-conservative-hybrid-fund-direct-growth,Karnataka State,Others,SDL,0.16%
+404,parag-parikh-conservative-hybrid-fund-direct-growth,Karnataka State,Others,SDL,0.16%
+405,parag-parikh-conservative-hybrid-fund-direct-growth,Rajasthan State,Others,SDL,0.16%
+406,parag-parikh-conservative-hybrid-fund-direct-growth,West Bengal State,Others,SDL,0.16%
+407,parag-parikh-conservative-hybrid-fund-direct-growth,LIC Housing Finance Ltd.,Financial,Debenture,0.16%
+408,parag-parikh-conservative-hybrid-fund-direct-growth,Rajasthan State,Others,SDL,0.16%
+409,parag-parikh-conservative-hybrid-fund-direct-growth,Kerala State,Others,SDL,0.16%
+410,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.16%
+411,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,0.16%
+412,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,0.16%
+413,parag-parikh-conservative-hybrid-fund-direct-growth,Andhra Pradesh State,Financial,SDL,0.16%
+414,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.16%
+415,parag-parikh-conservative-hybrid-fund-direct-growth,IndiGrid Infrastructure Trust,Capital Goods,Debenture,0.16%
+416,parag-parikh-conservative-hybrid-fund-direct-growth,IndiGrid Infrastructure Trust,Capital Goods,Debenture,0.16%
+417,parag-parikh-conservative-hybrid-fund-direct-growth,Karnataka State,Others,SDL,0.16%
+418,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.16%
+419,parag-parikh-conservative-hybrid-fund-direct-growth,Gujarat State,Construction,SDL,0.16%
+420,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.16%
+421,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.16%
+422,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.16%
+423,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.16%
+424,parag-parikh-conservative-hybrid-fund-direct-growth,Rajasthan State,Others,SDL,0.16%
+425,parag-parikh-conservative-hybrid-fund-direct-growth,Karnataka State,Others,SDL,0.16%
+426,parag-parikh-conservative-hybrid-fund-direct-growth,Rajasthan State,Others,SDL,0.16%
+427,parag-parikh-conservative-hybrid-fund-direct-growth,Maharashtra State,Others,SDL,0.16%
+428,parag-parikh-conservative-hybrid-fund-direct-growth,Rajasthan State,Others,SDL,0.16%
+429,parag-parikh-conservative-hybrid-fund-direct-growth,Tamilnadu State,Others,SDL,0.16%
+430,parag-parikh-conservative-hybrid-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,0.15%
+431,parag-parikh-conservative-hybrid-fund-direct-growth,Punjab National Bank,Financial,Equity,0.13%
+432,parag-parikh-conservative-hybrid-fund-direct-growth,Bank Of Baroda,Financial,Equity,0.08%
+433,parag-parikh-conservative-hybrid-fund-direct-growth,Indus Towers Ltd.,Communication,Equity,0.08%
+434,parag-parikh-conservative-hybrid-fund-direct-growth,GMR Airports Ltd.,Construction,Equity,0.05%
+435,parag-parikh-conservative-hybrid-fund-direct-growth,HDFC Bank Ltd.,Financial,Equity,0.04%
+436,parag-parikh-conservative-hybrid-fund-direct-growth,Steel Authority Of India Ltd.,Metals & Mining,Equity,0.03%
+437,parag-parikh-conservative-hybrid-fund-direct-growth,Tata Consultancy Services Ltd.,Technology,Equity,0.02%
+438,parag-parikh-conservative-hybrid-fund-direct-growth,JIO Financial Services Ltd.,Financial,Equity,0.00%
+439,parag-parikh-conservative-hybrid-fund-direct-growth,JIO Financial Services Ltd.,Financial,Futures,-0.00%
+440,parag-parikh-conservative-hybrid-fund-direct-growth,Tata Consultancy Services Ltd.,Technology,Futures,-0.02%
+441,parag-parikh-conservative-hybrid-fund-direct-growth,Steel Authority Of India Ltd.,Metals & Mining,Futures,-0.03%
+442,parag-parikh-conservative-hybrid-fund-direct-growth,HDFC Bank Ltd.,Financial,Futures,-0.04%
+443,parag-parikh-conservative-hybrid-fund-direct-growth,GMR Airports Ltd.,Construction,Futures,-0.05%
+444,parag-parikh-conservative-hybrid-fund-direct-growth,Bank Of Baroda,Financial,Futures,-0.08%
+445,parag-parikh-conservative-hybrid-fund-direct-growth,Punjab National Bank,Financial,Futures,-0.13%
+446,parag-parikh-conservative-hybrid-fund-direct-growth,ICICI Bank Ltd.,Financial,Futures,-0.18%
+447,parag-parikh-conservative-hybrid-fund-direct-growth,Axis Bank Ltd.,Financial,Futures,-0.27%
+448,parag-parikh-conservative-hybrid-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,Futures,-0.32%
+449,parag-parikh-conservative-hybrid-fund-direct-growth,Ultratech Cement Ltd.,Construction,Futures,-0.90%
+450,parag-parikh-conservative-hybrid-fund-direct-growth,Reliance Industries Ltd.,Energy,Futures,-1.02%
+451,parag-parikh-arbitrage-fund-direct-growth,Parag Parikh Liquid Fund Direct - Growth,NA,Mutual Fund,10.63%
+452,parag-parikh-arbitrage-fund-direct-growth,HDFC Bank Ltd.,Financial,Equity,4.58%
+453,parag-parikh-arbitrage-fund-direct-growth,Bharti Airtel Ltd.,Communication,Equity,4.42%
+454,parag-parikh-arbitrage-fund-direct-growth,Axis Bank Ltd.,Financial,Equity,4.15%
+455,parag-parikh-arbitrage-fund-direct-growth,Reliance Industries Ltd.,Energy,Equity,4.05%
+456,parag-parikh-arbitrage-fund-direct-growth,ICICI Bank Ltd.,Financial,Equity,3.25%
+457,parag-parikh-arbitrage-fund-direct-growth,State Bank of India,Financial,Equity,3.15%
+458,parag-parikh-arbitrage-fund-direct-growth,Bharat Heavy Electricals Ltd.,Capital Goods,Equity,2.92%
+459,parag-parikh-arbitrage-fund-direct-growth,Mahindra & Mahindra Ltd.,Automobile,Equity,2.80%
+460,parag-parikh-arbitrage-fund-direct-growth,IDFC First Bank Ltd.,Financial,Equity,2.74%
+461,parag-parikh-arbitrage-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,Equity,2.60%
+462,parag-parikh-arbitrage-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,CD,2.44%
+463,parag-parikh-arbitrage-fund-direct-growth,Axis Bank Ltd.,Financial,CD,2.43%
+464,parag-parikh-arbitrage-fund-direct-growth,Eternal Ltd.,Services,Equity,2.27%
+465,parag-parikh-arbitrage-fund-direct-growth,Canara Bank,Financial,Equity,2.08%
+466,parag-parikh-arbitrage-fund-direct-growth,NMDC Ltd.,Metals & Mining,Equity,2.07%
+467,parag-parikh-arbitrage-fund-direct-growth,Tata Steel Ltd.,Metals & Mining,Equity,1.96%
+468,parag-parikh-arbitrage-fund-direct-growth,Hindustan Aeronautics Ltd.,Capital Goods,Equity,1.86%
+469,parag-parikh-arbitrage-fund-direct-growth,Bharat Electronics Ltd.,Capital Goods,Equity,1.81%
+470,parag-parikh-arbitrage-fund-direct-growth,Shriram Finance Ltd,Financial,Equity,1.74%
+471,parag-parikh-arbitrage-fund-direct-growth,Punjab National Bank,Financial,Equity,1.66%
+472,parag-parikh-arbitrage-fund-direct-growth,GMR Airports Ltd.,Construction,Equity,1.63%
+473,parag-parikh-arbitrage-fund-direct-growth,DLF Ltd.,Construction,Equity,1.59%
+474,parag-parikh-arbitrage-fund-direct-growth,Bank Of Baroda,Financial,Equity,1.51%
+475,parag-parikh-arbitrage-fund-direct-growth,Ultratech Cement Ltd.,Construction,Equity,1.44%
+476,parag-parikh-arbitrage-fund-direct-growth,Kotak Securities Ltd.,Services,CP,1.25%
+477,parag-parikh-arbitrage-fund-direct-growth,HDFC Bank Ltd.,Financial,CD,1.23%
+478,parag-parikh-arbitrage-fund-direct-growth,National Bank For Agriculture & Rural Development,Financial,CP,1.22%
+479,parag-parikh-arbitrage-fund-direct-growth,Bajaj Finance Ltd.,Financial,CP,1.22%
+480,parag-parikh-arbitrage-fund-direct-growth,ICICI Securities Ltd.,Financial,CP,1.22%
+481,parag-parikh-arbitrage-fund-direct-growth,HDFC Bank Ltd.,Financial,CD,1.21%
+482,parag-parikh-arbitrage-fund-direct-growth,Oil And Natural Gas Corporation Ltd.,Energy,Equity,1.11%
+483,parag-parikh-arbitrage-fund-direct-growth,Tata Consultancy Services Ltd.,Technology,Equity,1.07%
+484,parag-parikh-arbitrage-fund-direct-growth,Sammaan Capital Ltd.,Financial,Equity,1.01%
+485,parag-parikh-arbitrage-fund-direct-growth,Tata Power Company Ltd.,Energy,Equity,0.97%
+486,parag-parikh-arbitrage-fund-direct-growth,Bandhan Bank Ltd.,Financial,Equity,0.85%
+487,parag-parikh-arbitrage-fund-direct-growth,Aditya Birla Capital Ltd.,Financial,Equity,0.72%
+488,parag-parikh-arbitrage-fund-direct-growth,ITC Ltd.,Consumer Staples,Equity,0.71%
+489,parag-parikh-arbitrage-fund-direct-growth,JIO Financial Services Ltd.,Financial,Equity,0.71%
+490,parag-parikh-arbitrage-fund-direct-growth,Titan Company Ltd.,Consumer Discretionary,Equity,0.68%
+491,parag-parikh-arbitrage-fund-direct-growth,Indusind Bank Ltd.,Financial,Equity,0.65%
+492,parag-parikh-arbitrage-fund-direct-growth,HCL Technologies Ltd.,Technology,Equity,0.64%
+493,parag-parikh-arbitrage-fund-direct-growth,Larsen & Toubro Ltd.,Construction,Equity,0.58%
+494,parag-parikh-arbitrage-fund-direct-growth,Vodafone Idea Ltd.,Communication,Equity,0.52%
+495,parag-parikh-arbitrage-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,0.50%
+496,parag-parikh-arbitrage-fund-direct-growth,JSW Energy Ltd.,Capital Goods,Equity,0.46%
+497,parag-parikh-arbitrage-fund-direct-growth,One97 Communications Ltd.,Services,Equity,0.43%
+498,parag-parikh-arbitrage-fund-direct-growth,Vedanta Ltd.,Metals & Mining,Equity,0.42%
+499,parag-parikh-arbitrage-fund-direct-growth,Bajaj Finance Ltd.,Financial,Equity,0.41%
+500,parag-parikh-arbitrage-fund-direct-growth,Grasim Industries Ltd.,Construction,Equity,0.39%
+501,parag-parikh-arbitrage-fund-direct-growth,RBL Bank Ltd.,Financial,Equity,0.39%
+502,parag-parikh-arbitrage-fund-direct-growth,Power Finance Corporation Ltd.,Financial,Equity,0.39%
+503,parag-parikh-arbitrage-fund-direct-growth,Power Grid Corporation Of India Ltd.,Energy,Equity,0.38%
+504,parag-parikh-arbitrage-fund-direct-growth,Varun Beverages Ltd.,Consumer Staples,Equity,0.35%
+505,parag-parikh-arbitrage-fund-direct-growth,Steel Authority Of India Ltd.,Metals & Mining,Equity,0.35%
+506,parag-parikh-arbitrage-fund-direct-growth,REC Ltd.,Financial,Equity,0.35%
+507,parag-parikh-arbitrage-fund-direct-growth,Hindalco Industries Ltd.,Metals & Mining,Equity,0.34%
+508,parag-parikh-arbitrage-fund-direct-growth,GAIL (India) Ltd.,Energy,Equity,0.34%
+509,parag-parikh-arbitrage-fund-direct-growth,Biocon Ltd.,Healthcare,Equity,0.25%
+510,parag-parikh-arbitrage-fund-direct-growth,NTPC Ltd.,Energy,Equity,0.25%
+511,parag-parikh-arbitrage-fund-direct-growth,Hindustan Zinc Ltd.,Metals & Mining,Equity,0.24%
+512,parag-parikh-arbitrage-fund-direct-growth,Lupin Ltd.,Healthcare,Equity,0.20%
+513,parag-parikh-arbitrage-fund-direct-growth,Crompton Greaves Consumer Electricals Ltd.,Consumer Discretionary,Equity,0.19%
+514,parag-parikh-arbitrage-fund-direct-growth,Bajaj Finserv Ltd.,Financial,Equity,0.18%
+515,parag-parikh-arbitrage-fund-direct-growth,Cipla Ltd.,Healthcare,Equity,0.17%
+516,parag-parikh-arbitrage-fund-direct-growth,The Indian Hotels Company Ltd.,Services,Equity,0.16%
+517,parag-parikh-arbitrage-fund-direct-growth,Tata Consumer Products Ltd.,Consumer Staples,Equity,0.16%
+518,parag-parikh-arbitrage-fund-direct-growth,Dixon Technologies (India) Ltd.,Capital Goods,Equity,0.14%
+519,parag-parikh-arbitrage-fund-direct-growth,Apollo Hospitals Enterprise Ltd.,Healthcare,Equity,0.14%
+520,parag-parikh-arbitrage-fund-direct-growth,Petronet LNG Ltd.,Energy,Equity,0.13%
+521,parag-parikh-arbitrage-fund-direct-growth,PNB Housing Finance Ltd.,Financial,Equity,0.13%
+522,parag-parikh-arbitrage-fund-direct-growth,APL Apollo Tubes Ltd.,Metals & Mining,Equity,0.13%
+523,parag-parikh-arbitrage-fund-direct-growth,Aurobindo Pharma Ltd.,Healthcare,Equity,0.12%
+524,parag-parikh-arbitrage-fund-direct-growth,Exide Industries Ltd.,Capital Goods,Equity,0.12%
+525,parag-parikh-arbitrage-fund-direct-growth,Jubilant FoodWorks Ltd.,Services,Equity,0.12%
+526,parag-parikh-arbitrage-fund-direct-growth,Samvardhana Motherson International Ltd.,Automobile,Equity,0.11%
+527,parag-parikh-arbitrage-fund-direct-growth,Divi's Laboratories Ltd.,Healthcare,Equity,0.10%
+528,parag-parikh-arbitrage-fund-direct-growth,United Spirits Ltd.,Consumer Staples,Equity,0.09%
+529,parag-parikh-arbitrage-fund-direct-growth,LIC Housing Finance Ltd.,Financial,Equity,0.09%
+530,parag-parikh-arbitrage-fund-direct-growth,JSW Steel Ltd.,Metals & Mining,Equity,0.09%
+531,parag-parikh-arbitrage-fund-direct-growth,Godrej Properties Ltd.,Construction,Equity,0.08%
+532,parag-parikh-arbitrage-fund-direct-growth,HFCL Ltd.,Communication,Equity,0.08%
+533,parag-parikh-arbitrage-fund-direct-growth,Yes Bank Ltd.,Financial,Equity,0.08%
+534,parag-parikh-arbitrage-fund-direct-growth,Indian Railway Catering & Tourism Corporation Ltd.,Services,Equity,0.08%
+535,parag-parikh-arbitrage-fund-direct-growth,Kalyan Jewellers India Ltd.,Consumer Discretionary,Equity,0.08%
+536,parag-parikh-arbitrage-fund-direct-growth,PB Fintech Ltd.,Services,Equity,0.07%
+537,parag-parikh-arbitrage-fund-direct-growth,Syngene International Ltd.,Healthcare,Equity,0.05%
+538,parag-parikh-arbitrage-fund-direct-growth,Pidilite Industries Ltd.,Chemicals,Equity,0.04%
+539,parag-parikh-arbitrage-fund-direct-growth,Britannia Industries Ltd.,Consumer Staples,Equity,0.04%
+540,parag-parikh-arbitrage-fund-direct-growth,Indian Oil Corporation Ltd.,Energy,Equity,0.04%
+541,parag-parikh-arbitrage-fund-direct-growth,Jindal Steel Ltd.,Metals & Mining,Equity,0.04%
+542,parag-parikh-arbitrage-fund-direct-growth,Mphasis Ltd.,Technology,Equity,0.03%
+543,parag-parikh-arbitrage-fund-direct-growth,NBCC (India) Ltd.,Construction,Equity,0.03%
+544,parag-parikh-arbitrage-fund-direct-growth,Prestige Estates Projects Ltd.,Construction,Equity,0.03%
+545,parag-parikh-arbitrage-fund-direct-growth,Dabur India Ltd.,Consumer Staples,Equity,0.03%
+546,parag-parikh-arbitrage-fund-direct-growth,Tata Motors Passenger Vehicles Ltd.,Automobile,Equity,0.02%
+547,parag-parikh-arbitrage-fund-direct-growth,Cyient Ltd.,Technology,Equity,0.02%
+548,parag-parikh-arbitrage-fund-direct-growth,Tech Mahindra Ltd.,Technology,Equity,0.02%
+549,parag-parikh-arbitrage-fund-direct-growth,Container Corporation Of India Ltd.,Services,Equity,0.01%
+550,parag-parikh-arbitrage-fund-direct-growth,National Aluminium Company Ltd.,Metals & Mining,Equity,0.01%
+551,parag-parikh-arbitrage-fund-direct-growth,Laurus Labs Ltd.,Healthcare,Equity,0.01%
+552,parag-parikh-arbitrage-fund-direct-growth,Marico Ltd.,Consumer Staples,Equity,0.01%
+553,parag-parikh-arbitrage-fund-direct-growth,Lodha Developers Ltd.,Construction,Equity,0.01%
+554,parag-parikh-arbitrage-fund-direct-growth,Glenmark Pharmaceuticals Ltd.,Healthcare,Equity,0.01%
+555,parag-parikh-arbitrage-fund-direct-growth,Eicher Motors Ltd.,Automobile,Equity,0.01%
+556,parag-parikh-arbitrage-fund-direct-growth,ICICI Prudential Life Insurance Company Ltd.,Insurance,Equity,0.01%
+557,parag-parikh-arbitrage-fund-direct-growth,Alkem Laboratories Ltd.,Healthcare,Equity,0.00%
+558,parag-parikh-arbitrage-fund-direct-growth,Persistent Systems Ltd.,Technology,Equity,0.00%
+559,parag-parikh-arbitrage-fund-direct-growth,Nestle India Ltd.,Consumer Staples,Equity,0.00%
+560,parag-parikh-arbitrage-fund-direct-growth,The Phoenix Mills Ltd.,Construction,Equity,0.00%
+561,parag-parikh-arbitrage-fund-direct-growth,The Phoenix Mills Ltd.,Construction,Futures,-0.00%
+562,parag-parikh-arbitrage-fund-direct-growth,Nestle India Ltd.,Consumer Staples,Futures,-0.00%
+563,parag-parikh-arbitrage-fund-direct-growth,Persistent Systems Ltd.,Technology,Futures,-0.00%
+564,parag-parikh-arbitrage-fund-direct-growth,Alkem Laboratories Ltd.,Healthcare,Futures,-0.00%
+565,parag-parikh-arbitrage-fund-direct-growth,ICICI Prudential Life Insurance Company Ltd.,Insurance,Futures,-0.01%
+566,parag-parikh-arbitrage-fund-direct-growth,Eicher Motors Ltd.,Automobile,Futures,-0.01%
+567,parag-parikh-arbitrage-fund-direct-growth,Glenmark Pharmaceuticals Ltd.,Healthcare,Futures,-0.01%
+568,parag-parikh-arbitrage-fund-direct-growth,Lodha Developers Ltd.,Construction,Futures,-0.01%
+569,parag-parikh-arbitrage-fund-direct-growth,Marico Ltd.,Consumer Staples,Futures,-0.01%
+570,parag-parikh-arbitrage-fund-direct-growth,Laurus Labs Ltd.,Healthcare,Futures,-0.01%
+571,parag-parikh-arbitrage-fund-direct-growth,National Aluminium Company Ltd.,Metals & Mining,Futures,-0.01%
+572,parag-parikh-arbitrage-fund-direct-growth,Container Corporation Of India Ltd.,Services,Futures,-0.01%
+573,parag-parikh-arbitrage-fund-direct-growth,Tech Mahindra Ltd.,Technology,Futures,-0.02%
+574,parag-parikh-arbitrage-fund-direct-growth,Cyient Ltd.,Technology,Futures,-0.02%
+575,parag-parikh-arbitrage-fund-direct-growth,Tata Motors Passenger Vehicles Ltd.,Automobile,Futures,-0.02%
+576,parag-parikh-arbitrage-fund-direct-growth,Dabur India Ltd.,Consumer Staples,Futures,-0.03%
+577,parag-parikh-arbitrage-fund-direct-growth,Prestige Estates Projects Ltd.,Construction,Futures,-0.03%
+578,parag-parikh-arbitrage-fund-direct-growth,NBCC (India) Ltd.,Construction,Futures,-0.03%
+579,parag-parikh-arbitrage-fund-direct-growth,Mphasis Ltd.,Technology,Futures,-0.03%
+580,parag-parikh-arbitrage-fund-direct-growth,Jindal Steel Ltd.,Metals & Mining,Futures,-0.04%
+581,parag-parikh-arbitrage-fund-direct-growth,Indian Oil Corporation Ltd.,Energy,Futures,-0.04%
+582,parag-parikh-arbitrage-fund-direct-growth,Britannia Industries Ltd.,Consumer Staples,Futures,-0.04%
+583,parag-parikh-arbitrage-fund-direct-growth,Pidilite Industries Ltd.,Chemicals,Futures,-0.04%
+584,parag-parikh-arbitrage-fund-direct-growth,Syngene International Ltd.,Healthcare,Futures,-0.05%
+585,parag-parikh-arbitrage-fund-direct-growth,Bajaj Finance Ltd.,Financial,Futures,-0.07%
+586,parag-parikh-arbitrage-fund-direct-growth,PB Fintech Ltd.,Services,Futures,-0.07%
+587,parag-parikh-arbitrage-fund-direct-growth,Kalyan Jewellers India Ltd.,Consumer Discretionary,Futures,-0.08%
+588,parag-parikh-arbitrage-fund-direct-growth,Indian Railway Catering & Tourism Corporation Ltd.,Services,Futures,-0.08%
+589,parag-parikh-arbitrage-fund-direct-growth,Yes Bank Ltd.,Financial,Futures,-0.08%
+590,parag-parikh-arbitrage-fund-direct-growth,HFCL Ltd.,Communication,Futures,-0.08%
+591,parag-parikh-arbitrage-fund-direct-growth,Godrej Properties Ltd.,Construction,Futures,-0.08%
+592,parag-parikh-arbitrage-fund-direct-growth,JSW Steel Ltd.,Metals & Mining,Futures,-0.09%
+593,parag-parikh-arbitrage-fund-direct-growth,LIC Housing Finance Ltd.,Financial,Futures,-0.09%
+594,parag-parikh-arbitrage-fund-direct-growth,United Spirits Ltd.,Consumer Staples,Futures,-0.09%
+595,parag-parikh-arbitrage-fund-direct-growth,Vodafone Idea Ltd.,Communication,Futures,-0.10%
+596,parag-parikh-arbitrage-fund-direct-growth,Divi's Laboratories Ltd.,Healthcare,Futures,-0.10%
+597,parag-parikh-arbitrage-fund-direct-growth,Samvardhana Motherson International Ltd.,Automobile,Futures,-0.11%
+598,parag-parikh-arbitrage-fund-direct-growth,Jubilant FoodWorks Ltd.,Services,Futures,-0.12%
+599,parag-parikh-arbitrage-fund-direct-growth,ICICI Bank Ltd.,Financial,Futures,-0.12%
+600,parag-parikh-arbitrage-fund-direct-growth,Aurobindo Pharma Ltd.,Healthcare,Futures,-0.12%
+601,parag-parikh-arbitrage-fund-direct-growth,Exide Industries Ltd.,Capital Goods,Futures,-0.12%
+602,parag-parikh-arbitrage-fund-direct-growth,APL Apollo Tubes Ltd.,Metals & Mining,Futures,-0.13%
+603,parag-parikh-arbitrage-fund-direct-growth,PNB Housing Finance Ltd.,Financial,Futures,-0.13%
+604,parag-parikh-arbitrage-fund-direct-growth,Petronet LNG Ltd.,Energy,Futures,-0.14%
+605,parag-parikh-arbitrage-fund-direct-growth,Dixon Technologies (India) Ltd.,Capital Goods,Futures,-0.15%
+606,parag-parikh-arbitrage-fund-direct-growth,ITC Ltd.,Consumer Staples,Futures,-0.15%
+607,parag-parikh-arbitrage-fund-direct-growth,Apollo Hospitals Enterprise Ltd.,Healthcare,Futures,-0.15%
+608,parag-parikh-arbitrage-fund-direct-growth,Tata Consumer Products Ltd.,Consumer Staples,Futures,-0.16%
+609,parag-parikh-arbitrage-fund-direct-growth,The Indian Hotels Company Ltd.,Services,Futures,-0.16%
+610,parag-parikh-arbitrage-fund-direct-growth,Cipla Ltd.,Healthcare,Futures,-0.17%
+611,parag-parikh-arbitrage-fund-direct-growth,Bajaj Finserv Ltd.,Financial,Futures,-0.18%
+612,parag-parikh-arbitrage-fund-direct-growth,Crompton Greaves Consumer Electricals Ltd.,Consumer Discretionary,Futures,-0.20%
+613,parag-parikh-arbitrage-fund-direct-growth,Lupin Ltd.,Healthcare,Futures,-0.20%
+614,parag-parikh-arbitrage-fund-direct-growth,Hindustan Zinc Ltd.,Metals & Mining,Futures,-0.24%
+615,parag-parikh-arbitrage-fund-direct-growth,NTPC Ltd.,Energy,Futures,-0.25%
+616,parag-parikh-arbitrage-fund-direct-growth,Biocon Ltd.,Healthcare,Futures,-0.25%
+617,parag-parikh-arbitrage-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,Futures,-0.28%
+618,parag-parikh-arbitrage-fund-direct-growth,Mahindra & Mahindra Ltd.,Automobile,Futures,-0.33%
+619,parag-parikh-arbitrage-fund-direct-growth,GAIL (India) Ltd.,Energy,Futures,-0.34%
+620,parag-parikh-arbitrage-fund-direct-growth,Hindalco Industries Ltd.,Metals & Mining,Futures,-0.34%
+621,parag-parikh-arbitrage-fund-direct-growth,Bajaj Finance Ltd.,Financial,Futures,-0.35%
+622,parag-parikh-arbitrage-fund-direct-growth,REC Ltd.,Financial,Futures,-0.35%
+623,parag-parikh-arbitrage-fund-direct-growth,Steel Authority Of India Ltd.,Metals & Mining,Futures,-0.35%
+624,parag-parikh-arbitrage-fund-direct-growth,Varun Beverages Ltd.,Consumer Staples,Futures,-0.36%
+625,parag-parikh-arbitrage-fund-direct-growth,HDFC Bank Ltd.,Financial,Futures,-0.38%
+626,parag-parikh-arbitrage-fund-direct-growth,Power Grid Corporation Of India Ltd.,Energy,Futures,-0.39%
+627,parag-parikh-arbitrage-fund-direct-growth,Power Finance Corporation Ltd.,Financial,Futures,-0.39%
+628,parag-parikh-arbitrage-fund-direct-growth,RBL Bank Ltd.,Financial,Futures,-0.39%
+629,parag-parikh-arbitrage-fund-direct-growth,Grasim Industries Ltd.,Construction,Futures,-0.39%
+630,parag-parikh-arbitrage-fund-direct-growth,Vedanta Ltd.,Metals & Mining,Futures,-0.42%
+631,parag-parikh-arbitrage-fund-direct-growth,Vodafone Idea Ltd.,Communication,Futures,-0.43%
+632,parag-parikh-arbitrage-fund-direct-growth,One97 Communications Ltd.,Services,Futures,-0.43%
+633,parag-parikh-arbitrage-fund-direct-growth,JSW Energy Ltd.,Capital Goods,Futures,-0.46%
+634,parag-parikh-arbitrage-fund-direct-growth,Eternal Ltd.,Services,Futures,-0.51%
+635,parag-parikh-arbitrage-fund-direct-growth,ITC Ltd.,Consumer Staples,Futures,-0.57%
+636,parag-parikh-arbitrage-fund-direct-growth,Larsen & Toubro Ltd.,Construction,Futures,-0.59%
+637,parag-parikh-arbitrage-fund-direct-growth,HCL Technologies Ltd.,Technology,Futures,-0.65%
+638,parag-parikh-arbitrage-fund-direct-growth,Indusind Bank Ltd.,Financial,Futures,-0.65%
+639,parag-parikh-arbitrage-fund-direct-growth,Titan Company Ltd.,Consumer Discretionary,Futures,-0.69%
+640,parag-parikh-arbitrage-fund-direct-growth,JIO Financial Services Ltd.,Financial,Futures,-0.71%
+641,parag-parikh-arbitrage-fund-direct-growth,Aditya Birla Capital Ltd.,Financial,Futures,-0.72%
+642,parag-parikh-arbitrage-fund-direct-growth,Bandhan Bank Ltd.,Financial,Futures,-0.86%
+643,parag-parikh-arbitrage-fund-direct-growth,Tata Power Company Ltd.,Energy,Futures,-0.98%
+644,parag-parikh-arbitrage-fund-direct-growth,Sammaan Capital Ltd.,Financial,Futures,-1.01%
+645,parag-parikh-arbitrage-fund-direct-growth,Tata Consultancy Services Ltd.,Technology,Futures,-1.08%
+646,parag-parikh-arbitrage-fund-direct-growth,Oil And Natural Gas Corporation Ltd.,Energy,Futures,-1.12%
+647,parag-parikh-arbitrage-fund-direct-growth,Ultratech Cement Ltd.,Construction,Futures,-1.45%
+648,parag-parikh-arbitrage-fund-direct-growth,Bank Of Baroda,Financial,Futures,-1.52%
+649,parag-parikh-arbitrage-fund-direct-growth,Bharti Airtel Ltd.,Communication,Futures,-1.52%
+650,parag-parikh-arbitrage-fund-direct-growth,DLF Ltd.,Construction,Futures,-1.60%
+651,parag-parikh-arbitrage-fund-direct-growth,GMR Airports Ltd.,Construction,Futures,-1.64%
+652,parag-parikh-arbitrage-fund-direct-growth,Punjab National Bank,Financial,Futures,-1.67%
+653,parag-parikh-arbitrage-fund-direct-growth,Shriram Finance Ltd,Financial,Futures,-1.76%
+654,parag-parikh-arbitrage-fund-direct-growth,Eternal Ltd.,Services,Futures,-1.78%
+655,parag-parikh-arbitrage-fund-direct-growth,Bharat Electronics Ltd.,Capital Goods,Futures,-1.82%
+656,parag-parikh-arbitrage-fund-direct-growth,Hindustan Aeronautics Ltd.,Capital Goods,Futures,-1.87%
+657,parag-parikh-arbitrage-fund-direct-growth,Tata Steel Ltd.,Metals & Mining,Futures,-1.97%
+658,parag-parikh-arbitrage-fund-direct-growth,NMDC Ltd.,Metals & Mining,Futures,-2.09%
+659,parag-parikh-arbitrage-fund-direct-growth,Canara Bank,Financial,Futures,-2.09%
+660,parag-parikh-arbitrage-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,Futures,-2.33%
+661,parag-parikh-arbitrage-fund-direct-growth,Mahindra & Mahindra Ltd.,Automobile,Futures,-2.49%
+662,parag-parikh-arbitrage-fund-direct-growth,IDFC First Bank Ltd.,Financial,Futures,-2.76%
+663,parag-parikh-arbitrage-fund-direct-growth,Bharat Heavy Electricals Ltd.,Capital Goods,Futures,-2.93%
+664,parag-parikh-arbitrage-fund-direct-growth,Bharti Airtel Ltd.,Communication,Futures,-2.93%
+665,parag-parikh-arbitrage-fund-direct-growth,ICICI Bank Ltd.,Financial,Futures,-3.15%
+666,parag-parikh-arbitrage-fund-direct-growth,State Bank of India,Financial,Futures,-3.17%
+667,parag-parikh-arbitrage-fund-direct-growth,Reliance Industries Ltd.,Energy,Futures,-4.07%
+668,parag-parikh-arbitrage-fund-direct-growth,Axis Bank Ltd.,Financial,Futures,-4.17%
+669,parag-parikh-arbitrage-fund-direct-growth,HDFC Bank Ltd.,Financial,Futures,-4.23%
+670,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Parag Parikh Liquid Fund Direct - Growth,NA,Mutual Fund,4.76%
+671,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Reliance Industries Ltd.,Energy,Equity,3.75%
+672,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,2.96%
+673,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,2.87%
+674,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Karnataka State,Others,SDL,2.66%
+675,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Coal India Ltd.,Energy,Equity,2.51%
+676,parag-parikh-dynamic-asset-allocation-fund-direct-growth,ITC Ltd.,Consumer Staples,Equity,2.50%
+677,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Power Grid Corporation Of India Ltd.,Energy,Equity,2.50%
+678,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Petronet LNG Ltd.,Energy,Equity,2.49%
+679,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Axis Bank Ltd.,Financial,Equity,2.21%
+680,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bajaj Finance Ltd.,Financial,Equity,2.14%
+681,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Gujarat State,Construction,SDL,1.90%
+682,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,Equity,1.89%
+683,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Uttar Pradesh State,Others,SDL,1.86%
+684,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Gujarat State,Construction,SDL,1.86%
+685,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bharti Airtel Ltd.,Communication,Equity,1.73%
+686,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,1.51%
+687,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Gujarat State,Construction,SDL,1.35%
+688,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,1.34%
+689,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,1.28%
+690,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Ultratech Cement Ltd.,Construction,Equity,1.18%
+691,parag-parikh-dynamic-asset-allocation-fund-direct-growth,HDFC Bank Ltd.,Financial,Equity,1.18%
+692,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Nesco Ltd.,Construction,Equity,1.08%
+693,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Eternal Ltd.,Services,Equity,1.06%
+694,parag-parikh-dynamic-asset-allocation-fund-direct-growth,REC Ltd.,Financial,Equity,1.01%
+695,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Swaraj Engines Ltd.,Capital Goods,Equity,0.98%
+696,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Uttar Pradesh State,Others,SDL,0.97%
+697,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.96%
+698,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.96%
+699,parag-parikh-dynamic-asset-allocation-fund-direct-growth,GOI,Sovereign,GOI Sec,0.95%
+700,parag-parikh-dynamic-asset-allocation-fund-direct-growth,LIC Housing Finance Ltd.,Financial,Debenture,0.94%
+701,parag-parikh-dynamic-asset-allocation-fund-direct-growth,LIC Housing Finance Ltd.,Financial,Bonds/Deb,0.94%
+702,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.94%
+703,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Small Industries Devp. Bank of India Ltd.,Financial,Bonds,0.94%
+704,parag-parikh-dynamic-asset-allocation-fund-direct-growth,LIC Housing Finance Ltd.,Financial,FRB,0.94%
+705,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bajaj Finance Ltd.,Financial,Debenture,0.93%
+706,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Madhya Pradesh State,Others,SDL,0.93%
+707,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.93%
+708,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bajaj Finance Ltd.,Financial,Debenture,0.93%
+709,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bajaj Finance Ltd.,Financial,Debenture,0.93%
+710,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Madhya Pradesh State,Others,SDL,0.92%
+711,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bharat Heavy Electricals Ltd.,Capital Goods,Equity,0.89%
+712,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.88%
+713,parag-parikh-dynamic-asset-allocation-fund-direct-growth,GOI,Sovereign,GOI Sec,0.77%
+714,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.77%
+715,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.77%
+716,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.75%
+717,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.74%
+718,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Sammaan Capital Ltd.,Financial,Equity,0.73%
+719,parag-parikh-dynamic-asset-allocation-fund-direct-growth,ICICI Bank Ltd.,Financial,Equity,0.71%
+720,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Mahindra & Mahindra Ltd.,Automobile,Equity,0.68%
+721,parag-parikh-dynamic-asset-allocation-fund-direct-growth,DLF Ltd.,Construction,Equity,0.65%
+722,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Karnataka State,Others,SDL,0.59%
+723,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.57%
+724,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Indusind Bank Ltd.,Financial,Equity,0.57%
+725,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Telangana State,Financial,SDL,0.57%
+726,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.57%
+727,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Karnataka State,Others,SDL,0.56%
+728,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.56%
+729,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bharat Electronics Ltd.,Capital Goods,Equity,0.52%
+730,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Titan Company Ltd.,Consumer Discretionary,Equity,0.46%
+731,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Canara Bank,Financial,Equity,0.42%
+732,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Uttar Pradesh State,Others,SDL,0.39%
+733,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.39%
+734,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.39%
+735,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.39%
+736,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.38%
+737,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Rajasthan State,Others,SDL,0.38%
+738,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.38%
+739,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.38%
+740,parag-parikh-dynamic-asset-allocation-fund-direct-growth,National Bank For Agriculture & Rural Development,Financial,Bonds,0.38%
+741,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.38%
+742,parag-parikh-dynamic-asset-allocation-fund-direct-growth,REC Ltd.,Financial,Debenture,0.38%
+743,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.38%
+744,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.38%
+745,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Rajasthan State,Others,SDL,0.37%
+746,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.37%
+747,parag-parikh-dynamic-asset-allocation-fund-direct-growth,IndiGrid Infrastructure Trust,Capital Goods,Bonds,0.37%
+748,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.37%
+749,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Rajasthan State,Others,SDL,0.37%
+750,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Karnataka State,Others,SDL,0.37%
+751,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Karnataka State,Others,SDL,0.37%
+752,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,0.37%
+753,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Karnataka State,Others,SDL,0.37%
+754,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.36%
+755,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.36%
+756,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Karnataka State,Others,SDL,0.36%
+757,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bank Of Baroda,Financial,Equity,0.31%
+758,parag-parikh-dynamic-asset-allocation-fund-direct-growth,State Bank of India,Financial,Equity,0.29%
+759,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tata Steel Ltd.,Metals & Mining,Equity,0.28%
+760,parag-parikh-dynamic-asset-allocation-fund-direct-growth,JSW Steel Ltd.,Metals & Mining,Equity,0.28%
+761,parag-parikh-dynamic-asset-allocation-fund-direct-growth,GMR Airports Ltd.,Construction,Equity,0.25%
+762,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bajaj Finserv Ltd.,Financial,Equity,0.23%
+763,parag-parikh-dynamic-asset-allocation-fund-direct-growth,HCL Technologies Ltd.,Technology,Equity,0.23%
+764,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Hindalco Industries Ltd.,Metals & Mining,Equity,0.22%
+765,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Andhra Pradesh State,Financial,SDL,0.20%
+766,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Aditya Birla Capital Ltd.,Financial,Equity,0.20%
+767,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Andhra Pradesh State,Financial,SDL,0.20%
+768,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.19%
+769,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Karnataka State,Others,SDL,0.19%
+770,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.19%
+771,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.19%
+772,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Gujarat State,Construction,SDL,0.19%
+773,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Rajasthan State,Others,SDL,0.19%
+774,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Karnataka State,Others,SDL,0.19%
+775,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.19%
+776,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Maharashtra State,Others,SDL,0.19%
+777,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Andhra Pradesh State,Financial,SDL,0.19%
+778,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.19%
+779,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.19%
+780,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.19%
+781,parag-parikh-dynamic-asset-allocation-fund-direct-growth,NMDC Ltd.,Metals & Mining,Equity,0.19%
+782,parag-parikh-dynamic-asset-allocation-fund-direct-growth,REC Ltd.,Financial,Bonds,0.19%
+783,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tamilnadu State,Others,SDL,0.19%
+784,parag-parikh-dynamic-asset-allocation-fund-direct-growth,IndiGrid Infrastructure Trust,Capital Goods,Debenture,0.19%
+785,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Uttar Pradesh State,Others,SDL,0.19%
+786,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Andhra Pradesh State,Financial,SDL,0.19%
+787,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Rajasthan State,Others,SDL,0.19%
+788,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Rajasthan State,Others,SDL,0.18%
+789,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Karnataka State,Others,SDL,0.18%
+790,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Rajasthan State,Others,SDL,0.18%
+791,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Reserve Bank of India,Financial,T-Bills,0.18%
+792,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Nirlon Ltd.,Construction,Equity,0.11%
+793,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tata Consultancy Services Ltd.,Technology,Equity,0.10%
+794,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Hindustan Aeronautics Ltd.,Capital Goods,Equity,0.09%
+795,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Larsen & Toubro Ltd.,Construction,Equity,0.08%
+796,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tata Power Company Ltd.,Energy,Equity,0.07%
+797,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Sun Pharmaceutical Industries Ltd.,Healthcare,Equity,0.07%
+798,parag-parikh-dynamic-asset-allocation-fund-direct-growth,NTPC Ltd.,Energy,Equity,0.07%
+799,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Vedanta Ltd.,Metals & Mining,Equity,0.06%
+800,parag-parikh-dynamic-asset-allocation-fund-direct-growth,SBI Life Insurance Company Ltd.,Insurance,Equity,0.06%
+801,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Vodafone Idea Ltd.,Communication,Equity,0.06%
+802,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Indus Towers Ltd.,Communication,Equity,0.06%
+803,parag-parikh-dynamic-asset-allocation-fund-direct-growth,VST Industries Ltd.,Consumer Staples,Equity,0.04%
+804,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bandhan Bank Ltd.,Financial,Equity,0.04%
+805,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Mazagon Dock Shipbuilders Ltd.,Capital Goods,Equity,0.04%
+806,parag-parikh-dynamic-asset-allocation-fund-direct-growth,The Federal Bank Ltd.,Financial,Equity,0.03%
+807,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Samvardhana Motherson International Ltd.,Automobile,Equity,0.03%
+808,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Zydus Lifesciences Ltd.,Healthcare,Equity,0.02%
+809,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Oil And Natural Gas Corporation Ltd.,Energy,Equity,0.02%
+810,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Exide Industries Ltd.,Capital Goods,Equity,0.01%
+811,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Jindal Steel Ltd.,Metals & Mining,Equity,0.01%
+812,parag-parikh-dynamic-asset-allocation-fund-direct-growth,GAIL (India) Ltd.,Energy,Equity,0.01%
+813,parag-parikh-dynamic-asset-allocation-fund-direct-growth,JIO Financial Services Ltd.,Financial,Equity,0.01%
+814,parag-parikh-dynamic-asset-allocation-fund-direct-growth,HDFC Life Insurance Co Ltd.,Insurance,Equity,0.01%
+815,parag-parikh-dynamic-asset-allocation-fund-direct-growth,HDFC Asset Management Company Ltd.,Financial,Equity,0.01%
+816,parag-parikh-dynamic-asset-allocation-fund-direct-growth,IDFC First Bank Ltd.,Financial,Equity,0.00%
+817,parag-parikh-dynamic-asset-allocation-fund-direct-growth,IDFC First Bank Ltd.,Financial,Futures,-0.00%
+818,parag-parikh-dynamic-asset-allocation-fund-direct-growth,HDFC Asset Management Company Ltd.,Financial,Futures,-0.01%
+819,parag-parikh-dynamic-asset-allocation-fund-direct-growth,HDFC Life Insurance Co Ltd.,Insurance,Futures,-0.01%
+820,parag-parikh-dynamic-asset-allocation-fund-direct-growth,JIO Financial Services Ltd.,Financial,Futures,-0.01%
+821,parag-parikh-dynamic-asset-allocation-fund-direct-growth,GAIL (India) Ltd.,Energy,Futures,-0.01%
+822,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Jindal Steel Ltd.,Metals & Mining,Futures,-0.01%
+823,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Exide Industries Ltd.,Capital Goods,Futures,-0.02%
+824,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Oil And Natural Gas Corporation Ltd.,Energy,Futures,-0.02%
+825,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Zydus Lifesciences Ltd.,Healthcare,Futures,-0.02%
+826,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Samvardhana Motherson International Ltd.,Automobile,Futures,-0.03%
+827,parag-parikh-dynamic-asset-allocation-fund-direct-growth,The Federal Bank Ltd.,Financial,Futures,-0.03%
+828,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Mazagon Dock Shipbuilders Ltd.,Capital Goods,Futures,-0.04%
+829,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bandhan Bank Ltd.,Financial,Futures,-0.04%
+830,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Mahindra & Mahindra Ltd.,Automobile,Futures,-0.05%
+831,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Vodafone Idea Ltd.,Communication,Futures,-0.06%
+832,parag-parikh-dynamic-asset-allocation-fund-direct-growth,SBI Life Insurance Company Ltd.,Insurance,Futures,-0.06%
+833,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Vedanta Ltd.,Metals & Mining,Futures,-0.07%
+834,parag-parikh-dynamic-asset-allocation-fund-direct-growth,NTPC Ltd.,Energy,Futures,-0.07%
+835,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Sun Pharmaceutical Industries Ltd.,Healthcare,Futures,-0.07%
+836,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tata Power Company Ltd.,Energy,Futures,-0.07%
+837,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Larsen & Toubro Ltd.,Construction,Futures,-0.08%
+838,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Hindustan Aeronautics Ltd.,Capital Goods,Futures,-0.09%
+839,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tata Consultancy Services Ltd.,Technology,Futures,-0.10%
+840,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,Futures,-0.15%
+841,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Eternal Ltd.,Services,Futures,-0.16%
+842,parag-parikh-dynamic-asset-allocation-fund-direct-growth,NMDC Ltd.,Metals & Mining,Futures,-0.19%
+843,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Aditya Birla Capital Ltd.,Financial,Futures,-0.20%
+844,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Hindalco Industries Ltd.,Metals & Mining,Futures,-0.22%
+845,parag-parikh-dynamic-asset-allocation-fund-direct-growth,HCL Technologies Ltd.,Technology,Futures,-0.23%
+846,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bajaj Finserv Ltd.,Financial,Futures,-0.23%
+847,parag-parikh-dynamic-asset-allocation-fund-direct-growth,GMR Airports Ltd.,Construction,Futures,-0.25%
+848,parag-parikh-dynamic-asset-allocation-fund-direct-growth,JSW Steel Ltd.,Metals & Mining,Futures,-0.28%
+849,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Tata Steel Ltd.,Metals & Mining,Futures,-0.29%
+850,parag-parikh-dynamic-asset-allocation-fund-direct-growth,State Bank of India,Financial,Futures,-0.29%
+851,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bank Of Baroda,Financial,Futures,-0.32%
+852,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Canara Bank,Financial,Futures,-0.42%
+853,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Titan Company Ltd.,Consumer Discretionary,Futures,-0.46%
+854,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bharat Electronics Ltd.,Capital Goods,Futures,-0.52%
+855,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Indusind Bank Ltd.,Financial,Futures,-0.57%
+856,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Mahindra & Mahindra Ltd.,Automobile,Futures,-0.64%
+857,parag-parikh-dynamic-asset-allocation-fund-direct-growth,DLF Ltd.,Construction,Futures,-0.66%
+858,parag-parikh-dynamic-asset-allocation-fund-direct-growth,ICICI Bank Ltd.,Financial,Futures,-0.71%
+859,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Sammaan Capital Ltd.,Financial,Futures,-0.74%
+860,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bharti Airtel Ltd.,Communication,Futures,-0.76%
+861,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bharat Heavy Electricals Ltd.,Capital Goods,Futures,-0.89%
+862,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Eternal Ltd.,Services,Futures,-0.91%
+863,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bharti Airtel Ltd.,Communication,Futures,-0.98%
+864,parag-parikh-dynamic-asset-allocation-fund-direct-growth,HDFC Bank Ltd.,Financial,Futures,-1.19%
+865,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Ultratech Cement Ltd.,Construction,Futures,-1.19%
+866,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Kotak Mahindra Bank Ltd.,Financial,Futures,-1.75%
+867,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Bajaj Finance Ltd.,Financial,Futures,-2.15%
+868,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Axis Bank Ltd.,Financial,Futures,-2.22%
+869,parag-parikh-dynamic-asset-allocation-fund-direct-growth,Reliance Industries Ltd.,Energy,Futures,-3.77%

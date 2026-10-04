@@ -1,0 +1,7 @@
+scheme_id,sharpe_ratio,sortino_ratio,alpha,beta,standard_deviation,information_ratio,risk_rating,risk
+parag-parikh-long-term-value-fund-direct-growth,1.8752809883,2.787378349468811,9.58759552304764,0.55431537847881,8.038466457808813,0.757558,6,Very High
+parag-parikh-liquid-fund-direct-growth,2.1020051508,3.5003060677734865,0.86185363342499,0.32475732022581,0.15015317937537837,9.0699,7,Low to Moderate
+parag-parikh-elss-tax-saver-fund-direct-growth,1.252943876,1.9799227998100086,4.90954276394985,0.64956404160869,9.049991766402385,0.252651,4,Moderately High
+parag-parikh-conservative-hybrid-fund-direct-growth,1.7191465236,2.558327742511258,3.29670428436448,0.63497941884561,3.2746558174270093,0.768176,4,Moderately High
+parag-parikh-arbitrage-fund-direct-growth,0.0,0.0,0.0,0.0,0.0,0.0,1,Low
+parag-parikh-dynamic-asset-allocation-fund-direct-growth,0.0,0.0,0.0,0.0,0.0,0.0,3,Moderate
