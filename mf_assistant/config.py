@@ -77,6 +77,18 @@ AMC_SOURCE_URL = "https://groww.in/mutual-funds/amc/ppfas-mutual-funds"
 MAX_ANSWER_SENTENCES = 3
 MAX_LIST_ITEMS = 12  # bulleted multi-scheme facts (e.g. one line per fund) are capped separately
 DISCLAIMER = "Facts-only. No investment advice."
+# Disclaimer snippet shown in the UI (a deliverable of the brief)
+DISCLAIMER_LONG = (
+    "Facts-only. No investment advice. Answers come from public Groww pages about six PPFAS mutual fund "
+    "schemes and Groww's help centre, as of the date shown with each answer. Nothing here is a "
+    "recommendation to buy, sell or hold any fund. Past performance does not indicate future returns. "
+    "Independent prototype, not affiliated with Groww or PPFAS Mutual Fund."
+)
+EXAMPLE_QUESTIONS = [
+    "What is the lock-in period of the PPFAS ELSS fund?",
+    "Expense ratio and exit load of the Parag Parikh Flexi Cap fund?",
+    "How do I download my Consolidated Account Statement (CAS)?",
+]
 
 # Every reply carries exactly one link (brief requirement). Non-answer replies use these:
 HELP_CENTRE_URL = "https://groww.in/help/mutual-funds"  # PII refusals, off-topic

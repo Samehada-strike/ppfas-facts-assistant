@@ -1,0 +1,30 @@
+# Streamlit settings for the Facts-Only MF Assistant.
+# Colours are Groww's light-theme design tokens (read from groww.in's CSS variables).
+
+[theme]
+base = "light"
+primaryColor = "#04B488"             # Groww accent (mint green): buttons, focus, chat input
+backgroundColor = "#FFFFFF"           # background-primary
+secondaryBackgroundColor = "#F8F8F8"  # background-secondary: sidebar, widgets
+textColor = "#44475B"                 # content-primary
+linkColor = "#5367FF"                 # accent-secondary (blue): source links
+linkUnderline = false
+borderColor = "#E9E9EB"               # border-primary
+greenColor = "#04B488"
+greenBackgroundColor = "#E9FAF3"      # accent-subtle
+blueColor = "#5367FF"
+blueBackgroundColor = "#EEF0FF"       # accent-secondary-subtle
+redColor = "#ED5533"                  # content-negative
+grayColor = "#A1A3AD"                 # content-tertiary
+font = "sans-serif"
+baseRadius = "medium"
+buttonRadius = "full"
+
+[theme.sidebar]
+backgroundColor = "#F8F8F8"
+
+[browser]
+gatherUsageStats = false              # no usage telemetry from this app
+
+[client]
+toolbarMode = "minimal"
