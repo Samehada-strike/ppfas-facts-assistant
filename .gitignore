@@ -20,3 +20,6 @@ krish_naik_files/
 
 # Notebook with an API token in its saved outputs
 project_files/deprecated/2-VectorEmbeddings.ipynb
+
+# Raw knowledge-page crawl (~25 MB, re-creatable with crawl_knowledge.py)
+project_files/data/raw/knowledge/

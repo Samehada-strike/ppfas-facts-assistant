@@ -1,0 +1,4380 @@
+[
+  {
+    "scheme_id": "parag-parikh-long-term-value-fund-direct-growth",
+    "source_url": "https://groww.in/mutual-funds/parag-parikh-long-term-value-fund-direct-growth",
+    "scraped_at": "2026-10-04T12:25:51",
+    "scheme_name": "Parag Parikh Flexi Cap Fund Direct Growth",
+    "fund_house": "PPFAS Mutual Fund",
+    "category": "Equity",
+    "sub_category": "Flexi Cap",
+    "plan_type": "Direct",
+    "riskometer": "Very High Risk",
+    "benchmark": "NIFTY 500 Total Return Index",
+    "launch_date": "24-May-2013",
+    "expense_ratio": "0.69%",
+    "exit_load": "For units above 10% of the investment, exit load of 2% if redeemed within 365 days and 1% if redeemed after 365 days but on or before 730 days.",
+    "stamp_duty": "0.005% (from July 1st, 2020)",
+    "lock_in": null,
+    "min_sip": 1000,
+    "min_lumpsum": 1000,
+    "min_additional": 1000,
+    "nav": 88.2569,
+    "nav_date": "01-Oct-2026",
+    "aum_cr": 147404.51,
+    "tax_implication": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "objective": "The scheme aims to achieve long-term capital appreciation by investing primarily in equity and equity related instruments.",
+    "registrar": "Cams",
+    "registrar_website": "www.camsonline.com",
+    "fund_managers": [
+      {
+        "name": "Mansi Kariya",
+        "since": "2023-12-22",
+        "education": "Ms. Karia has done B.Com, MS Finance and CFA",
+        "experience": "Prior to joining PPFAS AMC, she has worked with Insync and Zacks Investment Research"
+      },
+      {
+        "name": "Raunak Onkar",
+        "since": "2013-05-13",
+        "education": "Mr.Onkar is an MMS (Finance) from the University of Mumbai.",
+        "experience": "He joined PPFAS as a research analyst. He was appointed as Head- research in the year 2011. He is working with the company as an Associate Fund Manager."
+      },
+      {
+        "name": "Tejas Soman",
+        "since": "2025-09-01",
+        "education": "Mr. Soman has done B.Com from University of Mumbai and Post Graduate Program in Securities Markets - From ‘NISM’",
+        "experience": "Prior to joining PPFAS Mutual Fund, he was associated with SBI MF, Yes Bank Limited, STCI Primary Dealership and PricewaterhouseCoopers"
+      },
+      {
+        "name": "Aishwarya Dhar",
+        "since": "2025-09-01",
+        "education": "MBA - Finance",
+        "experience": "Prior to joining the PPFAS MF, she was associated with TATA AIA Life Insurance Co. Ltd, ManipalCigna Health Insurance Co. Ltd,"
+      },
+      {
+        "name": "Raj Mehta",
+        "since": "2016-01-27",
+        "education": "Mr. Mehta is a Commerce Graduate from University of Mumbai (N.M. College) ; Fellow Member of Institute of Chartered Accountants of India (ICAI) ; CFA Charter Holder.",
+        "experience": "Beginning his career as an intern with PPFAS Mutual Fund in 2012, he swiftly moved up the ranks, and is currently part of the Fund Management team."
+      },
+      {
+        "name": "Rukun Tarachandani",
+        "since": "2022-05-16",
+        "education": "Mr. Tarachandani has done B Tech (Information Technology), PGPM (Finance), CFA and CQF.",
+        "experience": "Prior to joining PPFAS Mutual Fund, he has worked with Kotak Mutual Fund, Goldman Sachs, Unnati Investment Management & Research Group."
+      },
+      {
+        "name": "Rajeev Thakkar",
+        "since": "2013-05-13",
+        "education": "Mr.Thakkar is a Chartered Accountant, Cost Accountant, CFA, and CFP.",
+        "experience": "He has been associated with PPFAS AMC since 2013."
+      }
+    ],
+    "holdings": [
+      {
+        "name": "HDFC Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 7.63
+      },
+      {
+        "name": "ICICI Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 5.67
+      },
+      {
+        "name": "Power Grid Corporation of India Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 5.58
+      },
+      {
+        "name": "ITC Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 5.26
+      },
+      {
+        "name": "Bajaj Holdings & Investment Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 5.14
+      },
+      {
+        "name": "Coal India Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 5.02
+      },
+      {
+        "name": "Reverse Repo",
+        "sector": "Unspecified",
+        "instrument": "Reverse Repo",
+        "weight_pct": 4.85
+      },
+      {
+        "name": "Kotak Mahindra Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 4.4
+      },
+      {
+        "name": "HCL Technologies Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 4.15
+      },
+      {
+        "name": "Alphabet Inc Forgn. Eq (GOOGL)",
+        "sector": "Technology",
+        "instrument": "Foreign - Equity",
+        "weight_pct": 4.14
+      },
+      {
+        "name": "Mahindra & Mahindra Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 3.97
+      },
+      {
+        "name": "Infosys Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 3.29
+      },
+      {
+        "name": "Axis Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 2.97
+      },
+      {
+        "name": "Tata Consultancy Services Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 2.88
+      },
+      {
+        "name": "Bharti Airtel Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 2.8
+      },
+      {
+        "name": "Maruti Suzuki India Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 2.68
+      },
+      {
+        "name": "Embassy Office Parks REIT",
+        "sector": "Real Estate",
+        "instrument": "Real Estate Investment Trusts",
+        "weight_pct": 2.48
+      },
+      {
+        "name": "Microsoft Corportion (US) Forgn. Eq (MSFT)",
+        "sector": "Technology",
+        "instrument": "Foreign - Equity",
+        "weight_pct": 2.4
+      },
+      {
+        "name": "Amazon. com Inc. (USA) Forgn. Eq (AMZN)",
+        "sector": "Consumer Discretionary",
+        "instrument": "Foreign - Equity",
+        "weight_pct": 2.33
+      },
+      {
+        "name": "Facebook Co Forgn. Eq (FB)",
+        "sector": "Technology",
+        "instrument": "Foreign - Equity",
+        "weight_pct": 2.18
+      },
+      {
+        "name": "Knowledge Realty Trust",
+        "sector": "Real Estate",
+        "instrument": "Real Estate Investment Trusts",
+        "weight_pct": 2.09
+      },
+      {
+        "name": "Net Current Assets",
+        "sector": "Unspecified",
+        "instrument": "Net Current Assets",
+        "weight_pct": 1.89
+      },
+      {
+        "name": "Brookfield India Real Estate Trust REIT",
+        "sector": "Real Estate",
+        "instrument": "Real Estate Investment Trusts",
+        "weight_pct": 1.6
+      },
+      {
+        "name": "Zydus Lifesciences Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 1.52
+      },
+      {
+        "name": "Cipla Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 1.37
+      },
+      {
+        "name": "Indraprastha Gas Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 1.17
+      },
+      {
+        "name": "Dr. Reddy's Laboratories Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 1.12
+      },
+      {
+        "name": "Zydus Wellness Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 0.8
+      },
+      {
+        "name": "Indian Energy Exchange Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.69
+      },
+      {
+        "name": "DLF Ltd",
+        "sector": "Real Estate",
+        "instrument": "Equity",
+        "weight_pct": 0.64
+      },
+      {
+        "name": "EID-Parry (India) Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.57
+      },
+      {
+        "name": "Petronet LNG Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 0.48
+      },
+      {
+        "name": "PPFAS Liquid Fund Direct - Growth",
+        "sector": "Unspecified",
+        "instrument": "Mutual Fund",
+        "weight_pct": 0.38
+      },
+      {
+        "name": "Bajaj Finance Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.38
+      },
+      {
+        "name": "Reliance Industries Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 0.35
+      },
+      {
+        "name": "BHARAT PETROLEUM CORPORATION LIMITED 80D CP 24SEP26",
+        "sector": "Energy & Utilities",
+        "instrument": "Commercial Paper",
+        "weight_pct": 0.34
+      },
+      {
+        "name": "KOTAK MAHINDRA BANK LIMITED CD 18DEC26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.33
+      },
+      {
+        "name": "Export Import Bank of India (14/12/2026)",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 0.3
+      },
+      {
+        "name": "CANARA BANK CD 18DEC26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.3
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 18SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.27
+      },
+      {
+        "name": "Narayana Hrudayalaya Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 0.26
+      },
+      {
+        "name": "HDFC BANK LIMITED CD 10SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.25
+      },
+      {
+        "name": "Mahanagar Gas Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 0.25
+      },
+      {
+        "name": "KOTAK MAHINDRA BANK LIMITED CD 24SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.24
+      },
+      {
+        "name": "GOVERNMENT OF INDIA 36628 364 DAYS TBILL 15OT26 FV RS 100",
+        "sector": "Financial",
+        "instrument": "Treasury Bills",
+        "weight_pct": 0.24
+      },
+      {
+        "name": "Central Depository Services (India) Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.22
+      },
+      {
+        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 24SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.2
+      },
+      {
+        "name": "CANARA BANK CD 11NOV26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.2
+      },
+      {
+        "name": "INDIAN BANK CD 22JAN27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.2
+      },
+      {
+        "name": "AXIS BANK LIMITED CD 01SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.17
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 19JAN27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.17
+      },
+      {
+        "name": "CMS Info Systems Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.16
+      },
+      {
+        "name": "Mahindra CIE Automotive Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 0.16
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 14JAN27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.15
+      },
+      {
+        "name": "GOVERNMENT OF INDIA 36940 364 DAYS TBILL 15JN27 FV RS 100",
+        "sector": "Financial",
+        "instrument": "Treasury Bills",
+        "weight_pct": 0.14
+      },
+      {
+        "name": "HINDUSTAN PETROLEUM CORPORATION LIMITED 89D CP 15SEP26",
+        "sector": "Energy & Utilities",
+        "instrument": "Commercial Paper",
+        "weight_pct": 0.14
+      },
+      {
+        "name": "REC LIMITED 91D CP 21SEP26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 0.14
+      },
+      {
+        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 13OCT26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.13
+      },
+      {
+        "name": "BAJAJ FINANCE LIMITED 91D CP 26OCT26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 0.13
+      },
+      {
+        "name": "BANK OF BARODA CD 15DEC26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.13
+      },
+      {
+        "name": "KOTAK MAHINDRA BANK LIMITED CD 08JAN27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.13
+      },
+      {
+        "name": "ICICI BANK LIMITED CD 27JAN27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.13
+      },
+      {
+        "name": "Sun Pharmaceutical Industries Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 0.13
+      },
+      {
+        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 16DEC26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.12
+      },
+      {
+        "name": "The Great Eastern Shipping Company Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 0.11
+      },
+      {
+        "name": "Titan Company Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 0.11
+      },
+      {
+        "name": "Hindustan Aeronautics Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.1
+      },
+      {
+        "name": "Maharashtra Scooters Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 0.1
+      },
+      {
+        "name": "HINDUSTAN PETROLEUM CORPORATION LIMITED 90D CP 17SEP26",
+        "sector": "Energy & Utilities",
+        "instrument": "Commercial Paper",
+        "weight_pct": 0.1
+      },
+      {
+        "name": "EXPORT IMPORT BANK OF INDIA 91D CP 22SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.1
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 22JAN27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.1
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 28JAN27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.1
+      },
+      {
+        "name": "ICRA Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.1
+      },
+      {
+        "name": "Canara Bank",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.1
+      },
+      {
+        "name": "State Bank of India",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.09
+      },
+      {
+        "name": "Divi's Laboratories Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 0.09
+      },
+      {
+        "name": "Ultratech Cement Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.09
+      },
+      {
+        "name": "NTPC LIMITED 91D CP 23SEP26",
+        "sector": "Energy & Utilities",
+        "instrument": "Commercial Paper",
+        "weight_pct": 0.08
+      },
+      {
+        "name": "GOVERNMENT OF INDIA 37631 364 DAYS TBILL 01JL27 FV RS 100",
+        "sector": "Financial",
+        "instrument": "Treasury Bills",
+        "weight_pct": 0.07
+      },
+      {
+        "name": "PUNJAB NATIONAL BANK CD 02SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.07
+      },
+      {
+        "name": "HDFC BANK LIMITED CD 21SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.07
+      },
+      {
+        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 10NOV26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.07
+      },
+      {
+        "name": "HDFC BANK LIMITED CD 13NOV26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.07
+      },
+      {
+        "name": "HDFC BANK LIMITED CD 22JAN27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.07
+      },
+      {
+        "name": "BANK OF BARODA CD 04FEB27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.07
+      },
+      {
+        "name": "BANK OF BARODA CD 05FEB27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.07
+      },
+      {
+        "name": "SUNDARAM FINANCE LIMITED 365D CP 17AUG27",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 0.06
+      },
+      {
+        "name": "Hindalco Industries Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.06
+      },
+      {
+        "name": "Oil & Natural Gas Corporation Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 0.05
+      },
+      {
+        "name": "Tata Steel Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.05
+      },
+      {
+        "name": "Hindustan Unilever Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 0.04
+      },
+      {
+        "name": "Bharat Electronics Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.04
+      },
+      {
+        "name": "Grasim Industries Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.04
+      },
+      {
+        "name": "Indusind Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.03
+      },
+      {
+        "name": "BANK OF BARODA CD 16SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.03
+      },
+      {
+        "name": "BAJAJ FINANCE LIMITED 365D CP 04NOV26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 0.03
+      },
+      {
+        "name": "POWER FINANCE CORPORATION LIMITED 91D CP 18NOV26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 0.03
+      },
+      {
+        "name": "AXIS BANK LIMITED CD 27NOV26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.03
+      },
+      {
+        "name": "PUNJAB NATIONAL BANK CD 05FEB27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.03
+      },
+      {
+        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 11JUN27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.03
+      },
+      {
+        "name": "Eicher Motors Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 0.03
+      },
+      {
+        "name": "TVS Motor Company Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 0.03
+      },
+      {
+        "name": "Bajaj Finserv Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.02
+      },
+      {
+        "name": "Indus Towers Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 0.02
+      },
+      {
+        "name": "HDFC Bank Limited (16/09/2026) **",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.02
+      },
+      {
+        "name": "ICICI SECURITIES LIMITED 126D CP 28SEP26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 0.02
+      },
+      {
+        "name": "BANK OF BARODA CD 25NOV26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.02
+      },
+      {
+        "name": "BANK OF BARODA CD 07DEC26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.02
+      },
+      {
+        "name": "IDFC First Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.02
+      },
+      {
+        "name": "Ashok Leyland Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.02
+      },
+      {
+        "name": "Nesco Ltd",
+        "sector": "Real Estate",
+        "instrument": "Equity",
+        "weight_pct": 0.01
+      },
+      {
+        "name": "Swaraj Engines Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.01
+      },
+      {
+        "name": "JSW Steel Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.01
+      },
+      {
+        "name": "Tata Consumer Products Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 0.0
+      },
+      {
+        "name": "Lupin Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 0.0
+      },
+      {
+        "name": "JSW Energy Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 0.0
+      },
+      {
+        "name": "Power Grid Corporation of India Limited 290 Call September 2026 Option",
+        "sector": "Energy & Utilities",
+        "instrument": "Call Option",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "Coal India Limited 430 Call September 2026 Option",
+        "sector": "Materials",
+        "instrument": "Call Option",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "Dr. Reddy's Laboratories Limited 1240 Call September 2026 Option",
+        "sector": "Healthcare",
+        "instrument": "Call Option",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "Cipla Limited 1520 Call September 2026 Option",
+        "sector": "Healthcare",
+        "instrument": "Call Option",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "JSW ENERGY LTD.-SEP2026",
+        "sector": "Energy & Utilities",
+        "instrument": "Futures",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "Maruti Suzuki India Limited 14500 Call September 2026 Option",
+        "sector": "Consumer Discretionary",
+        "instrument": "Call Option",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "Mahindra & Mahindra Limited 3600 Call September 2026 Option",
+        "sector": "Consumer Discretionary",
+        "instrument": "Call Option",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "Lupin Limited September 2026 Future",
+        "sector": "Healthcare",
+        "instrument": "Futures",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "Tata Consumer Products Limited September 2026 Future",
+        "sector": "Consumer Staples",
+        "instrument": "Futures",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "UltraTech Cement Limited October 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.01
+      },
+      {
+        "name": "JSW Steel Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.01
+      },
+      {
+        "name": "IDFC First Bank Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.02
+      },
+      {
+        "name": "Ashok Leyland Limited September 2026 Future",
+        "sector": "Industrials",
+        "instrument": "Futures",
+        "weight_pct": -0.02
+      },
+      {
+        "name": "Bajaj Finserv Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.02
+      },
+      {
+        "name": "TVS Motor Company Limited September 2026 Future",
+        "sector": "Consumer Discretionary",
+        "instrument": "Futures",
+        "weight_pct": -0.03
+      },
+      {
+        "name": "Eicher Motors Ltd.-SEP2026",
+        "sector": "Consumer Discretionary",
+        "instrument": "Futures",
+        "weight_pct": -0.03
+      },
+      {
+        "name": "IndusInd Bank Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.03
+      },
+      {
+        "name": "Grasim Industries Ltd.-SEP2026",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.04
+      },
+      {
+        "name": "Titan Company Limited September 2026 Future",
+        "sector": "Consumer Discretionary",
+        "instrument": "Futures",
+        "weight_pct": -0.04
+      },
+      {
+        "name": "Bharat Electronics Limited September 2026 Future",
+        "sector": "Industrials",
+        "instrument": "Futures",
+        "weight_pct": -0.04
+      },
+      {
+        "name": "Hindustan Unilever Limited September 2026 Future",
+        "sector": "Consumer Staples",
+        "instrument": "Futures",
+        "weight_pct": -0.04
+      },
+      {
+        "name": "Tata Steel Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.05
+      },
+      {
+        "name": "Oil & Natural Gas Corporation Limited September 2026 Future",
+        "sector": "Energy & Utilities",
+        "instrument": "Futures",
+        "weight_pct": -0.05
+      },
+      {
+        "name": "Hindalco Industries Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.06
+      },
+      {
+        "name": "Titan Company Limited October 2026 Future",
+        "sector": "Consumer Discretionary",
+        "instrument": "Futures",
+        "weight_pct": -0.07
+      },
+      {
+        "name": "UltraTech Cement Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.08
+      },
+      {
+        "name": "Divi's Laboratories Limited September 2026 Future",
+        "sector": "Healthcare",
+        "instrument": "Futures",
+        "weight_pct": -0.09
+      },
+      {
+        "name": "State Bank of India September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.09
+      },
+      {
+        "name": "Canara Bank September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.1
+      },
+      {
+        "name": "Hindustan Aeronautics Limited September 2026 Future",
+        "sector": "Industrials",
+        "instrument": "Futures",
+        "weight_pct": -0.11
+      },
+      {
+        "name": "Sun Pharmaceutical Industries Limited September 2026 Future",
+        "sector": "Healthcare",
+        "instrument": "Futures",
+        "weight_pct": -0.12
+      },
+      {
+        "name": "Reliance Industries Limited September 2026 Future",
+        "sector": "Energy & Utilities",
+        "instrument": "Futures",
+        "weight_pct": -0.36
+      },
+      {
+        "name": "Bajaj Finance Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.39
+      },
+      {
+        "name": "Net Payables",
+        "sector": "Unspecified",
+        "instrument": "Net Payables",
+        "weight_pct": -1.43
+      }
+    ],
+    "holdings_as_of": "2026-08-31",
+    "risk_ratios": {
+      "sharpe_ratio": 0.64,
+      "sortino_ratio": 0.95,
+      "alpha": 3.83,
+      "beta": 0.6,
+      "standard_deviation": 10.09,
+      "information_ratio": 0.28
+    },
+    "groww_analysis": [
+      {
+        "kind": "PROS",
+        "text": "10Y annualised returns higher than category average by 3.35%"
+      },
+      {
+        "kind": "CONS",
+        "text": "Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y"
+      },
+      {
+        "kind": "PROS",
+        "text": "Higher alpha: 3.83 \nThe fund has generated returns higher than benchmark - NIFTY 500 Total Return Index - in the last 3Y"
+      },
+      {
+        "kind": "PROS",
+        "text": "Lower expense ratio: 0.69%"
+      },
+      {
+        "kind": "PROS",
+        "text": "Lower base expense ratio: 0.53%"
+      }
+    ],
+    "returns": {
+      "basis": "annualised",
+      "periods": [
+        "3Y",
+        "5Y",
+        "10Y",
+        "All"
+      ],
+      "rows": {
+        "Fund returns": {
+          "3Y": "+11.9%",
+          "5Y": "+11.2%",
+          "10Y": "+16.8%",
+          "All": "+17.7%"
+        },
+        "Category average (Equity Flexi Cap)": {
+          "3Y": "+10.9%",
+          "5Y": "+10.3%",
+          "10Y": "+13.2%",
+          "All": "+14.0%"
+        },
+        "Rank (Equity Flexi Cap)": {
+          "3Y": "20",
+          "5Y": "13",
+          "10Y": "1",
+          "All": null
+        }
+      }
+    }
+  },
+  {
+    "scheme_id": "parag-parikh-liquid-fund-direct-growth",
+    "source_url": "https://groww.in/mutual-funds/parag-parikh-liquid-fund-direct-growth",
+    "scraped_at": "2026-10-04T12:25:55",
+    "scheme_name": "Parag Parikh Liquid Fund Direct Growth",
+    "fund_house": "PPFAS Mutual Fund",
+    "category": "Debt",
+    "sub_category": "Liquid",
+    "plan_type": "Direct",
+    "riskometer": "Moderate Risk",
+    "benchmark": "CRISIL Liquid Debt A-I Index",
+    "launch_date": "11-May-2018",
+    "expense_ratio": "0.11%",
+    "exit_load": "Exit load of 0.0070% if redeemed within 1 day, 0.0065% if redeemed within 2 days, 0.0060% if redeemed within 3 days, 0.0055% if redeemed within 4 days, 0.0050% if redeemed within 5 days, 0.0045% if redeemed within 6 days.",
+    "stamp_duty": "0.005% (from July 1st, 2020)",
+    "lock_in": null,
+    "min_sip": 1000,
+    "min_lumpsum": 5000,
+    "min_additional": 1000,
+    "nav": 1576.0254,
+    "nav_date": "03-Oct-2026",
+    "aum_cr": 6721.83,
+    "tax_implication": "Returns are taxed as per your Income Tax slab.",
+    "objective": "The Scheme seeks to deliver reasonable market related returns with lower risk and high liquidity through judicious investments in money market and debt instruments.",
+    "registrar": "Cams",
+    "registrar_website": "www.camsonline.com",
+    "fund_managers": [
+      {
+        "name": "Aishwarya Dhar",
+        "since": "2025-09-01",
+        "education": "MBA - Finance",
+        "experience": "Prior to joining the PPFAS MF, she was associated with TATA AIA Life Insurance Co. Ltd, ManipalCigna Health Insurance Co. Ltd,"
+      },
+      {
+        "name": "Tejas Soman",
+        "since": "2025-09-01",
+        "education": "Mr. Soman has done B.Com from University of Mumbai and Post Graduate Program in Securities Markets - From ‘NISM’",
+        "experience": "Prior to joining PPFAS Mutual Fund, he was associated with SBI MF, Yes Bank Limited, STCI Primary Dealership and PricewaterhouseCoopers"
+      },
+      {
+        "name": "Mansi Kariya",
+        "since": "2023-12-22",
+        "education": "Ms. Karia has done B.Com, MS Finance and CFA",
+        "experience": "Prior to joining PPFAS AMC, she has worked with Insync and Zacks Investment Research"
+      }
+    ],
+    "holdings": [
+      {
+        "name": "GOVERNMENT OF INDIA 37477 091 DAYS TBILL 03SP26 FV RS 100",
+        "sector": "Financial",
+        "instrument": "Treasury Bills",
+        "weight_pct": 7.44
+      },
+      {
+        "name": "NTPC LIMITED 91D CP 23SEP26",
+        "sector": "Energy & Utilities",
+        "instrument": "Commercial Paper",
+        "weight_pct": 4.82
+      },
+      {
+        "name": "UNION BANK OF INDIA CD 24SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 4.08
+      },
+      {
+        "name": "EXPORT IMPORT BANK OF INDIA 91D CP 09SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 3.71
+      },
+      {
+        "name": "BANK OF BARODA CD 15SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 3.71
+      },
+      {
+        "name": "UNION BANK OF INDIA CD 14OCT26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 3.69
+      },
+      {
+        "name": "EXPORT IMPORT BANK OF INDIA 91D CP 04NOV26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 3.68
+      },
+      {
+        "name": "CANARA BANK CD 23NOV26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 3.67
+      },
+      {
+        "name": "Reverse Repo",
+        "sector": "Unspecified",
+        "instrument": "Reverse Repo",
+        "weight_pct": 3.66
+      },
+      {
+        "name": "Small Industries Development Bank Of India (21/09/2026) **",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 3.34
+      },
+      {
+        "name": "HDFC BANK LIMITED CD 11SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 2.97
+      },
+      {
+        "name": "PUNJAB NATIONAL BANK CD 15SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 2.97
+      },
+      {
+        "name": "HDFC BANK LIMITED CD 04NOV26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 2.94
+      },
+      {
+        "name": "LIC HOUSING FINANCE LTD 91D CP 26NOV26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 2.93
+      },
+      {
+        "name": "CANARA BANK CD 15SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 2.6
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT 91D CP 08SEP26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 2.23
+      },
+      {
+        "name": "ICICI Bank Limited (15/09/2026)",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 2.23
+      },
+      {
+        "name": "National Bank For Agriculture & Rural Development**",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 2.2
+      },
+      {
+        "name": "AXIS BANK LIMITED CD 26NOV26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 2.2
+      },
+      {
+        "name": "INDIA GRID TRUST SR M 6.72 LOA 14SP26 FVRS10LAC",
+        "sector": "Industrials",
+        "instrument": "Non Convertible Debenture",
+        "weight_pct": 1.49
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT 91D CP 11SEP26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 1.49
+      },
+      {
+        "name": "AXIS BANK LIMITED CD 11SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 1.49
+      },
+      {
+        "name": "GOVERNMENT OF INDIA 37490 091 DAYS TBILL 10SP26 FV RS 100",
+        "sector": "Financial",
+        "instrument": "Treasury Bills",
+        "weight_pct": 1.49
+      },
+      {
+        "name": "AXIS BANK LIMITED CD 10SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 1.49
+      },
+      {
+        "name": "BAJAJ FINANCE LIMITED 91D CP 03SEP26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 1.49
+      },
+      {
+        "name": "BAJAJ FINANCE LIMITED 91D CP 15OCT26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 1.48
+      },
+      {
+        "name": "BAJAJ FINANCE LIMITED 63D CP 25SEP26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 1.48
+      },
+      {
+        "name": "KOTAK MAHINDRA BANK LIMITED CD 24SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 1.48
+      },
+      {
+        "name": "LIC Housing Finance Limited (17/09/2026)",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 1.48
+      },
+      {
+        "name": "NTPC LIMITED 91D CP 18SEP26",
+        "sector": "Energy & Utilities",
+        "instrument": "Commercial Paper",
+        "weight_pct": 1.48
+      },
+      {
+        "name": "KOTAK SECURITIES LTD 168D CP 25SEP26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 1.48
+      },
+      {
+        "name": "REC LIMITED 91D CP 22OCT26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 1.47
+      },
+      {
+        "name": "KOTAK SECURITIES LTD CP 27-11-26**",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 1.46
+      },
+      {
+        "name": "TATA CAPITAL LIMITED 91D CP 23NOV26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 1.46
+      },
+      {
+        "name": "HDFC SECURITIES LIMITED 91D CP 26NOV26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 1.46
+      },
+      {
+        "name": "HDFC BANK LIMITED CD 21SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 1.11
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT 91D CP 07SEP26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 1.11
+      },
+      {
+        "name": "Reserve Bank of India 91-D",
+        "sector": "Financial",
+        "instrument": "Treasury Bills",
+        "weight_pct": 1.04
+      },
+      {
+        "name": "BANK OF BARODA CD 07SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.74
+      },
+      {
+        "name": "BANK OF BARODA CD 10SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.74
+      },
+      {
+        "name": "ICICI SECURITIES LIMITED 126D CP 28SEP26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 0.74
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 24B 7.49 LOA 15OT26 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Debenture",
+        "weight_pct": 0.74
+      },
+      {
+        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR II 7.44 BD 04SP26 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Debenture",
+        "weight_pct": 0.74
+      },
+      {
+        "name": "BAJAJ FINANCE LIMITED 365D CP 04NOV26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 0.73
+      },
+      {
+        "name": "UNION BANK OF INDIA CD 15SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.37
+      },
+      {
+        "name": "UNION BANK OF INDIA CD 11SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.37
+      },
+      {
+        "name": "ICICI SECURITIES LIMITED 337D CP 25SEP26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 0.37
+      },
+      {
+        "name": "Rajasthan State SDL 7.37 09/11/2026",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.37
+      },
+      {
+        "name": "Madhya Pradesh State SDL 7.40 09/11/2026",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.37
+      },
+      {
+        "name": "Haryana State SDL 7.39 09/11/2026",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.37
+      },
+      {
+        "name": "ICICI SECURITIES LIMITED 91D CP 03SEP26",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 0.37
+      },
+      {
+        "name": "Others Class A2 AIF",
+        "sector": "Unspecified",
+        "instrument": "Alternative Investment Fund",
+        "weight_pct": 0.23
+      },
+      {
+        "name": "Repo",
+        "sector": "Unspecified",
+        "instrument": "Repo",
+        "weight_pct": 0.21
+      },
+      {
+        "name": "Net Receivables",
+        "sector": "Unspecified",
+        "instrument": "Net Receivables",
+        "weight_pct": 0.17
+      },
+      {
+        "name": "GOVERNMENT OF INDIA 37629 091 DAYS TBILL 01OT26 FV RS 100",
+        "sector": "Financial",
+        "instrument": "Treasury Bills",
+        "weight_pct": 0.15
+      },
+      {
+        "name": "Gujarat State Government Securities (09/11/2026)",
+        "sector": "Industrials",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.15
+      },
+      {
+        "name": "Andhra Pradesh State SDL 7.42 09/11/2026",
+        "sector": "Financial",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.07
+      }
+    ],
+    "holdings_as_of": "2026-08-31",
+    "risk_ratios": {
+      "sharpe_ratio": 4.77,
+      "sortino_ratio": 11.02,
+      "alpha": null,
+      "beta": null,
+      "standard_deviation": 0.18,
+      "information_ratio": null
+    },
+    "groww_analysis": [
+      {
+        "kind": "PROS",
+        "text": "1Y and 5Y annualised returns higher than category average"
+      },
+      {
+        "kind": "CONS",
+        "text": "3Y annualised returns lower than category average by 0.14%"
+      },
+      {
+        "kind": "PROS",
+        "text": "Lower expense ratio: 0.11%"
+      },
+      {
+        "kind": "CONS",
+        "text": "Low rating: 2"
+      },
+      {
+        "kind": "PROS",
+        "text": "Average credit rating of the fund's holdings: AAA \nThis fund has holdings of the highest quality"
+      },
+      {
+        "kind": "PROS",
+        "text": "Lower base expense ratio: 0.09%"
+      }
+    ],
+    "returns": {
+      "basis": "annualised",
+      "periods": [
+        "1Y",
+        "3Y",
+        "5Y",
+        "All"
+      ],
+      "rows": {
+        "Fund returns": {
+          "1Y": "+6.4%",
+          "3Y": "+6.7%",
+          "5Y": "+6.1%",
+          "All": "+5.6%"
+        },
+        "Category average (Debt Liquid)": {
+          "1Y": "+6.4%",
+          "3Y": "+6.8%",
+          "5Y": "+6.3%",
+          "All": "+6.9%"
+        },
+        "Rank (Debt Liquid)": {
+          "1Y": "27",
+          "3Y": "32",
+          "5Y": "32",
+          "All": null
+        }
+      }
+    }
+  },
+  {
+    "scheme_id": "parag-parikh-elss-tax-saver-fund-direct-growth",
+    "source_url": "https://groww.in/mutual-funds/parag-parikh-elss-tax-saver-fund-direct-growth",
+    "scraped_at": "2026-10-04T12:26:00",
+    "scheme_name": "Parag Parikh ELSS Tax Saver Fund Direct Growth",
+    "fund_house": "PPFAS Mutual Fund",
+    "category": "Equity",
+    "sub_category": "ELSS",
+    "plan_type": "Direct",
+    "riskometer": "Very High Risk",
+    "benchmark": "NIFTY 500 Total Return Index",
+    "launch_date": "24-Jul-2019",
+    "expense_ratio": "0.65%",
+    "exit_load": "Nil",
+    "stamp_duty": "0.005% (from July 1st, 2020)",
+    "lock_in": "3 years",
+    "min_sip": 1000,
+    "min_lumpsum": 500,
+    "min_additional": 500,
+    "nav": 30.434,
+    "nav_date": "01-Oct-2026",
+    "aum_cr": 5613.32,
+    "tax_implication": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "objective": "The Scheme seeks to generate long-term capital appreciation through a diversified portfolio of equity and equity related instruments. (80% of total assets in accordance with Equity Linked Saving Scheme, 2005 notified by Ministry of Finance)",
+    "registrar": "Cams",
+    "registrar_website": "www.camsonline.com",
+    "fund_managers": [
+      {
+        "name": "Raunak Onkar",
+        "since": "2019-07-04",
+        "education": "Mr.Onkar is an MMS (Finance) from the University of Mumbai.",
+        "experience": "He joined PPFAS as a research analyst. He was appointed as Head- research in the year 2011. He is working with the company as an Associate Fund Manager."
+      },
+      {
+        "name": "Rukun Tarachandani",
+        "since": "2022-05-16",
+        "education": "Mr. Tarachandani has done B Tech (Information Technology), PGPM (Finance), CFA and CQF.",
+        "experience": "Prior to joining PPFAS Mutual Fund, he has worked with Kotak Mutual Fund, Goldman Sachs, Unnati Investment Management & Research Group."
+      },
+      {
+        "name": "Rajeev Thakkar",
+        "since": "2019-07-04",
+        "education": "Mr.Thakkar is a Chartered Accountant, Cost Accountant, CFA, and CFP.",
+        "experience": "He has been associated with PPFAS AMC since 2013."
+      },
+      {
+        "name": "Raj Mehta",
+        "since": "2019-07-04",
+        "education": "Mr. Mehta is a Commerce Graduate from University of Mumbai (N.M. College) ; Fellow Member of Institute of Chartered Accountants of India (ICAI) ; CFA Charter Holder.",
+        "experience": "Beginning his career as an intern with PPFAS Mutual Fund in 2012, he swiftly moved up the ranks, and is currently part of the Fund Management team."
+      },
+      {
+        "name": "Aishwarya Dhar",
+        "since": "2025-09-01",
+        "education": "MBA - Finance",
+        "experience": "Prior to joining the PPFAS MF, she was associated with TATA AIA Life Insurance Co. Ltd, ManipalCigna Health Insurance Co. Ltd,"
+      },
+      {
+        "name": "Tejas Soman",
+        "since": "2025-09-01",
+        "education": "Mr. Soman has done B.Com from University of Mumbai and Post Graduate Program in Securities Markets - From ‘NISM’",
+        "experience": "Prior to joining PPFAS Mutual Fund, he was associated with SBI MF, Yes Bank Limited, STCI Primary Dealership and PricewaterhouseCoopers"
+      }
+    ],
+    "holdings": [
+      {
+        "name": "Bajaj Holdings & Investment Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 7.32
+      },
+      {
+        "name": "HDFC Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 7.29
+      },
+      {
+        "name": "Power Grid Corporation of India Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 6.41
+      },
+      {
+        "name": "Coal India Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 5.88
+      },
+      {
+        "name": "Maharashtra Scooters Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 5.76
+      },
+      {
+        "name": "ICICI Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 5.14
+      },
+      {
+        "name": "ITC Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 4.7
+      },
+      {
+        "name": "Kotak Mahindra Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 4.55
+      },
+      {
+        "name": "HCL Technologies Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 4.48
+      },
+      {
+        "name": "Maruti Suzuki India Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 3.84
+      },
+      {
+        "name": "Mahindra & Mahindra Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 3.75
+      },
+      {
+        "name": "Axis Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 3.7
+      },
+      {
+        "name": "Reverse Repo",
+        "sector": "Unspecified",
+        "instrument": "Reverse Repo",
+        "weight_pct": 3.46
+      },
+      {
+        "name": "Infosys Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 3.44
+      },
+      {
+        "name": "Bharti Airtel Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 3.38
+      },
+      {
+        "name": "CCL Products (India) Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 2.7
+      },
+      {
+        "name": "CMS Info Systems Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 2.62
+      },
+      {
+        "name": "Embassy Office Parks REIT",
+        "sector": "Real Estate",
+        "instrument": "Real Estate Investment Trusts",
+        "weight_pct": 2.51
+      },
+      {
+        "name": "Brookfield India Real Estate Trust REIT",
+        "sector": "Real Estate",
+        "instrument": "Real Estate Investment Trusts",
+        "weight_pct": 2.48
+      },
+      {
+        "name": "Tata Consultancy Services Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 1.95
+      },
+      {
+        "name": "Zydus Lifesciences Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 1.68
+      },
+      {
+        "name": "Wipro Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 1.53
+      },
+      {
+        "name": "Cipla Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 1.38
+      },
+      {
+        "name": "Dr. Reddy's Laboratories Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 1.25
+      },
+      {
+        "name": "Seshaasai Technologies Ltd.",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 1.19
+      },
+      {
+        "name": "Zydus Wellness Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 1.1
+      },
+      {
+        "name": "West Coast Paper Mills Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 1.03
+      },
+      {
+        "name": "VST Industries Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 0.86
+      },
+      {
+        "name": "Indian Energy Exchange Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.85
+      },
+      {
+        "name": "Sharda Motor Industries Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 0.56
+      },
+      {
+        "name": "EID-Parry (India) Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.5
+      },
+      {
+        "name": "Knowledge Realty Trust",
+        "sector": "Real Estate",
+        "instrument": "Real Estate Investment Trusts",
+        "weight_pct": 0.49
+      },
+      {
+        "name": "Indraprastha Gas Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 0.47
+      },
+      {
+        "name": "Narayana Hrudayalaya Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 0.36
+      },
+      {
+        "name": "DLF Ltd",
+        "sector": "Real Estate",
+        "instrument": "Equity",
+        "weight_pct": 0.36
+      },
+      {
+        "name": "Central Depository Services (India) Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.26
+      },
+      {
+        "name": "Agro Tech Foods Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 0.22
+      },
+      {
+        "name": "Swaraj Engines Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.2
+      },
+      {
+        "name": "The Great Eastern Shipping Company Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 0.18
+      },
+      {
+        "name": "GOVERNMENT OF INDIA 36940 364 DAYS TBILL 15JN27 FV RS 100",
+        "sector": "Financial",
+        "instrument": "Treasury Bills",
+        "weight_pct": 0.17
+      },
+      {
+        "name": "Petronet LNG Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 0.11
+      },
+      {
+        "name": "Indus Towers Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 0.1
+      },
+      {
+        "name": "GOVERNMENT OF INDIA 37631 364 DAYS TBILL 01JL27 FV RS 100",
+        "sector": "Financial",
+        "instrument": "Treasury Bills",
+        "weight_pct": 0.09
+      },
+      {
+        "name": "Mahanagar Gas Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 0.08
+      },
+      {
+        "name": "ICRA Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.05
+      },
+      {
+        "name": "Nesco Ltd",
+        "sector": "Real Estate",
+        "instrument": "Equity",
+        "weight_pct": 0.03
+      },
+      {
+        "name": "Mahindra CIE Automotive Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 0.02
+      },
+      {
+        "name": "Siyaram Silk Mills Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 0.02
+      },
+      {
+        "name": "Siyaram Silk Mills Ltd  Pref. Shares  24/08/2029",
+        "sector": "Consumer Discretionary",
+        "instrument": "Preference Shares",
+        "weight_pct": 0.0
+      },
+      {
+        "name": "Siyaram Silk Mills Ltd Pref. Shares 9.00 24/08/2031",
+        "sector": "Consumer Discretionary",
+        "instrument": "Preference Shares",
+        "weight_pct": 0.0
+      },
+      {
+        "name": "Net Payables",
+        "sector": "Unspecified",
+        "instrument": "Net Payables",
+        "weight_pct": -0.48
+      }
+    ],
+    "holdings_as_of": "2026-08-31",
+    "risk_ratios": {
+      "sharpe_ratio": 0.23,
+      "sortino_ratio": 0.34,
+      "alpha": -0.41,
+      "beta": 0.71,
+      "standard_deviation": 11.66,
+      "information_ratio": -0.29
+    },
+    "groww_analysis": [
+      {
+        "kind": "CONS",
+        "text": "Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y"
+      },
+      {
+        "kind": "PROS",
+        "text": "Exit load is zero"
+      },
+      {
+        "kind": "CONS",
+        "text": "Lock-in period: 3Y"
+      },
+      {
+        "kind": "PROS",
+        "text": "Lower expense ratio: 0.65%"
+      },
+      {
+        "kind": "PROS",
+        "text": "Lower base expense ratio: 0.54%"
+      }
+    ],
+    "returns": {
+      "basis": "annualised",
+      "periods": [
+        "1Y",
+        "3Y",
+        "5Y",
+        "All"
+      ],
+      "rows": {
+        "Fund returns": {
+          "1Y": "-10.4%",
+          "3Y": "+7.7%",
+          "5Y": "+10.0%",
+          "All": "+16.7%"
+        },
+        "Category average (Equity ELSS)": {
+          "1Y": "-2.6%",
+          "3Y": "+10.2%",
+          "5Y": "+10.0%",
+          "All": "+16.9%"
+        },
+        "Rank (Equity ELSS)": {
+          "1Y": "40",
+          "3Y": "31",
+          "5Y": "18",
+          "All": null
+        }
+      }
+    }
+  },
+  {
+    "scheme_id": "parag-parikh-conservative-hybrid-fund-direct-growth",
+    "source_url": "https://groww.in/mutual-funds/parag-parikh-conservative-hybrid-fund-direct-growth",
+    "scraped_at": "2026-10-04T12:26:04",
+    "scheme_name": "Parag Parikh Conservative Hybrid Fund Direct Growth",
+    "fund_house": "PPFAS Mutual Fund",
+    "category": "Hybrid",
+    "sub_category": "Conservative Hybrid",
+    "plan_type": "Direct",
+    "riskometer": "High Risk",
+    "benchmark": "CRISIL Hybrid 85+15 Conservative Index",
+    "launch_date": "26-May-2021",
+    "expense_ratio": "0.32%",
+    "exit_load": "For units in excess of 10% of the investment,1% will be charged for redemption within 365 days",
+    "stamp_duty": "0.005% (from July 1st, 2020)",
+    "lock_in": null,
+    "min_sip": 1000,
+    "min_lumpsum": 5000,
+    "min_additional": 1000,
+    "nav": 15.9888,
+    "nav_date": "01-Oct-2026",
+    "aum_cr": 3481.42,
+    "tax_implication": "Returns are taxed as per your Income Tax slab.",
+    "objective": "The scheme seeks to generate regular income through investments predominantly in debt and money market instruments. The scheme also seeks to generate long term capital appreciation from the portion of equity investments under the scheme.",
+    "registrar": "Cams",
+    "registrar_website": "www.camsonline.com",
+    "fund_managers": [
+      {
+        "name": "Raunak Onkar",
+        "since": "2021-05-07",
+        "education": "Mr.Onkar is an MMS (Finance) from the University of Mumbai.",
+        "experience": "He joined PPFAS as a research analyst. He was appointed as Head- research in the year 2011. He is working with the company as an Associate Fund Manager."
+      },
+      {
+        "name": "Mansi Kariya",
+        "since": "2023-12-22",
+        "education": "Ms. Karia has done B.Com, MS Finance and CFA",
+        "experience": "Prior to joining PPFAS AMC, she has worked with Insync and Zacks Investment Research"
+      },
+      {
+        "name": "Rukun Tarachandani",
+        "since": "2022-05-16",
+        "education": "Mr. Tarachandani has done B Tech (Information Technology), PGPM (Finance), CFA and CQF.",
+        "experience": "Prior to joining PPFAS Mutual Fund, he has worked with Kotak Mutual Fund, Goldman Sachs, Unnati Investment Management & Research Group."
+      },
+      {
+        "name": "Rajeev Thakkar",
+        "since": "2021-05-07",
+        "education": "Mr.Thakkar is a Chartered Accountant, Cost Accountant, CFA, and CFP.",
+        "experience": "He has been associated with PPFAS AMC since 2013."
+      },
+      {
+        "name": "Raj Mehta",
+        "since": "2021-05-07",
+        "education": "Mr. Mehta is a Commerce Graduate from University of Mumbai (N.M. College) ; Fellow Member of Institute of Chartered Accountants of India (ICAI) ; CFA Charter Holder.",
+        "experience": "Beginning his career as an intern with PPFAS Mutual Fund in 2012, he swiftly moved up the ranks, and is currently part of the Fund Management team."
+      },
+      {
+        "name": "Tejas Soman",
+        "since": "2025-09-01",
+        "education": "Mr. Soman has done B.Com from University of Mumbai and Post Graduate Program in Securities Markets - From ‘NISM’",
+        "experience": "Prior to joining PPFAS Mutual Fund, he was associated with SBI MF, Yes Bank Limited, STCI Primary Dealership and PricewaterhouseCoopers"
+      }
+    ],
+    "holdings": [
+      {
+        "name": "STATE DEVELOPMENT LOAN 36976 TN 21JN32 7.21 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 5.57
+      },
+      {
+        "name": "Brookfield India Real Estate Trust REIT",
+        "sector": "Real Estate",
+        "instrument": "Real Estate Investment Trusts",
+        "weight_pct": 5.1
+      },
+      {
+        "name": "Embassy Office Parks REIT",
+        "sector": "Real Estate",
+        "instrument": "Real Estate Investment Trusts",
+        "weight_pct": 5.01
+      },
+      {
+        "name": "Repo",
+        "sector": "Unspecified",
+        "instrument": "Repo",
+        "weight_pct": 4.76
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 30045 UP 17FB31 7.08 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 4.29
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 35559 KAR 12FB31 7.08 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 4.0
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32666 MH 01MR31 7.72 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 3.67
+      },
+      {
+        "name": "Maharashtra State SDL 7.72 23/03/2032",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 2.92
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 37155 KAR 04SP34 7.38 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 2.72
+      },
+      {
+        "name": "Knowledge Realty Trust",
+        "sector": "Real Estate",
+        "instrument": "Real Estate Investment Trusts",
+        "weight_pct": 2.26
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32188 MH 04OT30 7.76 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 2.2
+      },
+      {
+        "name": "Petronet LNG Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 2.19
+      },
+      {
+        "name": "LIC HOUSING FINANCE LTD TR 444 7.75 NCD 23AG29 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Debenture",
+        "weight_pct": 2.15
+      },
+      {
+        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VIII 7.49 BD 11JU29 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Bonds",
+        "weight_pct": 2.14
+      },
+      {
+        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VII 7.42 BD 12MR29 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Bonds/NCDs",
+        "weight_pct": 2.14
+      },
+      {
+        "name": "7.49% Embassy Off Park RE NCD Sr XVII (22/06/2029)",
+        "sector": "Real Estate",
+        "instrument": "Non Convertible Debenture",
+        "weight_pct": 2.13
+      },
+      {
+        "name": "Coal India Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 1.94
+      },
+      {
+        "name": "Power Grid Corporation of India Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 1.85
+      },
+      {
+        "name": "ITC Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 1.81
+      },
+      {
+        "name": "TATA CAPITAL LIMITED SR C 8.15 NCD 11JU29 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Non Convertible Debenture",
+        "weight_pct": 1.73
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 30426 MH 25MY31 6.78 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.56
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32266 TN 27OT32 7.82 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.47
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 31864 GUJ 03AG32 7.61 FV RS 100",
+        "sector": "Industrials",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.45
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32964 MH 31MY31 7.33 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.44
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25B 7.64 BD 06DC29 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Bonds",
+        "weight_pct": 1.43
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 34075 KAR 13MR34 7.36 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.43
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 36388 GUJ 03SP31 7.01 FV RS 100",
+        "sector": "Industrials",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.43
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 37102 TN 18FB32 7.12 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.42
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25D 7.40 BD 29AP30 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Bonds",
+        "weight_pct": 1.42
+      },
+      {
+        "name": "BAJAJ FINANCE LIMITED 7.3763 NCD 26JU28 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Debenture",
+        "weight_pct": 1.42
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 35726 MP 19MR32 7.14 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.42
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32907 TN 10MY33 7.39 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.29
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 30141 UP 10MR31 7.17 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.29
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 33604 KAR 08NV33 7.7 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.17
+      },
+      {
+        "name": "7.73% Maharashta State Government Securities",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.02
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32477 KAR 04JN33 7.6 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.02
+      },
+      {
+        "name": "PPFAS Liquid Fund Direct - Growth",
+        "sector": "Unspecified",
+        "instrument": "Mutual Fund",
+        "weight_pct": 1.0
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 30427 MH 25MY32 6.83 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.84
+      },
+      {
+        "name": "Power Finance Corporation Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.8
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32705 MH 08MR31 7.7 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.73
+      },
+      {
+        "name": "GOVERNMENT OF INDIA 34587 GOI 18JU31 7.02 FV RS 100",
+        "sector": "Entities",
+        "instrument": "GOI Securities",
+        "weight_pct": 0.73
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 34251 TN 24AP31 7.5 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.73
+      },
+      {
+        "name": "BAJAJ FINANCE LIMITED 8.12 NCD 10SP27 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Debenture",
+        "weight_pct": 0.72
+      },
+      {
+        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR IX 7.39 BD 21MR30 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Bonds",
+        "weight_pct": 0.71
+      },
+      {
+        "name": "BAJAJ FINANCE LIMITED 7.60 NCD 11FB30 FVRS10LAC",
+        "sector": "Financial",
+        "instrument": "Debenture",
+        "weight_pct": 0.71
+      },
+      {
+        "name": "NATIONAL BANK FOR FINANCING INFRASTRUCTURE AND DEVELOPMENT SR NABFID2026-1 TR I 7.03 BD 08AP30 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Bonds",
+        "weight_pct": 0.7
+      },
+      {
+        "name": "BAJAJ FINANCE LIMITED NCD 7.38 28JU30 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Debenture",
+        "weight_pct": 0.7
+      },
+      {
+        "name": "LIC HOUSING FINANCE LTD TR 455 7.07 NCD 29AP30 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Bonds",
+        "weight_pct": 0.7
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 31127 KAR 15DC33 6.89 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.7
+      },
+      {
+        "name": "NATIONAL BANK FOR FINANCING INFRASTRUCTURE AND DEVELOPMENT SR NABFID2026-4 TR I 6.86 BD 13NV30 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Bonds",
+        "weight_pct": 0.7
+      },
+      {
+        "name": "Swaraj Engines Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.64
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 20956 AP 24OT30  8.68 FV RS 100",
+        "sector": "Financial",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.6
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 20760 KER 08AG30 8.48 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.45
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 35772 MP 26MR32 7.05 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.42
+      },
+      {
+        "name": "INDIGRID INFRASTRUCTURE TRUST SR AF 7.07 NCD 20JU30 FVRS1LAC",
+        "sector": "Industrials",
+        "instrument": "Bonds",
+        "weight_pct": 0.42
+      },
+      {
+        "name": "Karnataka State SDL 6.75 14/10/2033",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.42
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 21066 AP 05DC30 8.43 FV RS 100",
+        "sector": "Financial",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.3
+      },
+      {
+        "name": "7.84% RAJASTHAN SDL MAT- 27/10/2032",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.29
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 31735 RAJ 22JU32 7.83 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.29
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32797 RAJ 29MR33 7.78 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.29
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 33059 MH 14JU31 7.34 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.29
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 31424 GUJ 02MR32 7.12 FV RS 100",
+        "sector": "Industrials",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.28
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 35187 TN 27NV32 7.1 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.28
+      },
+      {
+        "name": "7.05% MAHARASHTRA SDL 2032 07/10/2032",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.28
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 35771 KAR 26SP33 7.03 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.28
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 31028 KAR 08DC32 6.88 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.28
+      },
+      {
+        "name": "Others Class A2 AIF",
+        "sector": "Unspecified",
+        "instrument": "Alternative Investment Fund",
+        "weight_pct": 0.28
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 36993 KAR 28JL31 7.15 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.17
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 21017 PJB 14NV28 8.61 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.15
+      },
+      {
+        "name": "Andhra Pradesh State SDL 8.50 28/03/2029",
+        "sector": "Financial",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.15
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 31635 RAJ 18MY32 7.7 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.15
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32965 MH 31MY32 7.32 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.14
+      },
+      {
+        "name": "INDIA GRID TRUST SR III CAT I&II 7.70 NCD 06MY28 FVRS1000",
+        "sector": "Industrials",
+        "instrument": "Debenture",
+        "weight_pct": 0.14
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 35651 KAR 05MR32 7.22 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.14
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 35662 TN 05SP32 7.21 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.14
+      },
+      {
+        "name": "Tamilnadu State SDL 6.97 18/08/2031",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.14
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 30857 TN 13OT31 6.97 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.14
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 31123 KAR 15DC31 6.83 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.14
+      },
+      {
+        "name": "GOVERNMENT OF INDIA 37631 364 DAYS TBILL 01JL27 FV RS 100",
+        "sector": "Financial",
+        "instrument": "Treasury Bills",
+        "weight_pct": 0.14
+      },
+      {
+        "name": "Indus Towers Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 0.07
+      },
+      {
+        "name": "Net Current Assets",
+        "sector": "Unspecified",
+        "instrument": "Net Current Assets",
+        "weight_pct": 0.0
+      },
+      {
+        "name": "Power Grid Corporation of India Limited 290 Call September 2026 Option",
+        "sector": "Energy & Utilities",
+        "instrument": "Call Option",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "Coal India Limited 430 Call September 2026 Option",
+        "sector": "Materials",
+        "instrument": "Call Option",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "Net Payables",
+        "sector": "Unspecified",
+        "instrument": "Net Payables",
+        "weight_pct": -0.66
+      }
+    ],
+    "holdings_as_of": "2026-08-31",
+    "risk_ratios": {
+      "sharpe_ratio": 0.92,
+      "sortino_ratio": 1.42,
+      "alpha": null,
+      "beta": null,
+      "standard_deviation": 3.49,
+      "information_ratio": null
+    },
+    "groww_analysis": [
+      {
+        "kind": "CONS",
+        "text": "Consistently lower annualised returns than category average for the past 1Y and 3Y"
+      },
+      {
+        "kind": "PROS",
+        "text": "Lower expense ratio: 0.32%"
+      },
+      {
+        "kind": "PROS",
+        "text": "Average credit rating of the fund's holdings: AAA \nThis fund has holdings of the highest quality"
+      },
+      {
+        "kind": "PROS",
+        "text": "5Y annualised returns higher than category average by 0.96%"
+      },
+      {
+        "kind": "PROS",
+        "text": "Lower base expense ratio: 0.24%"
+      }
+    ],
+    "returns": {
+      "basis": "annualised",
+      "periods": [
+        "1Y",
+        "3Y",
+        "5Y",
+        "All"
+      ],
+      "rows": {
+        "Fund returns": {
+          "1Y": "+3.5%",
+          "3Y": "+9.0%",
+          "5Y": "+8.9%",
+          "All": "+9.2%"
+        },
+        "Category average (Hybrid Conservative Hybrid)": {
+          "1Y": "+1.5%",
+          "3Y": "+7.6%",
+          "5Y": "+7.3%",
+          "All": "+8.9%"
+        },
+        "Rank (Hybrid Conservative Hybrid)": {
+          "1Y": "6",
+          "3Y": "3",
+          "5Y": "3",
+          "All": null
+        }
+      }
+    }
+  },
+  {
+    "scheme_id": "parag-parikh-arbitrage-fund-direct-growth",
+    "source_url": "https://groww.in/mutual-funds/parag-parikh-arbitrage-fund-direct-growth",
+    "scraped_at": "2026-10-04T12:26:08",
+    "scheme_name": "Parag Parikh Arbitrage Fund Direct Growth",
+    "fund_house": "PPFAS Mutual Fund",
+    "category": "Hybrid",
+    "sub_category": "Arbitrage",
+    "plan_type": "Direct",
+    "riskometer": "Low Risk",
+    "benchmark": "NIFTY 50 Arbitrage Total Return Index",
+    "launch_date": "02-Nov-2023",
+    "expense_ratio": "0.99%",
+    "exit_load": "Exit load of 0.25%, if redeemed within 30 days.",
+    "stamp_duty": "0.005% (from July 1st, 2020)",
+    "lock_in": null,
+    "min_sip": 1000,
+    "min_lumpsum": 1000,
+    "min_additional": 1000,
+    "nav": 12.1736,
+    "nav_date": "01-Oct-2026",
+    "aum_cr": 2798.93,
+    "tax_implication": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "objective": "The scheme seeks to generate capital appreciation and income by predominantly investing in arbitrage opportunities in the cash and derivatives segment of the equity market, and by investing the balance in debt and money market instruments.",
+    "registrar": "Cams",
+    "registrar_website": "www.camsonline.com",
+    "fund_managers": [
+      {
+        "name": "Raunak Onkar",
+        "since": "2023-10-23",
+        "education": "Mr.Onkar is an MMS (Finance) from the University of Mumbai.",
+        "experience": "He joined PPFAS as a research analyst. He was appointed as Head- research in the year 2011. He is working with the company as an Associate Fund Manager."
+      },
+      {
+        "name": "Rukun Tarachandani",
+        "since": "2023-10-23",
+        "education": "Mr. Tarachandani has done B Tech (Information Technology), PGPM (Finance), CFA and CQF.",
+        "experience": "Prior to joining PPFAS Mutual Fund, he has worked with Kotak Mutual Fund, Goldman Sachs, Unnati Investment Management & Research Group."
+      },
+      {
+        "name": "Raj Mehta",
+        "since": "2023-10-23",
+        "education": "Mr. Mehta is a Commerce Graduate from University of Mumbai (N.M. College) ; Fellow Member of Institute of Chartered Accountants of India (ICAI) ; CFA Charter Holder.",
+        "experience": "Beginning his career as an intern with PPFAS Mutual Fund in 2012, he swiftly moved up the ranks, and is currently part of the Fund Management team."
+      },
+      {
+        "name": "Rajeev Thakkar",
+        "since": "2023-10-23",
+        "education": "Mr.Thakkar is a Chartered Accountant, Cost Accountant, CFA, and CFP.",
+        "experience": "He has been associated with PPFAS AMC since 2013."
+      },
+      {
+        "name": "Tejas Soman",
+        "since": "2025-09-01",
+        "education": "Mr. Soman has done B.Com from University of Mumbai and Post Graduate Program in Securities Markets - From ‘NISM’",
+        "experience": "Prior to joining PPFAS Mutual Fund, he was associated with SBI MF, Yes Bank Limited, STCI Primary Dealership and PricewaterhouseCoopers"
+      },
+      {
+        "name": "Aishwarya Dhar",
+        "since": "2025-09-01",
+        "education": "MBA - Finance",
+        "experience": "Prior to joining the PPFAS MF, she was associated with TATA AIA Life Insurance Co. Ltd, ManipalCigna Health Insurance Co. Ltd,"
+      }
+    ],
+    "holdings": [
+      {
+        "name": "Cash Margin",
+        "sector": "Unspecified",
+        "instrument": "Cash Margin",
+        "weight_pct": 71.04
+      },
+      {
+        "name": "PPFAS Liquid Fund Direct - Growth",
+        "sector": "Unspecified",
+        "instrument": "Mutual Fund",
+        "weight_pct": 10.47
+      },
+      {
+        "name": "ICICI Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 5.97
+      },
+      {
+        "name": "HDFC Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 5.85
+      },
+      {
+        "name": "Canara Bank",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 5.51
+      },
+      {
+        "name": "Axis Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 4.7
+      },
+      {
+        "name": "Reliance Industries Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 4.41
+      },
+      {
+        "name": "Bharti Airtel Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 4.33
+      },
+      {
+        "name": "Kotak Mahindra Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 4.0
+      },
+      {
+        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 11JUN27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 3.38
+      },
+      {
+        "name": "Bharat Heavy Electricals Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 3.15
+      },
+      {
+        "name": "Reverse Repo",
+        "sector": "Unspecified",
+        "instrument": "Reverse Repo",
+        "weight_pct": 2.99
+      },
+      {
+        "name": "State Bank of India",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 2.55
+      },
+      {
+        "name": "IDFC First Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 2.16
+      },
+      {
+        "name": "Tata Steel Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 2.0
+      },
+      {
+        "name": "Bharat Electronics Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 2.0
+      },
+      {
+        "name": "CANARA BANK CD 08DEC26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 1.76
+      },
+      {
+        "name": "HDFC BANK LIMITED CD 21DEC26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 1.75
+      },
+      {
+        "name": "CANARA BANK CD 08JAN27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 1.74
+      },
+      {
+        "name": "INDIAN BANK CD 12JAN27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 1.74
+      },
+      {
+        "name": "NMDC Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 1.74
+      },
+      {
+        "name": "Ultratech Cement Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 1.74
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 27JAN27",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 1.74
+      },
+      {
+        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 26FEB27",
+        "sector": "Financial",
+        "instrument": "Commercial Paper",
+        "weight_pct": 1.73
+      },
+      {
+        "name": "Eicher Motors Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 1.54
+      },
+      {
+        "name": "Mahindra & Mahindra Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 1.47
+      },
+      {
+        "name": "Sun Pharmaceutical Industries Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 1.11
+      },
+      {
+        "name": "Punjab National Bank",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 1.09
+      },
+      {
+        "name": "Hindustan Aeronautics Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 1.0
+      },
+      {
+        "name": "HDFC BANK LIMITED CD 11SEP26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.89
+      },
+      {
+        "name": "BANK OF BARODA CD 25NOV26",
+        "sector": "Financial",
+        "instrument": "Certificate of Deposit",
+        "weight_pct": 0.88
+      },
+      {
+        "name": "GMR Airports Infrastructure Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.87
+      },
+      {
+        "name": "DLF Ltd",
+        "sector": "Real Estate",
+        "instrument": "Equity",
+        "weight_pct": 0.85
+      },
+      {
+        "name": "Grasim Industries Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.82
+      },
+      {
+        "name": "Bank Of Baroda",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.79
+      },
+      {
+        "name": "Life Insurance Corporation of India",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.79
+      },
+      {
+        "name": "Bajaj Finance Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.72
+      },
+      {
+        "name": "Bandhan Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.68
+      },
+      {
+        "name": "NBCC India Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.62
+      },
+      {
+        "name": "Cipla Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 0.59
+      },
+      {
+        "name": "The Indian Hotels Company Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 0.58
+      },
+      {
+        "name": "NTPC Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 0.57
+      },
+      {
+        "name": "Glenmark Pharmaceuticals Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 0.49
+      },
+      {
+        "name": "Biocon Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 0.48
+      },
+      {
+        "name": "Steel Authority Of India Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.43
+      },
+      {
+        "name": "Jio Financial Services Limited",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.4
+      },
+      {
+        "name": "Indus Towers Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 0.39
+      },
+      {
+        "name": "Coal India Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.39
+      },
+      {
+        "name": "GOVERNMENT OF INDIA 36940 364 DAYS TBILL 15JN27 FV RS 100",
+        "sector": "Financial",
+        "instrument": "Treasury Bills",
+        "weight_pct": 0.35
+      },
+      {
+        "name": "Aditya Birla Capital Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.34
+      },
+      {
+        "name": "LIC Housing Finance Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.33
+      },
+      {
+        "name": "ITC Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 0.32
+      },
+      {
+        "name": "Hindalco Industries Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.3
+      },
+      {
+        "name": "Varun Beverages Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 0.28
+      },
+      {
+        "name": "JSW Steel Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.27
+      },
+      {
+        "name": "One 97 Communications Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.25
+      },
+      {
+        "name": "Oil & Natural Gas Corporation Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 0.21
+      },
+      {
+        "name": "Tata Power Company Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 0.2
+      },
+      {
+        "name": "Dabur India Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 0.17
+      },
+      {
+        "name": "Crompton Greaves Consumer Electricals Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 0.17
+      },
+      {
+        "name": "Aurobindo Pharma Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 0.14
+      },
+      {
+        "name": "PNB Housing Finance Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.1
+      },
+      {
+        "name": "Inox Wind Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.09
+      },
+      {
+        "name": "Divi's Laboratories Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 0.08
+      },
+      {
+        "name": "Larsen & Toubro Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.08
+      },
+      {
+        "name": "The Federal Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.08
+      },
+      {
+        "name": "Godrej Properties Ltd",
+        "sector": "Real Estate",
+        "instrument": "Equity",
+        "weight_pct": 0.08
+      },
+      {
+        "name": "ICICI Lombard General Insurance Company Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.08
+      },
+      {
+        "name": "Tata Motors Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 0.06
+      },
+      {
+        "name": "Tata Consumer Products Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 0.06
+      },
+      {
+        "name": "Yes Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.06
+      },
+      {
+        "name": "Hindustan Unilever Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 0.05
+      },
+      {
+        "name": "Indian Oil Corporation Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 0.05
+      },
+      {
+        "name": "Solar Industries India Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.04
+      },
+      {
+        "name": "Asian Paints Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.04
+      },
+      {
+        "name": "Power Grid Corporation of India Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 0.02
+      },
+      {
+        "name": "AU Small Finance Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.02
+      },
+      {
+        "name": "SBI Life Insurance Company Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.01
+      },
+      {
+        "name": "TVS Motor Company Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 0.01
+      },
+      {
+        "name": "Fortis Healthcare Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 0.01
+      },
+      {
+        "name": "Zydus Lifesciences Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 0.01
+      },
+      {
+        "name": "Torrent Pharmaceuticals Ltd",
+        "sector": "Healthcare",
+        "instrument": "Equity",
+        "weight_pct": 0.01
+      },
+      {
+        "name": "Bajaj Finserv Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.01
+      },
+      {
+        "name": "HDFC Life Insurance Co Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.0
+      },
+      {
+        "name": "Cholamandalam Investment & Finance Company Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.0
+      },
+      {
+        "name": "Cholamandalam Investment and Finance Company Ltd September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "HDFC Life Insurance Company Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "Bajaj Finserv Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.01
+      },
+      {
+        "name": "Torrent Pharmaceuticals Limited September 2026 Future",
+        "sector": "Healthcare",
+        "instrument": "Futures",
+        "weight_pct": -0.01
+      },
+      {
+        "name": "Zydus Lifesciences Limited September 2026 Future",
+        "sector": "Healthcare",
+        "instrument": "Futures",
+        "weight_pct": -0.01
+      },
+      {
+        "name": "Fortis Healthcare Limited September 2026 Future",
+        "sector": "Healthcare",
+        "instrument": "Futures",
+        "weight_pct": -0.01
+      },
+      {
+        "name": "TVS Motor Company Limited September 2026 Future",
+        "sector": "Consumer Discretionary",
+        "instrument": "Futures",
+        "weight_pct": -0.01
+      },
+      {
+        "name": "SBI Life Insurance Company Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.01
+      },
+      {
+        "name": "AU Small Finance Bank Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.02
+      },
+      {
+        "name": "Power Grid Corporation of India Limited September 2026 Future",
+        "sector": "Energy & Utilities",
+        "instrument": "Futures",
+        "weight_pct": -0.02
+      },
+      {
+        "name": "Asian Paints Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.03
+      },
+      {
+        "name": "Solar Industries India Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.04
+      },
+      {
+        "name": "Indian Oil Corporation Ltd-SEP2026",
+        "sector": "Energy & Utilities",
+        "instrument": "Futures",
+        "weight_pct": -0.05
+      },
+      {
+        "name": "Hindustan Unilever Limited September 2026 Future",
+        "sector": "Consumer Staples",
+        "instrument": "Futures",
+        "weight_pct": -0.05
+      },
+      {
+        "name": "Yes Bank Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.05
+      },
+      {
+        "name": "Tata Consumer Products Limited September 2026 Future",
+        "sector": "Consumer Staples",
+        "instrument": "Futures",
+        "weight_pct": -0.06
+      },
+      {
+        "name": "TATA MOTORS PASSENGER VEHICLES LTD.-SEP2026",
+        "sector": "Consumer Discretionary",
+        "instrument": "Futures",
+        "weight_pct": -0.06
+      },
+      {
+        "name": "ICICI Lombard General Insurance Company Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.08
+      },
+      {
+        "name": "Godrej Properties Limited September 2026 Future",
+        "sector": "Real Estate",
+        "instrument": "Futures",
+        "weight_pct": -0.08
+      },
+      {
+        "name": "The Federal Bank Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.08
+      },
+      {
+        "name": "Divi's Laboratories Limited September 2026 Future",
+        "sector": "Healthcare",
+        "instrument": "Futures",
+        "weight_pct": -0.08
+      },
+      {
+        "name": "Larsen & Toubro Limited September 2026 Future",
+        "sector": "Industrials",
+        "instrument": "Futures",
+        "weight_pct": -0.08
+      },
+      {
+        "name": "Inox Wind Limited September 2026 Future",
+        "sector": "Industrials",
+        "instrument": "Futures",
+        "weight_pct": -0.09
+      },
+      {
+        "name": "PNB Housing Finance Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.11
+      },
+      {
+        "name": "Aurobindo Pharma Ltd-Equ SEP-2026",
+        "sector": "Healthcare",
+        "instrument": "Futures",
+        "weight_pct": -0.14
+      },
+      {
+        "name": "Crompton Greaves Consumer Electricals Limited September 2026 Future",
+        "sector": "Consumer Discretionary",
+        "instrument": "Futures",
+        "weight_pct": -0.17
+      },
+      {
+        "name": "Dabur India Limited September 2026 Future",
+        "sector": "Consumer Staples",
+        "instrument": "Futures",
+        "weight_pct": -0.17
+      },
+      {
+        "name": "Tata Power Company Limited September 2026 Future",
+        "sector": "Energy & Utilities",
+        "instrument": "Futures",
+        "weight_pct": -0.21
+      },
+      {
+        "name": "Oil & Natural Gas Corporation Limited September 2026 Future",
+        "sector": "Energy & Utilities",
+        "instrument": "Futures",
+        "weight_pct": -0.21
+      },
+      {
+        "name": "One 97 Communications Limited September 2026 Future",
+        "sector": "Industrials",
+        "instrument": "Futures",
+        "weight_pct": -0.25
+      },
+      {
+        "name": "Net Payables",
+        "sector": "Unspecified",
+        "instrument": "Net Payables",
+        "weight_pct": -0.25
+      },
+      {
+        "name": "JSW Steel Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.28
+      },
+      {
+        "name": "Varun Beverages Limited September 2026 Future",
+        "sector": "Consumer Staples",
+        "instrument": "Futures",
+        "weight_pct": -0.28
+      },
+      {
+        "name": "Hindalco Industries Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.31
+      },
+      {
+        "name": "LIC Housing Finance Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.33
+      },
+      {
+        "name": "ITC Limited September 2026 Future",
+        "sector": "Consumer Staples",
+        "instrument": "Futures",
+        "weight_pct": -0.33
+      },
+      {
+        "name": "Aditya Birla Capital Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.34
+      },
+      {
+        "name": "Coal India Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.39
+      },
+      {
+        "name": "Indus Towers Limited September 2026 Future",
+        "sector": "Technology",
+        "instrument": "Futures",
+        "weight_pct": -0.39
+      },
+      {
+        "name": "Jio Financial Services Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.4
+      },
+      {
+        "name": "Steel Authority of India Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.44
+      },
+      {
+        "name": "Biocon Limited September 2026 Future",
+        "sector": "Healthcare",
+        "instrument": "Futures",
+        "weight_pct": -0.47
+      },
+      {
+        "name": "Glenmark Pharmaceuticals Limited September 2026 Future",
+        "sector": "Healthcare",
+        "instrument": "Futures",
+        "weight_pct": -0.5
+      },
+      {
+        "name": "The Indian Hotels Company Limited September 2026 Future",
+        "sector": "Consumer Discretionary",
+        "instrument": "Futures",
+        "weight_pct": -0.57
+      },
+      {
+        "name": "UltraTech Cement Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.57
+      },
+      {
+        "name": "NTPC Limited September 2026 Future",
+        "sector": "Energy & Utilities",
+        "instrument": "Futures",
+        "weight_pct": -0.57
+      },
+      {
+        "name": "Cipla Limited September 2026 Future",
+        "sector": "Healthcare",
+        "instrument": "Futures",
+        "weight_pct": -0.59
+      },
+      {
+        "name": "NBCC (India) Limited September 2026 Future",
+        "sector": "Industrials",
+        "instrument": "Futures",
+        "weight_pct": -0.62
+      },
+      {
+        "name": "Bandhan Bank Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.68
+      },
+      {
+        "name": "Bajaj Finance Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.73
+      },
+      {
+        "name": "Life Insurance Corporation Of India September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.79
+      },
+      {
+        "name": "Bank of Baroda September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.79
+      },
+      {
+        "name": "Grasim Industries Ltd.-SEP2026",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.81
+      },
+      {
+        "name": "DLF Limited September 2026 Future",
+        "sector": "Real Estate",
+        "instrument": "Futures",
+        "weight_pct": -0.83
+      },
+      {
+        "name": "GMR Airports Limited September 2026 Future",
+        "sector": "Industrials",
+        "instrument": "Futures",
+        "weight_pct": -0.89
+      },
+      {
+        "name": "Hindustan Aeronautics Limited September 2026 Future",
+        "sector": "Industrials",
+        "instrument": "Futures",
+        "weight_pct": -1.01
+      },
+      {
+        "name": "Sun Pharmaceutical Industries Limited September 2026 Future",
+        "sector": "Healthcare",
+        "instrument": "Futures",
+        "weight_pct": -1.08
+      },
+      {
+        "name": "Punjab National Bank September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -1.09
+      },
+      {
+        "name": "UltraTech Cement Limited October 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -1.2
+      },
+      {
+        "name": "Mahindra & Mahindra Limited September 2026 Future",
+        "sector": "Consumer Discretionary",
+        "instrument": "Futures",
+        "weight_pct": -1.51
+      },
+      {
+        "name": "Eicher Motors Ltd.-SEP2026",
+        "sector": "Consumer Discretionary",
+        "instrument": "Futures",
+        "weight_pct": -1.55
+      },
+      {
+        "name": "NMDC Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -1.7
+      },
+      {
+        "name": "Tata Steel Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -1.99
+      },
+      {
+        "name": "Bharat Electronics Limited September 2026 Future",
+        "sector": "Industrials",
+        "instrument": "Futures",
+        "weight_pct": -2.0
+      },
+      {
+        "name": "IDFC First Bank Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -2.13
+      },
+      {
+        "name": "State Bank of India September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -2.54
+      },
+      {
+        "name": "Bharat Heavy Electricals Limited September 2026 Future",
+        "sector": "Industrials",
+        "instrument": "Futures",
+        "weight_pct": -3.09
+      },
+      {
+        "name": "Kotak Mahindra Bank Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -4.07
+      },
+      {
+        "name": "Bharti Airtel Ltd-SEP2026",
+        "sector": "Technology",
+        "instrument": "Futures",
+        "weight_pct": -4.48
+      },
+      {
+        "name": "Reliance Industries Limited September 2026 Future",
+        "sector": "Energy & Utilities",
+        "instrument": "Futures",
+        "weight_pct": -4.49
+      },
+      {
+        "name": "Axis Bank Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -4.6
+      },
+      {
+        "name": "Canara Bank September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -5.51
+      },
+      {
+        "name": "HDFC Bank Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -5.9
+      },
+      {
+        "name": "ICICI Bank Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -5.98
+      }
+    ],
+    "holdings_as_of": "2026-08-31",
+    "risk_ratios": {
+      "sharpe_ratio": null,
+      "sortino_ratio": null,
+      "alpha": null,
+      "beta": 0.5,
+      "standard_deviation": null,
+      "information_ratio": null
+    },
+    "groww_analysis": [
+      {
+        "kind": "PROS",
+        "text": "Lower expense ratio: 0.99%"
+      },
+      {
+        "kind": "PROS",
+        "text": "1Y annualised returns higher than category average by 0.32%"
+      },
+      {
+        "kind": "CONS",
+        "text": "Low rating: 2"
+      },
+      {
+        "kind": "PROS",
+        "text": "Lower base expense ratio: 0.19%"
+      }
+    ],
+    "returns": {
+      "basis": "annualised",
+      "periods": [
+        "3M",
+        "6M",
+        "1Y",
+        "All"
+      ],
+      "rows": {
+        "Fund returns": {
+          "3M": "+1.4%",
+          "6M": "+3.1%",
+          "1Y": "+6.5%",
+          "All": "+21.7%"
+        },
+        "Category average (Hybrid Arbitrage)": {
+          "3M": "+1.5%",
+          "6M": "+3.1%",
+          "1Y": "+6.6%",
+          "All": "+47.3%"
+        },
+        "Rank (Hybrid Arbitrage)": {
+          "3M": "31",
+          "6M": "23",
+          "1Y": "27",
+          "All": null
+        }
+      }
+    }
+  },
+  {
+    "scheme_id": "parag-parikh-dynamic-asset-allocation-fund-direct-growth",
+    "source_url": "https://groww.in/mutual-funds/parag-parikh-dynamic-asset-allocation-fund-direct-growth",
+    "scraped_at": "2026-10-04T12:26:15",
+    "scheme_name": "Parag Parikh Dynamic Asset Allocation Fund Direct Growth",
+    "fund_house": "PPFAS Mutual Fund",
+    "category": "Hybrid",
+    "sub_category": "Dynamic Asset Allocation",
+    "plan_type": "Direct",
+    "riskometer": "High Risk",
+    "benchmark": "CRISIL Hybrid 50+50 Moderate Index",
+    "launch_date": "27-Feb-2024",
+    "expense_ratio": "0.41%",
+    "exit_load": "Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 1 year.",
+    "stamp_duty": "0.005% (from July 1st, 2020)",
+    "lock_in": null,
+    "min_sip": 1000,
+    "min_lumpsum": 5000,
+    "min_additional": 500,
+    "nav": 11.7361,
+    "nav_date": "01-Oct-2026",
+    "aum_cr": 2574.82,
+    "tax_implication": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.",
+    "objective": "The Scheme seeks to generate income/long term capital appreciation by investing in equity, equity derivatives, fixed income instruments. The allocation between equity instruments and fixed income will be managed dynamically so as to provide investors with long term capital appreciation while managing downside risk.",
+    "registrar": "Cams",
+    "registrar_website": "www.camsonline.com",
+    "fund_managers": [
+      {
+        "name": "Tejas Soman",
+        "since": "2025-09-01",
+        "education": "Mr. Soman has done B.Com from University of Mumbai and Post Graduate Program in Securities Markets - From ‘NISM’",
+        "experience": "Prior to joining PPFAS Mutual Fund, he was associated with SBI MF, Yes Bank Limited, STCI Primary Dealership and PricewaterhouseCoopers"
+      },
+      {
+        "name": "Rajeev Thakkar",
+        "since": "2024-02-20",
+        "education": "Mr.Thakkar is a Chartered Accountant, Cost Accountant, CFA, and CFP.",
+        "experience": "He has been associated with PPFAS AMC since 2013."
+      },
+      {
+        "name": "Raj Mehta",
+        "since": "2024-02-20",
+        "education": "Mr. Mehta is a Commerce Graduate from University of Mumbai (N.M. College) ; Fellow Member of Institute of Chartered Accountants of India (ICAI) ; CFA Charter Holder.",
+        "experience": "Beginning his career as an intern with PPFAS Mutual Fund in 2012, he swiftly moved up the ranks, and is currently part of the Fund Management team."
+      },
+      {
+        "name": "Raunak Onkar",
+        "since": "2024-02-20",
+        "education": "Mr.Onkar is an MMS (Finance) from the University of Mumbai.",
+        "experience": "He joined PPFAS as a research analyst. He was appointed as Head- research in the year 2011. He is working with the company as an Associate Fund Manager."
+      },
+      {
+        "name": "Mansi Kariya",
+        "since": "2024-02-20",
+        "education": "Ms. Karia has done B.Com, MS Finance and CFA",
+        "experience": "Prior to joining PPFAS AMC, she has worked with Insync and Zacks Investment Research"
+      },
+      {
+        "name": "Rukun Tarachandani",
+        "since": "2024-02-20",
+        "education": "Mr. Tarachandani has done B Tech (Information Technology), PGPM (Finance), CFA and CQF.",
+        "experience": "Prior to joining PPFAS Mutual Fund, he has worked with Kotak Mutual Fund, Goldman Sachs, Unnati Investment Management & Research Group."
+      }
+    ],
+    "holdings": [
+      {
+        "name": "Cash Margin",
+        "sector": "Unspecified",
+        "instrument": "Cash Margin",
+        "weight_pct": 8.33
+      },
+      {
+        "name": "Reverse Repo",
+        "sector": "Unspecified",
+        "instrument": "Reverse Repo",
+        "weight_pct": 5.69
+      },
+      {
+        "name": "Brookfield India Real Estate Trust REIT",
+        "sector": "Real Estate",
+        "instrument": "Real Estate Investment Trusts",
+        "weight_pct": 5.6
+      },
+      {
+        "name": "Embassy Office Parks REIT",
+        "sector": "Real Estate",
+        "instrument": "Real Estate Investment Trusts",
+        "weight_pct": 5.53
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 36976 TN 21JN32 7.21 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 3.86
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 37102 TN 18FB32 7.12 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 3.85
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32666 MH 01MR31 7.72 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 2.97
+      },
+      {
+        "name": "Petronet LNG Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 2.92
+      },
+      {
+        "name": "7.49% Embassy Off Park RE NCD Sr XVII (22/06/2029)",
+        "sector": "Real Estate",
+        "instrument": "Non Convertible Debenture",
+        "weight_pct": 2.89
+      },
+      {
+        "name": "Coal India Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 2.81
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32477 KAR 04JN33 7.6 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 2.75
+      },
+      {
+        "name": "PPFAS Liquid Fund Direct - Growth",
+        "sector": "Unspecified",
+        "instrument": "Mutual Fund",
+        "weight_pct": 2.71
+      },
+      {
+        "name": "Power Grid Corporation of India Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 2.59
+      },
+      {
+        "name": "Knowledge Realty Trust",
+        "sector": "Real Estate",
+        "instrument": "Real Estate Investment Trusts",
+        "weight_pct": 2.4
+      },
+      {
+        "name": "ITC Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 2.33
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 31864 GUJ 03AG32 7.61 FV RS 100",
+        "sector": "Industrials",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.97
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25B 7.64 BD 06DC29 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Bonds",
+        "weight_pct": 1.94
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 30045 UP 17FB31 7.08 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.93
+      },
+      {
+        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VII 7.42 BD 12MR29 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Bonds/NCDs",
+        "weight_pct": 1.93
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 36388 GUJ 03SP31 7.01 FV RS 100",
+        "sector": "Industrials",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.93
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 30043 TN 17FB31 6.95 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.93
+      },
+      {
+        "name": "BAJAJ FINANCE LIMITED 7.3763 NCD 26JU28 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Debenture",
+        "weight_pct": 1.92
+      },
+      {
+        "name": "BAJAJ FINANCE LIMITED NCD 7.38 28JU30 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Debenture",
+        "weight_pct": 1.9
+      },
+      {
+        "name": "Reliance Industries Ltd",
+        "sector": "Energy & Utilities",
+        "instrument": "Equity",
+        "weight_pct": 1.61
+      },
+      {
+        "name": "HDFC Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 1.59
+      },
+      {
+        "name": "Bharti Airtel Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 1.55
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32211 GUJ 12OT32 7.81 FV RS 100",
+        "sector": "Industrials",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.39
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 33604 KAR 08NV33 7.7 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 1.38
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32705 MH 08MR31 7.7 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.99
+      },
+      {
+        "name": "GOVERNMENT OF INDIA 34587 GOI 18JU31 7.02 FV RS 100",
+        "sector": "Entities",
+        "instrument": "GOI Securities",
+        "weight_pct": 0.99
+      },
+      {
+        "name": "Maharashtra State SDL 7.72 23/03/2032",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.99
+      },
+      {
+        "name": "Swaraj Engines Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.99
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32964 MH 31MY31 7.33 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.98
+      },
+      {
+        "name": "TATA CAPITAL LIMITED SR C 8.15 NCD 11JU29 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Non Convertible Debenture",
+        "weight_pct": 0.97
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32907 TN 10MY33 7.39 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.97
+      },
+      {
+        "name": "LIC HOUSING FINANCE LTD TR 444 7.75 NCD 23AG29 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Debenture",
+        "weight_pct": 0.97
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 37155 KAR 04SP34 7.38 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.97
+      },
+      {
+        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR VIII 7.49 BD 11JU29 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Bonds",
+        "weight_pct": 0.97
+      },
+      {
+        "name": "LIC HOUSING FINANCE LTD TR 447 7.57 NCD 18OT29 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Bonds/Debentures",
+        "weight_pct": 0.96
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25D 7.40 BD 29AP30 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Bonds",
+        "weight_pct": 0.96
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 35726 MP 19MR32 7.14 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.96
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 35772 MP 26MR32 7.05 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.96
+      },
+      {
+        "name": "LIC HOUSING FINANCE LTD TR 455 7.07 NCD 29AP30 FVRS1LAC",
+        "sector": "Financial",
+        "instrument": "Bonds",
+        "weight_pct": 0.95
+      },
+      {
+        "name": "Nesco Ltd",
+        "sector": "Real Estate",
+        "instrument": "Equity",
+        "weight_pct": 0.92
+      },
+      {
+        "name": "7.73% Maharashta State Government Securities",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.91
+      },
+      {
+        "name": "Power Finance Corporation Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.91
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 30426 MH 25MY31 6.78 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.76
+      },
+      {
+        "name": "Coforge Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 0.75
+      },
+      {
+        "name": "VST Industries Ltd",
+        "sector": "Consumer Staples",
+        "instrument": "Equity",
+        "weight_pct": 0.73
+      },
+      {
+        "name": "Kotak Mahindra Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.71
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 33059 MH 14JU31 7.34 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.59
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32188 MH 04OT30 7.76 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.4
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 33549 TN 25OT30 7.68 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.4
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 32191 RAJ 04OT32 7.79 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.4
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 33903 TN 31JN31 7.6 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.39
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 31652 MH 25MY32 7.7 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.39
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 34533 TN 29MY33 7.38 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.39
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 33247 TN 26JL33 7.39 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.39
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 35559 KAR 12FB31 7.08 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.39
+      },
+      {
+        "name": "INDIGRID INFRASTRUCTURE TRUST SR AF 7.07 NCD 20JU30 FVRS1LAC",
+        "sector": "Industrials",
+        "instrument": "Bonds",
+        "weight_pct": 0.38
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 31028 KAR 08DC32 6.88 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.38
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 31127 KAR 15DC33 6.89 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.38
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 29856 KAR 30DC32 6.62 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.37
+      },
+      {
+        "name": "Ultratech Cement Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.36
+      },
+      {
+        "name": "Mahindra & Mahindra Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 0.35
+      },
+      {
+        "name": "Tata Steel Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.29
+      },
+      {
+        "name": "DLF Ltd",
+        "sector": "Real Estate",
+        "instrument": "Equity",
+        "weight_pct": 0.26
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 20956 AP 24OT30  8.68 FV RS 100",
+        "sector": "Financial",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.2
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 22946 KAR 08AP31 7.93 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.2
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 31648 AP 25MY31 7.67 FV RS 100",
+        "sector": "Financial",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.2
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 33582 RAJ 01NV33 7.73 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.2
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 33086 TN 21JU33 7.39 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.19
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 30141 UP 10MR31 7.17 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.19
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 22779 AP 04MR31 7.15 FV RS 100",
+        "sector": "Financial",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.19
+      },
+      {
+        "name": "STATE DEVELOPMENT LOAN 30807 RAJ 29SP33 6.94 FV RS 100",
+        "sector": "Unspecified",
+        "instrument": "State Development Loan",
+        "weight_pct": 0.19
+      },
+      {
+        "name": "GOVERNMENT OF INDIA 37631 364 DAYS TBILL 01JL27 FV RS 100",
+        "sector": "Financial",
+        "instrument": "Treasury Bills",
+        "weight_pct": 0.19
+      },
+      {
+        "name": "Titan Company Ltd",
+        "sector": "Consumer Discretionary",
+        "instrument": "Equity",
+        "weight_pct": 0.17
+      },
+      {
+        "name": "NMDC Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.16
+      },
+      {
+        "name": "Bajaj Finserv Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.14
+      },
+      {
+        "name": "Aditya Birla Capital Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.1
+      },
+      {
+        "name": "Bharat Heavy Electricals Ltd",
+        "sector": "Industrials",
+        "instrument": "Equity",
+        "weight_pct": 0.09
+      },
+      {
+        "name": "Indus Towers Ltd",
+        "sector": "Technology",
+        "instrument": "Equity",
+        "weight_pct": 0.06
+      },
+      {
+        "name": "SBI Life Insurance Company Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.04
+      },
+      {
+        "name": "Ambuja Cements Ltd",
+        "sector": "Materials",
+        "instrument": "Equity",
+        "weight_pct": 0.04
+      },
+      {
+        "name": "Bandhan Bank Ltd",
+        "sector": "Financial",
+        "instrument": "Equity",
+        "weight_pct": 0.0
+      },
+      {
+        "name": "Power Grid Corporation of India Limited 290 Call September 2026 Option",
+        "sector": "Energy & Utilities",
+        "instrument": "Call Option",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "Coal India Limited 430 Call September 2026 Option",
+        "sector": "Materials",
+        "instrument": "Call Option",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "Bandhan Bank Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.0
+      },
+      {
+        "name": "Ambuja Cements Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.04
+      },
+      {
+        "name": "SBI Life Insurance Company Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.04
+      },
+      {
+        "name": "Bharat Heavy Electricals Limited September 2026 Future",
+        "sector": "Industrials",
+        "instrument": "Futures",
+        "weight_pct": -0.09
+      },
+      {
+        "name": "Aditya Birla Capital Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.1
+      },
+      {
+        "name": "Bajaj Finserv Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.14
+      },
+      {
+        "name": "NMDC Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.16
+      },
+      {
+        "name": "Titan Company Limited September 2026 Future",
+        "sector": "Consumer Discretionary",
+        "instrument": "Futures",
+        "weight_pct": -0.18
+      },
+      {
+        "name": "DLF Limited September 2026 Future",
+        "sector": "Real Estate",
+        "instrument": "Futures",
+        "weight_pct": -0.25
+      },
+      {
+        "name": "Tata Steel Limited September 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.29
+      },
+      {
+        "name": "Mahindra & Mahindra Limited September 2026 Future",
+        "sector": "Consumer Discretionary",
+        "instrument": "Futures",
+        "weight_pct": -0.36
+      },
+      {
+        "name": "UltraTech Cement Limited October 2026 Future",
+        "sector": "Materials",
+        "instrument": "Futures",
+        "weight_pct": -0.36
+      },
+      {
+        "name": "Kotak Mahindra Bank Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -0.72
+      },
+      {
+        "name": "Coforge Ltd (Pre NIIT Technologies Limited) SEP-2026",
+        "sector": "Technology",
+        "instrument": "Futures",
+        "weight_pct": -0.75
+      },
+      {
+        "name": "Net Payables",
+        "sector": "Unspecified",
+        "instrument": "Net Payables",
+        "weight_pct": -1.16
+      },
+      {
+        "name": "Bharti Airtel Ltd-SEP2026",
+        "sector": "Technology",
+        "instrument": "Futures",
+        "weight_pct": -1.6
+      },
+      {
+        "name": "HDFC Bank Limited September 2026 Future",
+        "sector": "Financial",
+        "instrument": "Futures",
+        "weight_pct": -1.61
+      },
+      {
+        "name": "Reliance Industries Limited September 2026 Future",
+        "sector": "Energy & Utilities",
+        "instrument": "Futures",
+        "weight_pct": -1.64
+      }
+    ],
+    "holdings_as_of": "2026-08-31",
+    "risk_ratios": {
+      "sharpe_ratio": null,
+      "sortino_ratio": null,
+      "alpha": null,
+      "beta": 0.4,
+      "standard_deviation": null,
+      "information_ratio": null
+    },
+    "groww_analysis": [
+      {
+        "kind": "PROS",
+        "text": "Lower expense ratio: 0.41%"
+      },
+      {
+        "kind": "CONS",
+        "text": "1Y annualised returns lower than category average by 1.77%"
+      },
+      {
+        "kind": "PROS",
+        "text": "Lower base expense ratio: 0.23%"
+      }
+    ],
+    "returns": {
+      "basis": "annualised",
+      "periods": [
+        "3M",
+        "6M",
+        "1Y",
+        "All"
+      ],
+      "rows": {
+        "Fund returns": {
+          "3M": "-1.0%",
+          "6M": "+2.5%",
+          "1Y": "+2.8%",
+          "All": "+17.4%"
+        },
+        "Category average (Hybrid Dynamic Asset Allocation)": {
+          "3M": "-2.0%",
+          "6M": "+4.9%",
+          "1Y": "+0.4%",
+          "All": "+107.6%"
+        },
+        "Rank (Hybrid Dynamic Asset Allocation)": {
+          "3M": "7",
+          "6M": "36",
+          "1Y": "5",
+          "All": null
+        }
+      }
+    }
+  }
+]

@@ -25,6 +25,24 @@ STRUCTURED_JSON_PATH = DATA_DIR / "json_files" / "parag_parikh_structured_db.jso
 CHUNKABLE_JSON_PATH = DATA_DIR / "json_files" / "chunkable_ppfas.json"
 SQLITE_PATH = DATA_DIR / "structured_data" / "structured.sqlite"
 
+# Knowledge pages (Groww help-centre MF FAQs + blogs): a separate crawl job
+SUPPORT_SITEMAP_URL = "https://groww.in/support-sitemap.xml"
+KNOWLEDGE_URL_PREFIX = "https://groww.in/help/mutual-funds/"
+EXTRA_KNOWLEDGE_URLS = [
+    "https://groww.in/blog/what-are-mutual-funds",
+    "https://groww.in/blog/mutual-funds-things-you-should-know-as-a-beginner",
+]
+KNOWLEDGE_URLS_PATH = DATA_DIR / "json_files" / "knowledge_urls.json"
+RAW_KNOWLEDGE_DIR = DATA_DIR / "raw" / "knowledge"
+
+# Extraction outputs (rebuilt from raw files; replace the notebook-era JSONs above)
+PROCESSED_DIR = DATA_DIR / "processed"
+SCHEME_FACTS_PATH = PROCESSED_DIR / "scheme_facts.json"
+SCHEME_FAQS_PATH = PROCESSED_DIR / "scheme_faqs.json"
+KNOWLEDGE_PATH = PROCESSED_DIR / "knowledge.json"
+DOCUMENTS_PATH = PROCESSED_DIR / "documents.jsonl"  # hand-off to Phase 2 (chunking + embedding)
+SOURCES_CSV_PATH = REPO_ROOT / "sources.csv"         # deliverable: every source URL used
+
 # Offline outputs (index), loaded by the online app
 FAISS_INDEX_DIR = DATA_DIR / "index" / "faiss"
 
