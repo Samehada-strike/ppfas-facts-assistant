@@ -20,12 +20,11 @@ import re
 
 from mf_assistant import config
 from mf_assistant.ingest.clean import remove_urls_from_markdown
-from mf_assistant.ingest.crawl_knowledge import raw_name
+from mf_assistant.ingest.crawl_knowledge import ERROR_MARKER, raw_name
 from mf_assistant.ingest.extract_scheme import split_sections
 from mf_assistant.ingest.manifest import load_manifest
 
 MAX_FAILURE_RATE = 0.10
-MIN_ANSWER_CHARS = 20
 
 
 def clean_text(md: str) -> str:
@@ -47,14 +46,16 @@ def extract_help_article(md: str) -> dict | None:
     """Return {"question", "answer"}; None if the article exists but couldn't be parsed."""
     h1s = list(re.finditer(r"^# (.+)$", md, re.M))
     # A real article page has two H1s: the "Customer Support" banner, then the question.
-    # Retired articles still listed in the sitemap render only the banner (or Groww's error screen).
-    if len(h1s) < 2 or "Some Error Occured" in md:
+    # Broken articles render only the banner, or Groww's error screen even after retries.
+    if len(h1s) < 2 or ERROR_MARKER in md:
         raise DeadPage
     question = h1s[-1].group(1).strip()
-    body = md[h1s[-1].end():].split("Was the answer helpful?")[0]
-    answer = clean_text(body)
-    if len(answer) < MIN_ANSWER_CHARS:
-        return None
+    rest = md[h1s[-1].end():]
+    if "Was the answer helpful?" not in rest:
+        return None  # our end-of-answer marker is gone: the page layout changed (our problem)
+    answer = clean_text(rest.split("Was the answer helpful?")[0])
+    if not answer:
+        raise DeadPage  # question published with a blank answer (Groww's problem)
     return {"question": question, "answer": answer}
 
 
