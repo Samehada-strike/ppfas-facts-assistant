@@ -83,4 +83,5 @@ HELP_CENTRE_URL = "https://groww.in/help/mutual-funds"  # PII refusals, off-topi
 EDUCATION_URL = "https://groww.in/blog/mutual-funds-things-you-should-know-as-a-beginner"  # advice/comparison refusals
 
 # === CHAT HISTORY ===
-HISTORY_TURNS = 4  # recent turns kept in memory (never written to disk) to resolve follow-ups
+USE_CHAT_HISTORY = False  # off: each question is answered on its own (no condense LLM call, nothing remembered)
+HISTORY_TURNS = 4         # when on: recent turns kept in memory (never written to disk) to resolve follow-ups
