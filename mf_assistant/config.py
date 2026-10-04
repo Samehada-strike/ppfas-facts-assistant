@@ -82,6 +82,9 @@ DISCLAIMER = "Facts-only. No investment advice."
 HELP_CENTRE_URL = "https://groww.in/help/mutual-funds"  # PII refusals, off-topic
 EDUCATION_URL = "https://groww.in/blog/mutual-funds-things-you-should-know-as-a-beginner"  # advice/comparison refusals
 
+# === DECOMPOSITION ===
+MAX_SUB_QUESTIONS = 3  # a mixed question is split into at most this many standalone parts
+
 # === CHAT HISTORY ===
 USE_CHAT_HISTORY = False  # off: each question is answered on its own (no condense LLM call, nothing remembered)
 HISTORY_TURNS = 4         # when on: recent turns kept in memory (never written to disk) to resolve follow-ups

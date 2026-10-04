@@ -24,7 +24,9 @@ _ADVICE_IN = [
     r"\bwhich is (better|best)\b",
     r"\b(is|are) (it|this|they|the \w+( \w+)? fund)( a)? (good|bad|safe|worth)\b",
     r"\bbetter than\b",
-    # performance comparisons
+]
+
+_COMPARISON_IN = [
     r"\bcompar\w*\b.*\b(returns?|performance|performed)\b",
     r"\b(highest|lowest|top|best|worst)[- ](returns?|performance|performing)\b",
     r"\b(outperform\w*|underperform\w*)\b",
@@ -40,11 +42,22 @@ _ADVICE_OUT = [
 ]
 
 _IN = [re.compile(p, re.I) for p in _ADVICE_IN]
+_CMP = [re.compile(p, re.I) for p in _COMPARISON_IN]
 _OUT = [re.compile(p, re.I) for p in _ADVICE_OUT]
 
 
+def refusal_kind(question: str) -> str | None:
+    """"refuse_comparison" | "refuse_advice" | None. Comparison is checked first: it's the more specific reply."""
+    if any(p.search(question) for p in _CMP):
+        return "refuse_comparison"
+    if any(p.search(question) for p in _IN):
+        return "refuse_advice"
+    return None
+
+
 def asks_for_advice(question: str) -> bool:
-    return any(p.search(question) for p in _IN)
+    """True for advice or performance-comparison requests."""
+    return refusal_kind(question) is not None
 
 
 def gives_advice(answer: str) -> bool:
