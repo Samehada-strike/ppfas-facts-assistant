@@ -63,6 +63,11 @@ LLM_MODEL_NAME = "gpt-4o-mini"
 
 # === RETRIEVAL ===
 RETRIEVAL_K = 5
+RRF_K = 60                 # Reciprocal Rank Fusion constant: score = Σ 1 / (RRF_K + rank)
+RRF_CANDIDATES = 20        # how many top results from each retriever enter the fusion
+RRF_WEIGHTS = {"dense": 1.0, "bm25": 0.25}  # weighted RRF: score = Σ w / (RRF_K + rank); bm25 weight tuned in eval_retrieval
+MIN_DENSE_COSINE = 0.30    # lenient "clearly unrelated" guard; in-scope terse questions score 0.34+, but finance-
+                           # adjacent off-topic ones score up to ~0.42, so finer scope decisions happen in routing
 
 # === PRODUCT / SCOPE ===
 AMC_NAME = "PPFAS Mutual Fund"
