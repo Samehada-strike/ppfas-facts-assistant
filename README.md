@@ -10,7 +10,7 @@ never accepts personal data.
 > or hold any fund. Past performance does not indicate future returns. Independent prototype, not affiliated
 > with Groww or PPFAS Mutual Fund.
 
-Built for Milestone 1 ("Mutual Fund FAQs, facts-only Q&A") of the RAG assignment. Product: **Groww**.
+Built for Milestone 1 ("Mutual Fund FAQs, facts-only Q&A") of the [RAG assignment](https://nextleap.app/course/generative-ai-course). Product: **Groww**.
 
 **Live app: https://ppfas-facts-assistant-25ej4ewnf9th28lhfj7pvr.streamlit.app/** (the first question after a
 period of inactivity takes ~30 s while the app wakes up and loads its knowledge base).
