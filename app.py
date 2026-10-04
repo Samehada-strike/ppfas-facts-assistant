@@ -68,7 +68,11 @@ def to_parts(reply) -> list[dict]:
 @st.cache_data
 def source_titles() -> dict[str, str]:
     with config.SOURCES_CSV_PATH.open(encoding="utf-8") as f:
-        return {r["url"]: r["title"] for r in csv.DictReader(f)}
+        titles = {r["url"]: r["title"] for r in csv.DictReader(f)}
+    # Links used by fixed replies (refusals, clarifications) aren't crawled sources
+    titles.setdefault(config.HELP_CENTRE_URL, "Mutual funds help centre")
+    titles.setdefault(config.AMC_SOURCE_URL, "PPFAS Mutual Fund schemes")
+    return titles
 
 
 def short_link(url: str) -> str:
